@@ -5,6 +5,7 @@
 - https://github.com/dragen1860/awesome-meta-learning
 
 # Github
+- Dataset and Benchmark: https://github.com/google-research/meta-dataset
 - Data Loader and Benchmark: https://github.com/tristandeleu/pytorch-meta
 - MAML pytorch: https://github.com/dragen1860/MAML-Pytorch
 - MAML Tensorflow (original): https://github.com/cbfinn/maml

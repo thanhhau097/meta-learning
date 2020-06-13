@@ -1,5 +1,5 @@
 # meta-learning
-
+This repository based on the survey paper: [Meta-Learning in Neural Networks: A Survey](http://arxiv.org/abs/2004.05439)
 # Documentations
 - [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning): A curated list of Meta Learning papers, code, books, blogs, videos, datasets and other resources.
 - https://github.com/dragen1860/awesome-meta-learning
@@ -9,3 +9,6 @@
 - Data Loader and Benchmark: https://github.com/tristandeleu/pytorch-meta
 - MAML pytorch: https://github.com/dragen1860/MAML-Pytorch
 - MAML Tensorflow (original): https://github.com/cbfinn/maml
+
+# Meta-Representation
+### Parameter Initialization

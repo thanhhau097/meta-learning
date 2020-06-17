@@ -11,4 +11,23 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
 - MAML Tensorflow (original): https://github.com/cbfinn/maml
 
 # Meta-Representation
-### Parameter Initialization
+Meta-learning methods make different choices about what ω should be, i.e. which aspects of the learning strategy should be learned; and (by exclusion) which aspects should be considered fixed
+### [Parameter Initialization]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -12,7 +12,7 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
 
 # Meta-Representation
 Meta-learning methods make different choices about what ω should be, i.e. which aspects of the learning strategy should be learned; and (by exclusion) which aspects should be considered fixed
-### [Parameter Initialization](meta-representation/parameter-initialization.md)
+- [Parameter Initialization](meta-representation/parameter-initialization.md)
 
 
 

@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from include_markdown import get_all_md_files
 
 SIGNAL = '<!-- REFERENCE -->'
 TEMPLATE = """
@@ -23,7 +24,7 @@ def fill(reference, reference_number, content):
     return TEMPLATE.format(reference_number,
                            reference[reference_number]['name'],
                            reference[reference_number]['markdown'],
-                           content)
+                           ''.join(content))
 
 
 def find_signal_index(content):
@@ -43,9 +44,7 @@ def process(file):
     with open(file, 'r') as f:
         content = f.readlines()
 
-
     start = find_signal_index(content)
-    print(start, len(content))
     if start == len(content):
         reference_content = content + ['\n', SIGNAL + '\n']
     else:
@@ -65,4 +64,10 @@ def process(file):
             f.write(line)
 
 
-process('test.md')
+def main():
+    md_files = get_all_md_files()
+    for file in md_files:
+        print("processing", file)
+        process(file)
+
+main()

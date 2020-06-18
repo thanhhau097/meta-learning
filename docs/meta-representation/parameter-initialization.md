@@ -15,44 +15,145 @@ a wide range of potential tasks, or if one is limited to fairly narrow distribut
 that model mixtures over multiple initial conditions [97], [100], [101].
 
 ## Reference
+
+<!-- REFERENCE -->
+
+
+<details>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<br>
+<!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
+
+# learning_to_learn_without_gradient_descent_by_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (one_shot_imitation_learning.md) -->
+
+# one_shot_imitation_learning.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
 <details>
 <summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
 <br>
-<!-- (../papers/model-agnostic_meta-learning_for_fast_adaptation_of_deep_networks.md) -->
-<div>
+<!-- (meta_learning_update_rules_for_unsupervised_representation_learning.md) -->
 
-</div>
+# meta_learning_update_rules_for_unsupervised_representation_learning.md
+
+<!-- REFERENCE -->
+
+
 </details>
+
 
 
 <details>
 <summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
 <br>
-<!-- (../papers/probabilistic_model_agnostic_meta_learning.md) -->
-<div>
+<!-- (adam_a_method_for_stochastic_optimization.md) -->
 
-</div>
+# adam_a_method_for_stochastic_optimization.md
+
+<!-- REFERENCE -->
+
+
 </details>
 
-
-<details>
-<summary>[96] Online Meta-learning</summary>
-<br>
-<!-- (../papers/online_metalearning.md) -->
-<div>
-
-</div>
-</details>
 
 
 <details>
 <summary>[74] Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace</summary>
 <br>
-<!-- (../papers/gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md) -->
-<div>
+<!-- (neural_turing_machines.md) -->
 
-</div>
+# neural_turing_machines.md
+
+<!-- REFERENCE -->
+
+
 </details>
 
 
-[](../papers/gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md)
+
+<details>
+<summary>[100] Multimodal Model-Agnostic Meta-Learning Via Task-Aware Modulation</summary>
+<br>
+<!-- (hypernetworks.md) -->
+
+# hypernetworks.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<br>
+<!-- (matching_networks_for_one_shot_learning.md) -->
+
+# matching_networks_for_one_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[101] Hierarchically Structured Meta-learning</summary>
+<br>
+<!-- (smash_oneshot_model_architecture_search_through_hypernetworks.md) -->
+
+# smash_oneshot_model_architecture_search_through_hypernetworks.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[99] Meta-Transfer Learning For Few-Shot Learning</summary>
+<br>
+<!-- (learning_to_reinforcement_learn.md) -->
+
+# learning_to_reinforcement_learn.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[96] Online Metalearning</summary>
+<br>
+<!-- (meta_curvature.md) -->
+
+# meta_curvature.md
+
+<!-- REFERENCE -->
+
+
+</details>
+

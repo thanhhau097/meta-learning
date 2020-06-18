@@ -20,67 +20,11 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<summary>[101] Hierarchically Structured Meta-learning</summary>
 <br>
-<!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
+<!-- (hierarchically_structured_meta_learning.md) -->
 
-# learning_to_learn_without_gradient_descent_by_gradient_descent.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[98] Learning To Learn By SelfCritique</summary>
-<br>
-<!-- (one_shot_imitation_learning.md) -->
-
-# one_shot_imitation_learning.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
-<br>
-<!-- (meta_learning_update_rules_for_unsupervised_representation_learning.md) -->
-
-# meta_learning_update_rules_for_unsupervised_representation_learning.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
-<br>
-<!-- (adam_a_method_for_stochastic_optimization.md) -->
-
-# adam_a_method_for_stochastic_optimization.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[74] Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace</summary>
-<br>
-<!-- (neural_turing_machines.md) -->
-
-# neural_turing_machines.md
+# hierarchically_structured_meta_learning.md
 
 <!-- REFERENCE -->
 
@@ -92,37 +36,9 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 <details>
 <summary>[100] Multimodal Model-Agnostic Meta-Learning Via Task-Aware Modulation</summary>
 <br>
-<!-- (hypernetworks.md) -->
+<!-- (multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md) -->
 
-# hypernetworks.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
-<br>
-<!-- (matching_networks_for_one_shot_learning.md) -->
-
-# matching_networks_for_one_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[101] Hierarchically Structured Meta-learning</summary>
-<br>
-<!-- (smash_oneshot_model_architecture_search_through_hypernetworks.md) -->
-
-# smash_oneshot_model_architecture_search_through_hypernetworks.md
+# multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md
 
 <!-- REFERENCE -->
 
@@ -134,9 +50,37 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 <details>
 <summary>[99] Meta-Transfer Learning For Few-Shot Learning</summary>
 <br>
-<!-- (learning_to_reinforcement_learn.md) -->
+<!-- (meta_transfer_learning_for_few_shot_learning.md) -->
 
-# learning_to_reinforcement_learn.md
+# meta_transfer_learning_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (learning_to_learn_by_selfcritique.md) -->
+
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[74] Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace</summary>
+<br>
+<!-- (gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md) -->
+
+# gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md
 
 <!-- REFERENCE -->
 
@@ -148,9 +92,65 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 <details>
 <summary>[96] Online Metalearning</summary>
 <br>
-<!-- (meta_curvature.md) -->
+<!-- (online_metalearning.md) -->
 
-# meta_curvature.md
+# online_metalearning.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
+<br>
+<!-- (probabilistic_model_agnostic_meta_learning.md) -->
+
+# probabilistic_model_agnostic_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<br>
+<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+
+# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<br>
+<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+
+# meta_learning_with_latent_embedding_optimization.md
 
 <!-- REFERENCE -->
 

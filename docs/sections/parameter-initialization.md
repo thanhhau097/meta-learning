@@ -34,11 +34,25 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[100] Multimodal Model-Agnostic Meta-Learning Via Task-Aware Modulation</summary>
+<summary>[98] Learning To Learn By SelfCritique</summary>
 <br>
-<!-- (multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md) -->
+<!-- (learning_to_learn_by_selfcritique.md) -->
 
-# multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
 
 <!-- REFERENCE -->
 
@@ -62,11 +76,11 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[98] Learning To Learn By SelfCritique</summary>
+<summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
 <br>
-<!-- (learning_to_learn_by_selfcritique.md) -->
+<!-- (probabilistic_model_agnostic_meta_learning.md) -->
 
-# learning_to_learn_by_selfcritique.md
+# probabilistic_model_agnostic_meta_learning.md
 
 <!-- REFERENCE -->
 
@@ -90,25 +104,11 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[96] Online Metalearning</summary>
+<summary>[100] Multimodal Model-Agnostic Meta-Learning Via Task-Aware Modulation</summary>
 <br>
-<!-- (online_metalearning.md) -->
+<!-- (multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md) -->
 
-# online_metalearning.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
-<br>
-<!-- (probabilistic_model_agnostic_meta_learning.md) -->
-
-# probabilistic_model_agnostic_meta_learning.md
+# multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md
 
 <!-- REFERENCE -->
 
@@ -132,11 +132,11 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<summary>[96] Online Metalearning</summary>
 <br>
-<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+<!-- (online_metalearning.md) -->
 
-# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+# online_metalearning.md
 
 <!-- REFERENCE -->
 

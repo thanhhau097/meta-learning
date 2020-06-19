@@ -9,20 +9,6 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 
 
 <details>
-<summary>[77] Learning To Optimize</summary>
-<br>
-<!-- (learning_to_optimize.md) -->
-
-# learning_to_optimize.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
 <summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
 <br>
 <!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
@@ -37,11 +23,25 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 
 
 <details>
-<summary>[91] Learned Optimizers That Scale And Generalize</summary>
+<summary>[77] Learning To Optimize</summary>
 <br>
-<!-- (learned_optimizers_that_scale_and_generalize.md) -->
+<!-- (learning_to_optimize.md) -->
 
-# learned_optimizers_that_scale_and_generalize.md
+# learning_to_optimize.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[103] Meta-Curvature</summary>
+<br>
+<!-- (meta_curvature.md) -->
+
+# meta_curvature.md
 
 <!-- REFERENCE -->
 
@@ -65,39 +65,11 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 
 
 <details>
-<summary>[70] Taking The Human Out Of The Loop: A Review Of Bayesian Optimization</summary>
-<br>
-<!-- (taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md) -->
-
-# taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
 <summary>[104] Learning To Learn Without Gradient Descent By Gradient Descent</summary>
 <br>
 <!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
 
 # learning_to_learn_without_gradient_descent_by_gradient_descent.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
-<br>
-<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
-
-# neural_optimizer_search_with_reinforcement_learning.md
 
 <!-- REFERENCE -->
 
@@ -121,11 +93,39 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 
 
 <details>
-<summary>[103] Meta-Curvature</summary>
+<summary>[70] Taking The Human Out Of The Loop: A Review Of Bayesian Optimization</summary>
 <br>
-<!-- (meta_curvature.md) -->
+<!-- (taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md) -->
 
-# meta_curvature.md
+# taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[91] Learned Optimizers That Scale And Generalize</summary>
+<br>
+<!-- (learned_optimizers_that_scale_and_generalize.md) -->
+
+# learned_optimizers_that_scale_and_generalize.md
+
+<!-- REFERENCE -->
+
+
+</details>
+
+
+
+<details>
+<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
+<br>
+<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
+
+# neural_optimizer_search_with_reinforcement_learning.md
 
 <!-- REFERENCE -->
 

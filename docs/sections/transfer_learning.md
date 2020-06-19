@@ -6,22 +6,6 @@ refers to a methodology which can be used to improve TL as well as other problem
 
 
 <details>
-<summary>[34] A Survey On Transfer Learning</summary>
-<br>
-<!-- (a_survey_on_transfer_learning.md) -->
-
-# a_survey_on_transfer_learning.md
-
-<!-- REFERENCE -->
-
-
-[A Survey On Transfer Learning](../papers/a_survey_on_transfer_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[56] How Transferable Are Features In Deep Neural Networks</summary>
 <br>
 <!-- (how_transferable_are_features_in_deep_neural_networks.md) -->
@@ -32,6 +16,22 @@ refers to a methodology which can be used to improve TL as well as other problem
 
 
 [How Transferable Are Features In Deep Neural Networks](../papers/how_transferable_are_features_in_deep_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[34] A Survey On Transfer Learning</summary>
+<br>
+<!-- (a_survey_on_transfer_learning.md) -->
+
+# a_survey_on_transfer_learning.md
+
+<!-- REFERENCE -->
+
+
+[A Survey On Transfer Learning](../papers/a_survey_on_transfer_learning.md)
 
 </details>
 

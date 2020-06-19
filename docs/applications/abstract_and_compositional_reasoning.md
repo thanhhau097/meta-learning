@@ -1,2 +1,6 @@
 # abstract_and_compositional_reasoning
+
+**Abstract** Reasoning A recent goal in deep learning re- search is to develop models that go beyond simple perception tasks to solving more abstract reasoning problems such as IQ tests in the form of Raven’s Progressive Ma- trices (RPMs) [274]. Solving RPMs can be seen as asking for few-shot generalization from the context panels to the answer panels. Recent meta-learning approaches to abstract reasoning with RPMs achieved significant improvement via meta-learning a teacher that defines the data generating dis- tribution for the panels [275]. The teacher is trained jointly with the student, and rewarded by the student’s progress, thus automatically defining an optimal curriculum.
+
+**Compositional Learning** One of the traits that allows humans to be good at problem solving is the ability to learn how to compose concepts. For example being able to take a newly learned verb and use it with all potential adverbs. Recently meta-learning approaches have been shown to im- prove such generalization ability by requiring compositional generalization between query and support sets during meta- training [276]. Such meta-learning regimes can also benefit fundamental challenges such as enabling sequence models to generalize to test sequences longer than observed during training [276].
 <!-- REFERENCE -->

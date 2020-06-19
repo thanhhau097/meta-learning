@@ -20,16 +20,32 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<summary>[101] Hierarchically Structured Meta-learning</summary>
 <br>
-<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+<!-- (hierarchically_structured_meta_learning.md) -->
 
-# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+# hierarchically_structured_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
+[Hierarchically Structured Meta-learning](../papers/hierarchically_structured_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
 
 </details>
 
@@ -68,32 +84,16 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[101] Hierarchically Structured Meta-learning</summary>
+<summary>[96] Online Metalearning</summary>
 <br>
-<!-- (hierarchically_structured_meta_learning.md) -->
+<!-- (online_metalearning.md) -->
 
-# hierarchically_structured_meta_learning.md
+# online_metalearning.md
 
 <!-- REFERENCE -->
 
 
-[Hierarchically Structured Meta-learning](../papers/hierarchically_structured_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
-<br>
-<!-- (meta_learning_with_latent_embedding_optimization.md) -->
-
-# meta_learning_with_latent_embedding_optimization.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
+[Online Metalearning](../papers/online_metalearning.md)
 
 </details>
 
@@ -116,38 +116,6 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
-<br>
-<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
-
-# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
-
-<!-- REFERENCE -->
-
-
-[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[96] Online Metalearning</summary>
-<br>
-<!-- (online_metalearning.md) -->
-
-# online_metalearning.md
-
-<!-- REFERENCE -->
-
-
-[Online Metalearning](../papers/online_metalearning.md)
-
-</details>
-
-
-
-<details>
 <summary>[100] Multimodal Model-Agnostic Meta-Learning Via Task-Aware Modulation</summary>
 <br>
 <!-- (multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md) -->
@@ -158,6 +126,38 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 [Multimodal Model-Agnostic Meta-Learning Via Task-Aware Modulation](../papers/multimodal_model_agnostic_meta_learning_via_task_aware_modulation.md)
+
+</details>
+
+
+
+<details>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<br>
+<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+
+# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
+
+</details>
+
+
+
+<details>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<br>
+<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+
+# meta_learning_with_latent_embedding_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
 
 </details>
 

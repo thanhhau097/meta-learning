@@ -1,2 +1,4 @@
 # meta_learning_for_social_good
+
+Meta-learning lands itself to various challenging tasks that arise in applications of AI for social good such as medi- cal image classification and drug discovery, where data is often scarce. Progress in the medical domain is especially relevant given the global shortage of pathologists [270]. In [5] an LSTM is combined with a graph neural network to predict the behaviour of a molecule (e.g. its toxicity) in the one-shot data regime. In [271] MAML is adapted to weakly-supervised breast cancer detection tasks, and the order of tasks are selected according to a curriculum rather than randomly. MAML is also combined with denoising autoencoders to do medical visual question answering [272], while learning to weigh support samples as done in [204] is adapted to pixel wise weighting in order to tackle skin lesion segmentation tasks that have noisy labels [273].
 <!-- REFERENCE -->

@@ -23,7 +23,7 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
     - [Optimization](./docs/sections/optimization.md)
     - [Black Box / Model-based](./docs/sections/black_box_model_based.md)
     - [Metric-Learning](./docs/sections/metric_learning.md)
-- New Taxonomy
+- [New Taxonomy](./docs/sections/taxonomy.md)
     - Meta-representation
         - [Parameter Initialization](./docs/sections/parameter-initialization.md)
         - [Optimizer](./docs/sections/optimizer.md)
@@ -45,7 +45,7 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
         - [Evolution](./docs/sections/evolution.md)
     - Meta objective and Episode Design
         - [Many vs Few-Shot Episode Design](./docs/sections/many_vs_few_shot_episode_design.md)
-        - [Fast Adaptation vs Asymptotic Performance](./docs/sections/)
+        - [Fast Adaptation vs Asymptotic Performance](./docs/sections/fast_adaptation_vs_asymptotic_performance.md)
         - [Multi vs Single-Task](./docs/sections/multi_vs_single_task.md)
         - [Online vs Offline](./docs/sections/online_vs_offline.md)
         - [Other Episode Design Factor](./docs/sections/other_episode_design_factors.md)
@@ -73,5 +73,5 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
     - [Cross-modal transfer and heterogeneous tasks](./docs/challenges/cross_modal_transfer_and_heterogeneous_tasks.md)
 
         
-
+<!-- <img src="https://render.githubusercontent.com/render/math?math="> -->
 <!-- REFERENCE -->

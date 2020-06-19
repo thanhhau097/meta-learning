@@ -9,6 +9,22 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 
 
 <details>
+<summary>[102] Adam: A Method For Stochastic Optimization</summary>
+<br>
+<!-- (adam_a_method_for_stochastic_optimization.md) -->
+
+# adam_a_method_for_stochastic_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Adam: A Method For Stochastic Optimization](../papers/adam_a_method_for_stochastic_optimization.md)
+
+</details>
+
+
+
+<details>
 <summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
 <br>
 <!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
@@ -18,33 +34,7 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 <!-- REFERENCE -->
 
 
-</details>
-
-
-
-<details>
-<summary>[77] Learning To Optimize</summary>
-<br>
-<!-- (learning_to_optimize.md) -->
-
-# learning_to_optimize.md
-
-<!-- REFERENCE -->
-
-
-</details>
-
-
-
-<details>
-<summary>[103] Meta-Curvature</summary>
-<br>
-<!-- (meta_curvature.md) -->
-
-# meta_curvature.md
-
-<!-- REFERENCE -->
-
+[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
 
 </details>
 
@@ -60,19 +50,23 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 <!-- REFERENCE -->
 
 
+[How To Train Your MAML](../papers/how_to_train_your_maml.md)
+
 </details>
 
 
 
 <details>
-<summary>[104] Learning To Learn Without Gradient Descent By Gradient Descent</summary>
+<summary>[77] Learning To Optimize</summary>
 <br>
-<!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
+<!-- (learning_to_optimize.md) -->
 
-# learning_to_learn_without_gradient_descent_by_gradient_descent.md
+# learning_to_optimize.md
 
 <!-- REFERENCE -->
 
+
+[Learning To Optimize](../papers/learning_to_optimize.md)
 
 </details>
 
@@ -88,19 +82,23 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 <!-- REFERENCE -->
 
 
+[Meta-SGD: Learning To Learn Quickly For Few Shot Learning](../papers/meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md)
+
 </details>
 
 
 
 <details>
-<summary>[70] Taking The Human Out Of The Loop: A Review Of Bayesian Optimization</summary>
+<summary>[103] Meta-Curvature</summary>
 <br>
-<!-- (taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md) -->
+<!-- (meta_curvature.md) -->
 
-# taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md
+# meta_curvature.md
 
 <!-- REFERENCE -->
 
+
+[Meta-Curvature](../papers/meta_curvature.md)
 
 </details>
 
@@ -116,6 +114,24 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 <!-- REFERENCE -->
 
 
+[Learned Optimizers That Scale And Generalize](../papers/learned_optimizers_that_scale_and_generalize.md)
+
+</details>
+
+
+
+<details>
+<summary>[104] Learning To Learn Without Gradient Descent By Gradient Descent</summary>
+<br>
+<!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
+
+# learning_to_learn_without_gradient_descent_by_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn Without Gradient Descent By Gradient Descent](../papers/learning_to_learn_without_gradient_descent_by_gradient_descent.md)
+
 </details>
 
 
@@ -130,19 +146,23 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 <!-- REFERENCE -->
 
 
+[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
+
 </details>
 
 
 
 <details>
-<summary>[102] Adam: A Method For Stochastic Optimization</summary>
+<summary>[70] Taking The Human Out Of The Loop: A Review Of Bayesian Optimization</summary>
 <br>
-<!-- (adam_a_method_for_stochastic_optimization.md) -->
+<!-- (taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md) -->
 
-# adam_a_method_for_stochastic_optimization.md
+# taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md
 
 <!-- REFERENCE -->
 
+
+[Taking The Human Out Of The Loop: A Review Of Bayesian Optimization](../papers/taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md)
 
 </details>
 
@@ -157,6 +177,8 @@ The above parameter-centric methods usually rely on existing optimizers such as 
 
 <!-- REFERENCE -->
 
+
+[Optimization As A Model For FewShot Learning](../papers/optimization_as_a_model_for_fewshot_learning.md)
 
 </details>
 

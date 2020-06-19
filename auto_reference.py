@@ -12,6 +12,8 @@ TEMPLATE = """
 
 {}
 
+[{}](../papers/{})
+
 </details>
 """
 
@@ -24,7 +26,10 @@ def fill(reference, reference_number, content):
     return TEMPLATE.format(reference_number,
                            reference[reference_number]['name'],
                            reference[reference_number]['markdown'],
-                           ''.join(content))
+                           ''.join(content),
+                           reference[reference_number]['name'],
+                           reference[reference_number]['markdown'],
+                           )
 
 
 def find_signal_index(content):

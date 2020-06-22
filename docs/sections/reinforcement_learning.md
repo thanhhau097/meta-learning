@@ -8,16 +8,16 @@ outer-level optimization steps are required to converge, and each of these steps
 
 
 <details>
-<summary>[133] AutoAugment: Learning Augmentation Policies From Data</summary>
+<summary>[22] RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning</summary>
 <br>
-<!-- (autoaugment_learning_augmentation_policies_from_data.md) -->
+<!-- (rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md) -->
 
-# autoaugment_learning_augmentation_policies_from_data.md
+# rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md
 
 <!-- REFERENCE -->
 
 
-[AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
+[RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning](../papers/rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md)
 
 </details>
 
@@ -40,16 +40,16 @@ outer-level optimization steps are required to converge, and each of these steps
 
 
 <details>
-<summary>[22] RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning</summary>
+<summary>[133] AutoAugment: Learning Augmentation Policies From Data</summary>
 <br>
-<!-- (rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md) -->
+<!-- (autoaugment_learning_augmentation_policies_from_data.md) -->
 
-# rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md
+# autoaugment_learning_augmentation_policies_from_data.md
 
 <!-- REFERENCE -->
 
 
-[RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning](../papers/rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md)
+[AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
 
 </details>
 

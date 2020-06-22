@@ -9,16 +9,64 @@ a differentiable approximation to a true non-differentiable task loss such as ar
 
 
 <details>
-<summary>[117] Addressing The Loss-Metric Mismatch With Adaptive Loss Alignment</summary>
+<summary>[116] Semi-Supervised Few-Shot Learning With MAML</summary>
 <br>
-<!-- (addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md) -->
+<!-- (semi_supervised_few_shot_learning_with_maml.md) -->
 
-# addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md
+# semi_supervised_few_shot_learning_with_maml.md
 
 <!-- REFERENCE -->
 
 
-[Addressing The Loss-Metric Mismatch With Adaptive Loss Alignment](../papers/addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md)
+[Semi-Supervised Few-Shot Learning With MAML](../papers/semi_supervised_few_shot_learning_with_maml.md)
+
+</details>
+
+
+
+<details>
+<summary>[113] Online Meta-Critic Learning For Off-Policy Actor-Critic Methods</summary>
+<br>
+<!-- (online_meta_critic_learning_for_off_policy_actor_critic_methods.md) -->
+
+# online_meta_critic_learning_for_off_policy_actor_critic_methods.md
+
+<!-- REFERENCE -->
+
+
+[Online Meta-Critic Learning For Off-Policy Actor-Critic Methods](../papers/online_meta_critic_learning_for_off_policy_actor_critic_methods.md)
+
+</details>
+
+
+
+<details>
+<summary>[114] OnlineWithin-Online Meta-Learning</summary>
+<br>
+<!-- (onlinewithin_online_meta_learning.md) -->
+
+# onlinewithin_online_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[OnlineWithin-Online Meta-Learning](../papers/onlinewithin_online_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[115] Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization</summary>
+<br>
+<!-- (improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md) -->
+
+# improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization](../papers/improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md)
 
 </details>
 
@@ -57,64 +105,16 @@ a differentiable approximation to a true non-differentiable task loss such as ar
 
 
 <details>
-<summary>[115] Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization</summary>
+<summary>[117] Addressing The Loss-Metric Mismatch With Adaptive Loss Alignment</summary>
 <br>
-<!-- (improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md) -->
+<!-- (addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md) -->
 
-# improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md
+# addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md
 
 <!-- REFERENCE -->
 
 
-[Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization](../papers/improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md)
-
-</details>
-
-
-
-<details>
-<summary>[116] Semi-Supervised Few-Shot Learning With MAML</summary>
-<br>
-<!-- (semi_supervised_few_shot_learning_with_maml.md) -->
-
-# semi_supervised_few_shot_learning_with_maml.md
-
-<!-- REFERENCE -->
-
-
-[Semi-Supervised Few-Shot Learning With MAML](../papers/semi_supervised_few_shot_learning_with_maml.md)
-
-</details>
-
-
-
-<details>
-<summary>[113] Online Meta-Critic Learning For Off-Policy Actor-Critic Methods</summary>
-<br>
-<!-- (online_meta_critic_learning_for_off_policy_actor_critic_methods.md) -->
-
-# online_meta_critic_learning_for_off_policy_actor_critic_methods.md
-
-<!-- REFERENCE -->
-
-
-[Online Meta-Critic Learning For Off-Policy Actor-Critic Methods](../papers/online_meta_critic_learning_for_off_policy_actor_critic_methods.md)
-
-</details>
-
-
-
-<details>
-<summary>[45] Learning To Learn Around A Common Mean</summary>
-<br>
-<!-- (learning_to_learn_around_a_common_mean.md) -->
-
-# learning_to_learn_around_a_common_mean.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn Around A Common Mean](../papers/learning_to_learn_around_a_common_mean.md)
+[Addressing The Loss-Metric Mismatch With Adaptive Loss Alignment](../papers/addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md)
 
 </details>
 
@@ -137,6 +137,22 @@ a differentiable approximation to a true non-differentiable task loss such as ar
 
 
 <details>
+<summary>[23] Evolved Policy Gradients</summary>
+<br>
+<!-- (evolved_policy_gradients.md) -->
+
+# evolved_policy_gradients.md
+
+<!-- REFERENCE -->
+
+
+[Evolved Policy Gradients](../papers/evolved_policy_gradients.md)
+
+</details>
+
+
+
+<details>
 <summary>[118] Learning Surrogate Losses</summary>
 <br>
 <!-- (learning_surrogate_losses.md) -->
@@ -153,32 +169,16 @@ a differentiable approximation to a true non-differentiable task loss such as ar
 
 
 <details>
-<summary>[114] OnlineWithin-Online Meta-Learning</summary>
+<summary>[45] Learning To Learn Around A Common Mean</summary>
 <br>
-<!-- (onlinewithin_online_meta_learning.md) -->
+<!-- (learning_to_learn_around_a_common_mean.md) -->
 
-# onlinewithin_online_meta_learning.md
+# learning_to_learn_around_a_common_mean.md
 
 <!-- REFERENCE -->
 
 
-[OnlineWithin-Online Meta-Learning](../papers/onlinewithin_online_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[23] Evolved Policy Gradients</summary>
-<br>
-<!-- (evolved_policy_gradients.md) -->
-
-# evolved_policy_gradients.md
-
-<!-- REFERENCE -->
-
-
-[Evolved Policy Gradients](../papers/evolved_policy_gradients.md)
+[Learning To Learn Around A Common Mean](../papers/learning_to_learn_around_a_common_mean.md)
 
 </details>
 

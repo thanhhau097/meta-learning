@@ -29,6 +29,54 @@ A large family of methods use gradient descent on the meta parameters ω [19], [
 
 
 <details>
+<summary>[145] Optimizing Millions Of Hyperparameters By Implicit Differentiation</summary>
+<br>
+<!-- (optimizing_millions_of_hyperparameters_by_implicit_differentiation.md) -->
+
+# optimizing_millions_of_hyperparameters_by_implicit_differentiation.md
+
+<!-- REFERENCE -->
+
+
+[Optimizing Millions Of Hyperparameters By Implicit Differentiation](../papers/optimizing_millions_of_hyperparameters_by_implicit_differentiation.md)
+
+</details>
+
+
+
+<details>
+<summary>[179] Fixing Implicit Derivatives: Trust-Region Based Learning Of Continuous Energy Functions</summary>
+<br>
+<!-- (fixing_implicit_derivatives_trust_region_based_learning_of_continuous_energy_functions.md) -->
+
+# fixing_implicit_derivatives_trust_region_based_learning_of_continuous_energy_functions.md
+
+<!-- REFERENCE -->
+
+
+[Fixing Implicit Derivatives: Trust-Region Based Learning Of Continuous Energy Functions](../papers/fixing_implicit_derivatives_trust_region_based_learning_of_continuous_energy_functions.md)
+
+</details>
+
+
+
+<details>
+<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<br>
+<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+
+# feature_critic_networks_for_heterogeneous_domain_generalization.md
+
+<!-- REFERENCE -->
+
+
+[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
+
+</details>
+
+
+
+<details>
 <summary>[67] Forward And Reverse Gradient-Based Hyperparameter Optimization</summary>
 <br>
 <!-- (forward_and_reverse_gradient_based_hyperparameter_optimization.md) -->
@@ -61,16 +109,16 @@ A large family of methods use gradient descent on the meta parameters ω [19], [
 
 
 <details>
-<summary>[145] Optimizing Millions Of Hyperparameters By Implicit Differentiation</summary>
+<summary>[153] Meta-Learning With Implicit Gradients</summary>
 <br>
-<!-- (optimizing_millions_of_hyperparameters_by_implicit_differentiation.md) -->
+<!-- (meta_learning_with_implicit_gradients.md) -->
 
-# optimizing_millions_of_hyperparameters_by_implicit_differentiation.md
+# meta_learning_with_implicit_gradients.md
 
 <!-- REFERENCE -->
 
 
-[Optimizing Millions Of Hyperparameters By Implicit Differentiation](../papers/optimizing_millions_of_hyperparameters_by_implicit_differentiation.md)
+[Meta-Learning With Implicit Gradients](../papers/meta_learning_with_implicit_gradients.md)
 
 </details>
 
@@ -93,48 +141,16 @@ A large family of methods use gradient descent on the meta parameters ω [19], [
 
 
 <details>
-<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<summary>[25] Bilevel Programming For Hyperparameter Optimization And Meta-learning</summary>
 <br>
-<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+<!-- (bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md) -->
 
-# feature_critic_networks_for_heterogeneous_domain_generalization.md
+# bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
-
-</details>
-
-
-
-<details>
-<summary>[153] Meta-Learning With Implicit Gradients</summary>
-<br>
-<!-- (meta_learning_with_implicit_gradients.md) -->
-
-# meta_learning_with_implicit_gradients.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Learning With Implicit Gradients](../papers/meta_learning_with_implicit_gradients.md)
-
-</details>
-
-
-
-<details>
-<summary>[179] Fixing Implicit Derivatives: Trust-Region Based Learning Of Continuous Energy Functions</summary>
-<br>
-<!-- (fixing_implicit_derivatives_trust_region_based_learning_of_continuous_energy_functions.md) -->
-
-# fixing_implicit_derivatives_trust_region_based_learning_of_continuous_energy_functions.md
-
-<!-- REFERENCE -->
-
-
-[Fixing Implicit Derivatives: Trust-Region Based Learning Of Continuous Energy Functions](../papers/fixing_implicit_derivatives_trust_region_based_learning_of_continuous_energy_functions.md)
+[Bilevel Programming For Hyperparameter Optimization And Meta-learning](../papers/bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md)
 
 </details>
 
@@ -151,22 +167,6 @@ A large family of methods use gradient descent on the meta parameters ω [19], [
 
 
 [On First-Order MetaLearning Algorithms](../papers/on_first_order_metalearning_algorithms.md)
-
-</details>
-
-
-
-<details>
-<summary>[25] Bilevel Programming For Hyperparameter Optimization And Meta-learning</summary>
-<br>
-<!-- (bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md) -->
-
-# bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[Bilevel Programming For Hyperparameter Optimization And Meta-learning](../papers/bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md)
 
 </details>
 

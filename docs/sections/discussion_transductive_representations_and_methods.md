@@ -7,22 +7,6 @@ that are transductive in the sense that they are designed to operate on the quer
 
 
 <details>
-<summary>[122] Self-supervised Generalisation With Meta Auxiliary Learning</summary>
-<br>
-<!-- (self_supervised_generalisation_with_meta_auxiliary_learning.md) -->
-
-# self_supervised_generalisation_with_meta_auxiliary_learning.md
-
-<!-- REFERENCE -->
-
-
-[Self-supervised Generalisation With Meta Auxiliary Learning](../papers/self_supervised_generalisation_with_meta_auxiliary_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[145] Optimizing Millions Of Hyperparameters By Implicit Differentiation</summary>
 <br>
 <!-- (optimizing_millions_of_hyperparameters_by_implicit_differentiation.md) -->
@@ -33,22 +17,6 @@ that are transductive in the sense that they are designed to operate on the quer
 
 
 [Optimizing Millions Of Hyperparameters By Implicit Differentiation](../papers/optimizing_millions_of_hyperparameters_by_implicit_differentiation.md)
-
-</details>
-
-
-
-<details>
-<summary>[98] Learning To Learn By SelfCritique</summary>
-<br>
-<!-- (learning_to_learn_by_selfcritique.md) -->
-
-# learning_to_learn_by_selfcritique.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
 
 </details>
 
@@ -71,6 +39,22 @@ that are transductive in the sense that they are designed to operate on the quer
 
 
 <details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (learning_to_learn_by_selfcritique.md) -->
+
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
+
+</details>
+
+
+
+<details>
 <summary>[142] Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting</summary>
 <br>
 <!-- (meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md) -->
@@ -81,6 +65,22 @@ that are transductive in the sense that they are designed to operate on the quer
 
 
 [Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting](../papers/meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md)
+
+</details>
+
+
+
+<details>
+<summary>[122] Self-supervised Generalisation With Meta Auxiliary Learning</summary>
+<br>
+<!-- (self_supervised_generalisation_with_meta_auxiliary_learning.md) -->
+
+# self_supervised_generalisation_with_meta_auxiliary_learning.md
+
+<!-- REFERENCE -->
+
+
+[Self-supervised Generalisation With Meta Auxiliary Learning](../papers/self_supervised_generalisation_with_meta_auxiliary_learning.md)
 
 </details>
 

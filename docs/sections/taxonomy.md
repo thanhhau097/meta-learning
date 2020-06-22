@@ -27,48 +27,16 @@ Meta-Objective (“Why?”) The third axis is the goal of meta-learning which is
 
 
 <details>
-<summary>[91] Learned Optimizers That Scale And Generalize</summary>
+<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
 <br>
-<!-- (learned_optimizers_that_scale_and_generalize.md) -->
+<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
 
-# learned_optimizers_that_scale_and_generalize.md
+# neural_optimizer_search_with_reinforcement_learning.md
 
 <!-- REFERENCE -->
 
 
-[Learned Optimizers That Scale And Generalize](../papers/learned_optimizers_that_scale_and_generalize.md)
-
-</details>
-
-
-
-<details>
-<summary>[40] A Simple Neural Attentive Meta-learner</summary>
-<br>
-<!-- (a_simple_neural_attentive_meta_learner.md) -->
-
-# a_simple_neural_attentive_meta_learner.md
-
-<!-- REFERENCE -->
-
-
-[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
-
-</details>
-
-
-
-<details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
-<br>
-<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
-
-# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
-
-<!-- REFERENCE -->
-
-
-[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
 
 </details>
 
@@ -91,38 +59,6 @@ Meta-Objective (“Why?”) The third axis is the goal of meta-learning which is
 
 
 <details>
-<summary>[93] Learning To Learn From Noisy Labeled Data</summary>
-<br>
-<!-- (learning_to_learn_from_noisy_labeled_data.md) -->
-
-# learning_to_learn_from_noisy_labeled_data.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn From Noisy Labeled Data](../papers/learning_to_learn_from_noisy_labeled_data.md)
-
-</details>
-
-
-
-<details>
-<summary>[1] Deep Residual Learning For Image Recognition</summary>
-<br>
-<!-- (deep_residual_learning_for_image_recognition.md) -->
-
-# deep_residual_learning_for_image_recognition.md
-
-<!-- REFERENCE -->
-
-
-[Deep Residual Learning For Image Recognition](../papers/deep_residual_learning_for_image_recognition.md)
-
-</details>
-
-
-
-<details>
 <summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
 <br>
 <!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
@@ -133,6 +69,54 @@ Meta-Objective (“Why?”) The third axis is the goal of meta-learning which is
 
 
 [MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<br>
+<!-- (a_simple_neural_attentive_meta_learner.md) -->
+
+# a_simple_neural_attentive_meta_learner.md
+
+<!-- REFERENCE -->
+
+
+[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
+
+</details>
+
+
+
+<details>
+<summary>[91] Learned Optimizers That Scale And Generalize</summary>
+<br>
+<!-- (learned_optimizers_that_scale_and_generalize.md) -->
+
+# learned_optimizers_that_scale_and_generalize.md
+
+<!-- REFERENCE -->
+
+
+[Learned Optimizers That Scale And Generalize](../papers/learned_optimizers_that_scale_and_generalize.md)
 
 </details>
 
@@ -155,16 +139,32 @@ Meta-Objective (“Why?”) The third axis is the goal of meta-learning which is
 
 
 <details>
-<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
+<summary>[1] Deep Residual Learning For Image Recognition</summary>
 <br>
-<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
+<!-- (deep_residual_learning_for_image_recognition.md) -->
 
-# neural_optimizer_search_with_reinforcement_learning.md
+# deep_residual_learning_for_image_recognition.md
 
 <!-- REFERENCE -->
 
 
-[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
+[Deep Residual Learning For Image Recognition](../papers/deep_residual_learning_for_image_recognition.md)
+
+</details>
+
+
+
+<details>
+<summary>[93] Learning To Learn From Noisy Labeled Data</summary>
+<br>
+<!-- (learning_to_learn_from_noisy_labeled_data.md) -->
+
+# learning_to_learn_from_noisy_labeled_data.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn From Noisy Labeled Data](../papers/learning_to_learn_from_noisy_labeled_data.md)
 
 </details>
 

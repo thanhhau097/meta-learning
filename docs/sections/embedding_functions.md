@@ -11,6 +11,86 @@ Here the support image generates weights to interpret the query example, making 
 
 
 <details>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<br>
+<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+
+# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
+
+</details>
+
+
+
+<details>
+<summary>[111] TADAM: Task ´ Dependent Adaptive Metric For Improved Few-shot Learning</summary>
+<br>
+<!-- (tadam_task_dependent_adaptive_metric_for_improved_few_shot_learning.md) -->
+
+# tadam_task_dependent_adaptive_metric_for_improved_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[TADAM: Task ´ Dependent Adaptive Metric For Improved Few-shot Learning](../papers/tadam_task_dependent_adaptive_metric_for_improved_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[110] A Closer Look At Few-Shot Classification</summary>
+<br>
+<!-- (a_closer_look_at_few_shot_classification.md) -->
+
+# a_closer_look_at_few_shot_classification.md
+
+<!-- REFERENCE -->
+
+
+[A Closer Look At Few-Shot Classification](../papers/a_closer_look_at_few_shot_classification.md)
+
+</details>
+
+
+
+<details>
+<summary>[86] Matching Networks For One Shot Learning</summary>
+<br>
+<!-- (matching_networks_for_one_shot_learning.md) -->
+
+# matching_networks_for_one_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[20] Prototypical Networks For Few Shot Learning</summary>
+<br>
+<!-- (prototypical_networks_for_few_shot_learning.md) -->
+
+# prototypical_networks_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
 <summary>[98] Learning To Learn By SelfCritique</summary>
 <br>
 <!-- (learning_to_learn_by_selfcritique.md) -->
@@ -43,70 +123,6 @@ Here the support image generates weights to interpret the query example, making 
 
 
 <details>
-<summary>[111] TADAM: Task ´ Dependent Adaptive Metric For Improved Few-shot Learning</summary>
-<br>
-<!-- (tadam_task_dependent_adaptive_metric_for_improved_few_shot_learning.md) -->
-
-# tadam_task_dependent_adaptive_metric_for_improved_few_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[TADAM: Task ´ Dependent Adaptive Metric For Improved Few-shot Learning](../papers/tadam_task_dependent_adaptive_metric_for_improved_few_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[86] Matching Networks For One Shot Learning</summary>
-<br>
-<!-- (matching_networks_for_one_shot_learning.md) -->
-
-# matching_networks_for_one_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
-<br>
-<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
-
-# few_shot_image_recognition_by_predicting_parameters_from_activations.md
-
-<!-- REFERENCE -->
-
-
-[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
-
-</details>
-
-
-
-<details>
-<summary>[110] A Closer Look At Few-Shot Classification</summary>
-<br>
-<!-- (a_closer_look_at_few_shot_classification.md) -->
-
-# a_closer_look_at_few_shot_classification.md
-
-<!-- REFERENCE -->
-
-
-[A Closer Look At Few-Shot Classification](../papers/a_closer_look_at_few_shot_classification.md)
-
-</details>
-
-
-
-<details>
 <summary>[88] Few-Shot Learning With Graph Neural Networks</summary>
 <br>
 <!-- (few_shot_learning_with_graph_neural_networks.md) -->
@@ -117,22 +133,6 @@ Here the support image generates weights to interpret the query example, making 
 
 
 [Few-Shot Learning With Graph Neural Networks](../papers/few_shot_learning_with_graph_neural_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[20] Prototypical Networks For Few Shot Learning</summary>
-<br>
-<!-- (prototypical_networks_for_few_shot_learning.md) -->
-
-# prototypical_networks_for_few_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
 
 </details>
 

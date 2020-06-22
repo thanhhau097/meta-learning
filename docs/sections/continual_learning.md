@@ -7,22 +7,6 @@ as working with a task distribution, and that the goal is partly to accelerate l
 
 
 <details>
-<summary>[60] Lifelong Machine Learning, Second Edition</summary>
-<br>
-<!-- (lifelong_machine_learning_second_edition.md) -->
-
-# lifelong_machine_learning_second_edition.md
-
-<!-- REFERENCE -->
-
-
-[Lifelong Machine Learning, Second Edition](../papers/lifelong_machine_learning_second_edition.md)
-
-</details>
-
-
-
-<details>
 <summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
 <br>
 <!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
@@ -33,6 +17,22 @@ as working with a task distribution, and that the goal is partly to accelerate l
 
 
 [Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
+
+</details>
+
+
+
+<details>
+<summary>[60] Lifelong Machine Learning, Second Edition</summary>
+<br>
+<!-- (lifelong_machine_learning_second_edition.md) -->
+
+# lifelong_machine_learning_second_edition.md
+
+<!-- REFERENCE -->
+
+
+[Lifelong Machine Learning, Second Edition](../papers/lifelong_machine_learning_second_edition.md)
 
 </details>
 

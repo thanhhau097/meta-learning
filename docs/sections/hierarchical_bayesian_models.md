@@ -15,6 +15,22 @@ point for meta-learning, in that they provide a modeling rather than an algorith
 
 
 <details>
+<summary>[72] Recasting Gradient-Based Meta-Learning As Hierarchical Bayes</summary>
+<br>
+<!-- (recasting_gradient_based_meta_learning_as_hierarchical_bayes.md) -->
+
+# recasting_gradient_based_meta_learning_as_hierarchical_bayes.md
+
+<!-- REFERENCE -->
+
+
+[Recasting Gradient-Based Meta-Learning As Hierarchical Bayes](../papers/recasting_gradient_based_meta_learning_as_hierarchical_bayes.md)
+
+</details>
+
+
+
+<details>
 <summary>[71] Towards A Neural Statistician</summary>
 <br>
 <!-- (towards_a_neural_statistician.md) -->
@@ -41,22 +57,6 @@ point for meta-learning, in that they provide a modeling rather than an algorith
 
 
 [Latent Dirchlet allocation](../papers/latent_dirchlet_allocation.md)
-
-</details>
-
-
-
-<details>
-<summary>[72] Recasting Gradient-Based Meta-Learning As Hierarchical Bayes</summary>
-<br>
-<!-- (recasting_gradient_based_meta_learning_as_hierarchical_bayes.md) -->
-
-# recasting_gradient_based_meta_learning_as_hierarchical_bayes.md
-
-<!-- REFERENCE -->
-
-
-[Recasting Gradient-Based Meta-Learning As Hierarchical Bayes](../papers/recasting_gradient_based_meta_learning_as_hierarchical_bayes.md)
 
 </details>
 

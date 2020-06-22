@@ -21,16 +21,16 @@ In these methods ω includes hyperpa- rameters of the base learning algorithm su
 
 
 <details>
-<summary>[25] Bilevel Programming For Hyperparameter Optimization And Meta-learning</summary>
+<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
 <br>
-<!-- (bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md) -->
+<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
 
-# bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md
+# metareg_towards_domain_generalization_using_meta_regularization.md
 
 <!-- REFERENCE -->
 
 
-[Bilevel Programming For Hyperparameter Optimization And Meta-learning](../papers/bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md)
+[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
 
 </details>
 
@@ -53,6 +53,22 @@ In these methods ω includes hyperpa- rameters of the base learning algorithm su
 
 
 <details>
+<summary>[25] Bilevel Programming For Hyperparameter Optimization And Meta-learning</summary>
+<br>
+<!-- (bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md) -->
+
+# bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Bilevel Programming For Hyperparameter Optimization And Meta-learning](../papers/bilevel_programming_for_hyperparameter_optimization_and_meta_learning.md)
+
+</details>
+
+
+
+<details>
 <summary>[75] Meta-SGD: Learning To Learn Quickly For Few Shot Learning</summary>
 <br>
 <!-- (meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md) -->
@@ -63,22 +79,6 @@ In these methods ω includes hyperpa- rameters of the base learning algorithm su
 
 
 [Meta-SGD: Learning To Learn Quickly For Few Shot Learning](../papers/meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
-<br>
-<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
-
-# metareg_towards_domain_generalization_using_meta_regularization.md
-
-<!-- REFERENCE -->
-
-
-[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
 
 </details>
 

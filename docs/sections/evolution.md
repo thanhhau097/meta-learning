@@ -25,32 +25,16 @@ and inner optimizations are long and non-differentiable). However they have also
 
 
 <details>
-<summary>[184] Learning To Optimize In Swarms</summary>
+<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
 <br>
-<!-- (learning_to_optimize_in_swarms.md) -->
+<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
 
-# learning_to_optimize_in_swarms.md
+# regularized_evolution_for_image_classifier_architecture_search.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Optimize In Swarms](../papers/learning_to_optimize_in_swarms.md)
-
-</details>
-
-
-
-<details>
-<summary>[17] Evolutionary Principles In Self-referential Learning</summary>
-<br>
-<!-- (evolutionary_principles_in_self_referential_learning.md) -->
-
-# evolutionary_principles_in_self_referential_learning.md
-
-<!-- REFERENCE -->
-
-
-[Evolutionary Principles In Self-referential Learning](../papers/evolutionary_principles_in_self_referential_learning.md)
+[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
 
 </details>
 
@@ -89,54 +73,6 @@ and inner optimizations are long and non-differentiable). However they have also
 
 
 <details>
-<summary>[183] Born To Learn: The Inspiration, Progress, And Future Of Evolved Plastic Artificial Neural Networks</summary>
-<br>
-<!-- (born_to_learn_the_inspiration_progress_and_future_of_evolved_plastic_artificial_neural_networks.md) -->
-
-# born_to_learn_the_inspiration_progress_and_future_of_evolved_plastic_artificial_neural_networks.md
-
-<!-- REFERENCE -->
-
-
-[Born To Learn: The Inspiration, Progress, And Future Of Evolved Plastic Artificial Neural Networks](../papers/born_to_learn_the_inspiration_progress_and_future_of_evolved_plastic_artificial_neural_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[135] Model Vulnerability To Distributional Shifts Over Image Transformation Sets</summary>
-<br>
-<!-- (model_vulnerability_to_distributional_shifts_over_image_transformation_sets.md) -->
-
-# model_vulnerability_to_distributional_shifts_over_image_transformation_sets.md
-
-<!-- REFERENCE -->
-
-
-[Model Vulnerability To Distributional Shifts Over Image Transformation Sets](../papers/model_vulnerability_to_distributional_shifts_over_image_transformation_sets.md)
-
-</details>
-
-
-
-<details>
-<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
-<br>
-<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
-
-# regularized_evolution_for_image_classifier_architecture_search.md
-
-<!-- REFERENCE -->
-
-
-[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
-
-</details>
-
-
-
-<details>
 <summary>[158] ES-MAML: Simple Hessian-Free Meta Learning</summary>
 <br>
 <!-- (es_maml_simple_hessian_free_meta_learning.md) -->
@@ -147,6 +83,22 @@ and inner optimizations are long and non-differentiable). However they have also
 
 
 [ES-MAML: Simple Hessian-Free Meta Learning](../papers/es_maml_simple_hessian_free_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[17] Evolutionary Principles In Self-referential Learning</summary>
+<br>
+<!-- (evolutionary_principles_in_self_referential_learning.md) -->
+
+# evolutionary_principles_in_self_referential_learning.md
+
+<!-- REFERENCE -->
+
+
+[Evolutionary Principles In Self-referential Learning](../papers/evolutionary_principles_in_self_referential_learning.md)
 
 </details>
 
@@ -169,6 +121,38 @@ and inner optimizations are long and non-differentiable). However they have also
 
 
 <details>
+<summary>[183] Born To Learn: The Inspiration, Progress, And Future Of Evolved Plastic Artificial Neural Networks</summary>
+<br>
+<!-- (born_to_learn_the_inspiration_progress_and_future_of_evolved_plastic_artificial_neural_networks.md) -->
+
+# born_to_learn_the_inspiration_progress_and_future_of_evolved_plastic_artificial_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Born To Learn: The Inspiration, Progress, And Future Of Evolved Plastic Artificial Neural Networks](../papers/born_to_learn_the_inspiration_progress_and_future_of_evolved_plastic_artificial_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[184] Learning To Optimize In Swarms</summary>
+<br>
+<!-- (learning_to_optimize_in_swarms.md) -->
+
+# learning_to_optimize_in_swarms.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Optimize In Swarms](../papers/learning_to_optimize_in_swarms.md)
+
+</details>
+
+
+
+<details>
 <summary>[23] Evolved Policy Gradients</summary>
 <br>
 <!-- (evolved_policy_gradients.md) -->
@@ -179,6 +163,22 @@ and inner optimizations are long and non-differentiable). However they have also
 
 
 [Evolved Policy Gradients](../papers/evolved_policy_gradients.md)
+
+</details>
+
+
+
+<details>
+<summary>[135] Model Vulnerability To Distributional Shifts Over Image Transformation Sets</summary>
+<br>
+<!-- (model_vulnerability_to_distributional_shifts_over_image_transformation_sets.md) -->
+
+# model_vulnerability_to_distributional_shifts_over_image_transformation_sets.md
+
+<!-- REFERENCE -->
+
+
+[Model Vulnerability To Distributional Shifts Over Image Transformation Sets](../papers/model_vulnerability_to_distributional_shifts_over_image_transformation_sets.md)
 
 </details>
 

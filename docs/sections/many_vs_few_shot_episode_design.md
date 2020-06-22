@@ -8,22 +8,6 @@ whether the goal is improving few- or many-shot perfor- mance, inner loop learni
 
 
 <details>
-<summary>[91] Learned Optimizers That Scale And Generalize</summary>
-<br>
-<!-- (learned_optimizers_that_scale_and_generalize.md) -->
-
-# learned_optimizers_that_scale_and_generalize.md
-
-<!-- REFERENCE -->
-
-
-[Learned Optimizers That Scale And Generalize](../papers/learned_optimizers_that_scale_and_generalize.md)
-
-</details>
-
-
-
-<details>
 <summary>[41] Optimization As A Model For FewShot Learning</summary>
 <br>
 <!-- (optimization_as_a_model_for_fewshot_learning.md) -->
@@ -34,6 +18,22 @@ whether the goal is improving few- or many-shot perfor- mance, inner loop learni
 
 
 [Optimization As A Model For FewShot Learning](../papers/optimization_as_a_model_for_fewshot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
+<br>
+<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
+
+# neural_optimizer_search_with_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
 
 </details>
 
@@ -72,16 +72,16 @@ whether the goal is improving few- or many-shot perfor- mance, inner loop learni
 
 
 <details>
-<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
+<summary>[91] Learned Optimizers That Scale And Generalize</summary>
 <br>
-<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
+<!-- (learned_optimizers_that_scale_and_generalize.md) -->
 
-# neural_optimizer_search_with_reinforcement_learning.md
+# learned_optimizers_that_scale_and_generalize.md
 
 <!-- REFERENCE -->
 
 
-[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
+[Learned Optimizers That Scale And Generalize](../papers/learned_optimizers_that_scale_and_generalize.md)
 
 </details>
 

@@ -4,16 +4,16 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 <details>
-<summary>[39] Neural Architecture Search: A Survey</summary>
+<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
 <br>
-<!-- (neural_architecture_search_a_survey.md) -->
+<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
 
-# neural_architecture_search_a_survey.md
+# regularized_evolution_for_image_classifier_architecture_search.md
 
 <!-- REFERENCE -->
 
 
-[Neural Architecture Search: A Survey](../papers/neural_architecture_search_a_survey.md)
+[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
 
 </details>
 
@@ -30,6 +30,54 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 [Neural Architecture Search With Reinforcement Learning](../papers/neural_architecture_search_with_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[39] Neural Architecture Search: A Survey</summary>
+<br>
+<!-- (neural_architecture_search_a_survey.md) -->
+
+# neural_architecture_search_a_survey.md
+
+<!-- REFERENCE -->
+
+
+[Neural Architecture Search: A Survey](../papers/neural_architecture_search_a_survey.md)
+
+</details>
+
+
+
+<details>
+<summary>[126] Meta Architecture Search</summary>
+<br>
+<!-- (meta_architecture_search.md) -->
+
+# meta_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[Meta Architecture Search](../papers/meta_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[123] Designing Neural Networks Through Neuroevolution</summary>
+<br>
+<!-- (designing_neural_networks_through_neuroevolution.md) -->
+
+# designing_neural_networks_through_neuroevolution.md
+
+<!-- REFERENCE -->
+
+
+[Designing Neural Networks Through Neuroevolution](../papers/designing_neural_networks_through_neuroevolution.md)
 
 </details>
 
@@ -68,38 +116,6 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 <details>
-<summary>[123] Designing Neural Networks Through Neuroevolution</summary>
-<br>
-<!-- (designing_neural_networks_through_neuroevolution.md) -->
-
-# designing_neural_networks_through_neuroevolution.md
-
-<!-- REFERENCE -->
-
-
-[Designing Neural Networks Through Neuroevolution](../papers/designing_neural_networks_through_neuroevolution.md)
-
-</details>
-
-
-
-<details>
-<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
-<br>
-<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
-
-# regularized_evolution_for_image_classifier_architecture_search.md
-
-<!-- REFERENCE -->
-
-
-[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
-
-</details>
-
-
-
-<details>
 <summary>[26] DARTS: Differentiable Architecture Search</summary>
 <br>
 <!-- (darts_differentiable_architecture_search.md) -->
@@ -110,22 +126,6 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 [DARTS: Differentiable Architecture Search](../papers/darts_differentiable_architecture_search.md)
-
-</details>
-
-
-
-<details>
-<summary>[126] Meta Architecture Search</summary>
-<br>
-<!-- (meta_architecture_search.md) -->
-
-# meta_architecture_search.md
-
-<!-- REFERENCE -->
-
-
-[Meta Architecture Search](../papers/meta_architecture_search.md)
 
 </details>
 

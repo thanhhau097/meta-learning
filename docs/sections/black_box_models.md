@@ -9,80 +9,32 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[104] Learning To Learn Without Gradient Descent By Gradient Descent</summary>
+<summary>[105] One-shot Imitation Learning</summary>
 <br>
-<!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
+<!-- (one_shot_imitation_learning.md) -->
 
-# learning_to_learn_without_gradient_descent_by_gradient_descent.md
+# one_shot_imitation_learning.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Learn Without Gradient Descent By Gradient Descent](../papers/learning_to_learn_without_gradient_descent_by_gradient_descent.md)
+[One-shot Imitation Learning](../papers/one_shot_imitation_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[106] Learning To Reinforcement Learn</summary>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
 <br>
-<!-- (learning_to_reinforcement_learn.md) -->
+<!-- (meta_learning_with_latent_embedding_optimization.md) -->
 
-# learning_to_reinforcement_learn.md
+# meta_learning_with_latent_embedding_optimization.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Reinforcement Learn](../papers/learning_to_reinforcement_learn.md)
-
-</details>
-
-
-
-<details>
-<summary>[40] A Simple Neural Attentive Meta-learner</summary>
-<br>
-<!-- (a_simple_neural_attentive_meta_learner.md) -->
-
-# a_simple_neural_attentive_meta_learner.md
-
-<!-- REFERENCE -->
-
-
-[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
-
-</details>
-
-
-
-<details>
-<summary>[51] Learning To Learn Using Gradient Descent</summary>
-<br>
-<!-- (learning_to_learn_using_gradient_descent.md) -->
-
-# learning_to_learn_using_gradient_descent.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn Using Gradient Descent](../papers/learning_to_learn_using_gradient_descent.md)
-
-</details>
-
-
-
-<details>
-<summary>[108] SMASH: OneShot Model Architecture Search Through Hypernetworks</summary>
-<br>
-<!-- (smash_oneshot_model_architecture_search_through_hypernetworks.md) -->
-
-# smash_oneshot_model_architecture_search_through_hypernetworks.md
-
-<!-- REFERENCE -->
-
-
-[SMASH: OneShot Model Architecture Search Through Hypernetworks](../papers/smash_oneshot_model_architecture_search_through_hypernetworks.md)
+[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
 
 </details>
 
@@ -105,64 +57,16 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[98] Learning To Learn By SelfCritique</summary>
+<summary>[104] Learning To Learn Without Gradient Descent By Gradient Descent</summary>
 <br>
-<!-- (learning_to_learn_by_selfcritique.md) -->
+<!-- (learning_to_learn_without_gradient_descent_by_gradient_descent.md) -->
 
-# learning_to_learn_by_selfcritique.md
+# learning_to_learn_without_gradient_descent_by_gradient_descent.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
-
-</details>
-
-
-
-<details>
-<summary>[105] One-shot Imitation Learning</summary>
-<br>
-<!-- (one_shot_imitation_learning.md) -->
-
-# one_shot_imitation_learning.md
-
-<!-- REFERENCE -->
-
-
-[One-shot Imitation Learning](../papers/one_shot_imitation_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[109] Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables</summary>
-<br>
-<!-- (efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md) -->
-
-# efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md
-
-<!-- REFERENCE -->
-
-
-[Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables](../papers/efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md)
-
-</details>
-
-
-
-<details>
-<summary>[81] Neural Turing Machines</summary>
-<br>
-<!-- (neural_turing_machines.md) -->
-
-# neural_turing_machines.md
-
-<!-- REFERENCE -->
-
-
-[Neural Turing Machines](../papers/neural_turing_machines.md)
+[Learning To Learn Without Gradient Descent By Gradient Descent](../papers/learning_to_learn_without_gradient_descent_by_gradient_descent.md)
 
 </details>
 
@@ -185,16 +89,64 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
+<summary>[106] Learning To Reinforcement Learn</summary>
 <br>
-<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
+<!-- (learning_to_reinforcement_learn.md) -->
 
-# learning_to_learn_by_gradient_descent_by_gradient_descent.md
+# learning_to_reinforcement_learn.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
+[Learning To Reinforcement Learn](../papers/learning_to_reinforcement_learn.md)
+
+</details>
+
+
+
+<details>
+<summary>[81] Neural Turing Machines</summary>
+<br>
+<!-- (neural_turing_machines.md) -->
+
+# neural_turing_machines.md
+
+<!-- REFERENCE -->
+
+
+[Neural Turing Machines](../papers/neural_turing_machines.md)
+
+</details>
+
+
+
+<details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (learning_to_learn_by_selfcritique.md) -->
+
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
+
+</details>
+
+
+
+<details>
+<summary>[51] Learning To Learn Using Gradient Descent</summary>
+<br>
+<!-- (learning_to_learn_using_gradient_descent.md) -->
+
+# learning_to_learn_using_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn Using Gradient Descent](../papers/learning_to_learn_using_gradient_descent.md)
 
 </details>
 
@@ -217,16 +169,64 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<summary>[109] Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables</summary>
 <br>
-<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+<!-- (efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md) -->
 
-# meta_learning_with_latent_embedding_optimization.md
+# efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md
 
 <!-- REFERENCE -->
 
 
-[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
+[Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables](../papers/efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md)
+
+</details>
+
+
+
+<details>
+<summary>[108] SMASH: OneShot Model Architecture Search Through Hypernetworks</summary>
+<br>
+<!-- (smash_oneshot_model_architecture_search_through_hypernetworks.md) -->
+
+# smash_oneshot_model_architecture_search_through_hypernetworks.md
+
+<!-- REFERENCE -->
+
+
+[SMASH: OneShot Model Architecture Search Through Hypernetworks](../papers/smash_oneshot_model_architecture_search_through_hypernetworks.md)
+
+</details>
+
+
+
+<details>
+<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<br>
+<!-- (a_simple_neural_attentive_meta_learner.md) -->
+
+# a_simple_neural_attentive_meta_learner.md
+
+<!-- REFERENCE -->
+
+
+[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
+
+</details>
+
+
+
+<details>
+<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
+<br>
+<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
+
+# learning_to_learn_by_gradient_descent_by_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
 
 </details>
 

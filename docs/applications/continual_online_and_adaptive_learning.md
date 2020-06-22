@@ -10,3 +10,163 @@ another interesting idea is meta-training representations to support local editi
 **Benchmarks** There exist a number of benchmarks for continual learning that work quite well with standard deep learning methods. However, most of those benchmarks cannot readily work with meta-learning approaches. Most of them would require adjustments to their sample gener- ation routines to include a large number of explicit learn- ing sets and an explicit evaluation sets. Some early steps were made towards defining meta-learning ready contin- ual benchmarks in [96], [160], [253], mainly composed of Omniglot and perturbed versions of MNIST. However, most of those were simply tasks built to demonstrate a method. More explicit benchmark work can be found in [205], where Continual Few-Shot Learning is defined as a new type of task to be tackled, and the benchmark is built for meta and non meta-learning approaches alike. In this setting, a task is composed by a number of small training sets, each potentially made of different classes, after which the learned model should generalize well on previously unseen samples from all the tasks it learned from. The benchmark proposes the usage of Omniglot and SlimageNet as the datasets to be used.
 
 <!-- REFERENCE -->
+
+
+<details>
+<summary>[96] Online Metalearning</summary>
+<br>
+<!-- (online_metalearning.md) -->
+
+# online_metalearning.md
+
+<!-- REFERENCE -->
+
+
+[Online Metalearning](../papers/online_metalearning.md)
+
+</details>
+
+
+
+<details>
+<summary>[63] Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning</summary>
+<br>
+<!-- (learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md) -->
+
+# learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning](../papers/learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[205] Defining Benchmarks For Continual Few-shot Learning</summary>
+<br>
+<!-- (defining_benchmarks_for_continual_few_shot_learning.md) -->
+
+# defining_benchmarks_for_continual_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Defining Benchmarks For Continual Few-shot Learning](../papers/defining_benchmarks_for_continual_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[160] Meta Continual Learning</summary>
+<br>
+<!-- (meta_continual_learning.md) -->
+
+# meta_continual_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta Continual Learning](../papers/meta_continual_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[161] Meta-Learning With Warped Gradient Descent</summary>
+<br>
+<!-- (meta_learning_with_warped_gradient_descent.md) -->
+
+# meta_learning_with_warped_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning With Warped Gradient Descent](../papers/meta_learning_with_warped_gradient_descent.md)
+
+</details>
+
+
+
+<details>
+<summary>[128] Incremental Few-shot Learning With Attention Attractor Networks</summary>
+<br>
+<!-- (incremental_few_shot_learning_with_attention_attractor_networks.md) -->
+
+# incremental_few_shot_learning_with_attention_attractor_networks.md
+
+<!-- REFERENCE -->
+
+
+[Incremental Few-shot Learning With Attention Attractor Networks](../papers/incremental_few_shot_learning_with_attention_attractor_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[253] Meta-learning Representations For Continual Learning</summary>
+<br>
+<!-- (meta_learning_representations_for_continual_learning.md) -->
+
+# meta_learning_representations_for_continual_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-learning Representations For Continual Learning](../papers/meta_learning_representations_for_continual_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
+<br>
+<!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
+
+# continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md
+
+<!-- REFERENCE -->
+
+
+[Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
+
+</details>
+
+
+
+<details>
+<summary>[60] Lifelong Machine Learning, Second Edition</summary>
+<br>
+<!-- (lifelong_machine_learning_second_edition.md) -->
+
+# lifelong_machine_learning_second_edition.md
+
+<!-- REFERENCE -->
+
+
+[Lifelong Machine Learning, Second Edition](../papers/lifelong_machine_learning_second_edition.md)
+
+</details>
+
+
+
+<details>
+<summary>[254] Editable Neural Networks</summary>
+<br>
+<!-- (editable_neural_networks.md) -->
+
+# editable_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Editable Neural Networks](../papers/editable_neural_networks.md)
+
+</details>
+

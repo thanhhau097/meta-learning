@@ -26,16 +26,16 @@ Hyperparameter Optimization (HO) is within the remit of meta-learning, in that h
 
 
 <details>
-<summary>[70] Taking The Human Out Of The Loop: A Review Of Bayesian Optimization</summary>
+<summary>[67] Forward And Reverse Gradient-Based Hyperparameter Optimization</summary>
 <br>
-<!-- (taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md) -->
+<!-- (forward_and_reverse_gradient_based_hyperparameter_optimization.md) -->
 
-# taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md
+# forward_and_reverse_gradient_based_hyperparameter_optimization.md
 
 <!-- REFERENCE -->
 
 
-[Taking The Human Out Of The Loop: A Review Of Bayesian Optimization](../papers/taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md)
+[Forward And Reverse Gradient-Based Hyperparameter Optimization](../papers/forward_and_reverse_gradient_based_hyperparameter_optimization.md)
 
 </details>
 
@@ -58,16 +58,16 @@ Hyperparameter Optimization (HO) is within the remit of meta-learning, in that h
 
 
 <details>
-<summary>[67] Forward And Reverse Gradient-Based Hyperparameter Optimization</summary>
+<summary>[70] Taking The Human Out Of The Loop: A Review Of Bayesian Optimization</summary>
 <br>
-<!-- (forward_and_reverse_gradient_based_hyperparameter_optimization.md) -->
+<!-- (taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md) -->
 
-# forward_and_reverse_gradient_based_hyperparameter_optimization.md
+# taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md
 
 <!-- REFERENCE -->
 
 
-[Forward And Reverse Gradient-Based Hyperparameter Optimization](../papers/forward_and_reverse_gradient_based_hyperparameter_optimization.md)
+[Taking The Human Out Of The Loop: A Review Of Bayesian Optimization](../papers/taking_the_human_out_of_the_loop_a_review_of_bayesian_optimization.md)
 
 </details>
 

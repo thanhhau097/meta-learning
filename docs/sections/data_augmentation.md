@@ -5,22 +5,6 @@ inner-level learning and optimized in outer-level learning.
 
 
 <details>
-<summary>[133] AutoAugment: Learning Augmentation Policies From Data</summary>
-<br>
-<!-- (autoaugment_learning_augmentation_policies_from_data.md) -->
-
-# autoaugment_learning_augmentation_policies_from_data.md
-
-<!-- REFERENCE -->
-
-
-[AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
-
-</details>
-
-
-
-<details>
 <summary>[134] DADA: Differentiable Automatic Data Augmentation</summary>
 <br>
 <!-- (dada_differentiable_automatic_data_augmentation.md) -->
@@ -47,6 +31,22 @@ inner-level learning and optimized in outer-level learning.
 
 
 [Data Augmentation Generative Adversarial Networks](../papers/data_augmentation_generative_adversarial_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[133] AutoAugment: Learning Augmentation Policies From Data</summary>
+<br>
+<!-- (autoaugment_learning_augmentation_policies_from_data.md) -->
+
+# autoaugment_learning_augmentation_policies_from_data.md
+
+<!-- REFERENCE -->
+
+
+[AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
 
 </details>
 

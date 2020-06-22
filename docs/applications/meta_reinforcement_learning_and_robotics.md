@@ -29,3 +29,723 @@ wide meta-train task distributions with multi-task or meta-
 learning models – before even getting to the performance of meta-testing on novel tasks. This may be due to our RL models being too weak and/or benchmarks being too small in terms of number of tasks. Even Meta-World, ProcGen and PHYRE have dozens rather than hundreds of tasks like vision benchmarks such as tieredImageNet. While these lat- est benchmarks are improving, the field would still benefit from still larger benchmarks with controllable generaliza- tion gaps. It would also be beneficial to have benchmarks with greater difficulty such as requiring memory and ab- stract reasoning, to provide opportunities for more abstract strategies to be meta-learned and exploited across tasks.
 
 <!-- REFERENCE -->
+
+
+<details>
+<summary>[221] Unsupervised Curricula For Visual Meta-Reinforcement Learning</summary>
+<br>
+<!-- (unsupervised_curricula_for_visual_meta_reinforcement_learning.md) -->
+
+# unsupervised_curricula_for_visual_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Unsupervised Curricula For Visual Meta-Reinforcement Learning](../papers/unsupervised_curricula_for_visual_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[90] Proximal Policy Optimization Algorithms</summary>
+<br>
+<!-- (proximal_policy_optimization_algorithms.md) -->
+
+# proximal_policy_optimization_algorithms.md
+
+<!-- REFERENCE -->
+
+
+[Proximal Policy Optimization Algorithms](../papers/proximal_policy_optimization_algorithms.md)
+
+</details>
+
+
+
+<details>
+<summary>[215] Simple Statistical Gradient-Following Algorithms For Connectionist Reinforcement Learning</summary>
+<br>
+<!-- (simple_statistical_gradient_following_algorithms_for_connectionist_reinforcement_learning.md) -->
+
+# simple_statistical_gradient_following_algorithms_for_connectionist_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Simple Statistical Gradient-Following Algorithms For Connectionist Reinforcement Learning](../papers/simple_statistical_gradient_following_algorithms_for_connectionist_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[105] One-shot Imitation Learning</summary>
+<br>
+<!-- (one_shot_imitation_learning.md) -->
+
+# one_shot_imitation_learning.md
+
+<!-- REFERENCE -->
+
+
+[One-shot Imitation Learning](../papers/one_shot_imitation_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[223] SMILe: Scalable Meta Inverse Reinforcement Learning Through ContextConditional Policies</summary>
+<br>
+<!-- (smile_scalable_meta_inverse_reinforcement_learning_through_contextconditional_policies.md) -->
+
+# smile_scalable_meta_inverse_reinforcement_learning_through_contextconditional_policies.md
+
+<!-- REFERENCE -->
+
+
+[SMILe: Scalable Meta Inverse Reinforcement Learning Through ContextConditional Policies](../papers/smile_scalable_meta_inverse_reinforcement_learning_through_contextconditional_policies.md)
+
+</details>
+
+
+
+<details>
+<summary>[225] Gotta Learn Fast: A New Benchmark For Generalization In RL</summary>
+<br>
+<!-- (gotta_learn_fast_a_new_benchmark_for_generalization_in_rl.md) -->
+
+# gotta_learn_fast_a_new_benchmark_for_generalization_in_rl.md
+
+<!-- REFERENCE -->
+
+
+[Gotta Learn Fast: A New Benchmark For Generalization In RL](../papers/gotta_learn_fast_a_new_benchmark_for_generalization_in_rl.md)
+
+</details>
+
+
+
+<details>
+<summary>[158] ES-MAML: Simple Hessian-Free Meta Learning</summary>
+<br>
+<!-- (es_maml_simple_hessian_free_meta_learning.md) -->
+
+# es_maml_simple_hessian_free_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[ES-MAML: Simple Hessian-Free Meta Learning](../papers/es_maml_simple_hessian_free_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[24] Meta-Learning Curiosity Algorithms</summary>
+<br>
+<!-- (meta_learning_curiosity_algorithms.md) -->
+
+# meta_learning_curiosity_algorithms.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning Curiosity Algorithms](../papers/meta_learning_curiosity_algorithms.md)
+
+</details>
+
+
+
+<details>
+<summary>[159] MetaLearning By The Baldwin Effect</summary>
+<br>
+<!-- (metalearning_by_the_baldwin_effect.md) -->
+
+# metalearning_by_the_baldwin_effect.md
+
+<!-- REFERENCE -->
+
+
+[MetaLearning By The Baldwin Effect](../papers/metalearning_by_the_baldwin_effect.md)
+
+</details>
+
+
+
+<details>
+<summary>[231] Phyre: A New Benchmark For Physical Reasoning</summary>
+<br>
+<!-- (phyre_a_new_benchmark_for_physical_reasoning.md) -->
+
+# phyre_a_new_benchmark_for_physical_reasoning.md
+
+<!-- REFERENCE -->
+
+
+[Phyre: A New Benchmark For Physical Reasoning](../papers/phyre_a_new_benchmark_for_physical_reasoning.md)
+
+</details>
+
+
+
+<details>
+<summary>[164] Humanlevel Performance In 3D Multiplayer Games With Populationbased Reinforcement Learning</summary>
+<br>
+<!-- (humanlevel_performance_in_3d_multiplayer_games_with_populationbased_reinforcement_learning.md) -->
+
+# humanlevel_performance_in_3d_multiplayer_games_with_populationbased_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Humanlevel Performance In 3D Multiplayer Games With Populationbased Reinforcement Learning](../papers/humanlevel_performance_in_3d_multiplayer_games_with_populationbased_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[157] Meta-QLearning</summary>
+<br>
+<!-- (meta_qlearning.md) -->
+
+# meta_qlearning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-QLearning](../papers/meta_qlearning.md)
+
+</details>
+
+
+
+<details>
+<summary>[170] Some Considerations On Learning To Explore Via Meta-Reinforcement Learning</summary>
+<br>
+<!-- (some_considerations_on_learning_to_explore_via_meta_reinforcement_learning.md) -->
+
+# some_considerations_on_learning_to_explore_via_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Some Considerations On Learning To Explore Via Meta-Reinforcement Learning](../papers/some_considerations_on_learning_to_explore_via_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[219] Soft ActorCritic: Off-Policy Maximum Entropy Deep Reinforcement Learning With A Stochastic Actor</summary>
+<br>
+<!-- (soft_actorcritic_off_policy_maximum_entropy_deep_reinforcement_learning_with_a_stochastic_actor.md) -->
+
+# soft_actorcritic_off_policy_maximum_entropy_deep_reinforcement_learning_with_a_stochastic_actor.md
+
+<!-- REFERENCE -->
+
+
+[Soft ActorCritic: Off-Policy Maximum Entropy Deep Reinforcement Learning With A Stochastic Actor](../papers/soft_actorcritic_off_policy_maximum_entropy_deep_reinforcement_learning_with_a_stochastic_actor.md)
+
+</details>
+
+
+
+<details>
+<summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
+<br>
+<!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
+
+# continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md
+
+<!-- REFERENCE -->
+
+
+[Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
+
+</details>
+
+
+
+<details>
+<summary>[216] Provably Convergent Policy Gradient Methods For Model-Agnostic MetaReinforcement Learning</summary>
+<br>
+<!-- (provably_convergent_policy_gradient_methods_for_model_agnostic_metareinforcement_learning.md) -->
+
+# provably_convergent_policy_gradient_methods_for_model_agnostic_metareinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Provably Convergent Policy Gradient Methods For Model-Agnostic MetaReinforcement Learning](../papers/provably_convergent_policy_gradient_methods_for_model_agnostic_metareinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[167] Discovery Of Useful Questions As Auxiliary Tasks</summary>
+<br>
+<!-- (discovery_of_useful_questions_as_auxiliary_tasks.md) -->
+
+# discovery_of_useful_questions_as_auxiliary_tasks.md
+
+<!-- REFERENCE -->
+
+
+[Discovery Of Useful Questions As Auxiliary Tasks](../papers/discovery_of_useful_questions_as_auxiliary_tasks.md)
+
+</details>
+
+
+
+<details>
+<summary>[171] A Meta-MDP Approach To Exploration For Lifelong Reinforcement Learning</summary>
+<br>
+<!-- (a_meta_mdp_approach_to_exploration_for_lifelong_reinforcement_learning.md) -->
+
+# a_meta_mdp_approach_to_exploration_for_lifelong_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[A Meta-MDP Approach To Exploration For Lifelong Reinforcement Learning](../papers/a_meta_mdp_approach_to_exploration_for_lifelong_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[113] Online Meta-Critic Learning For Off-Policy Actor-Critic Methods</summary>
+<br>
+<!-- (online_meta_critic_learning_for_off_policy_actor_critic_methods.md) -->
+
+# online_meta_critic_learning_for_off_policy_actor_critic_methods.md
+
+<!-- REFERENCE -->
+
+
+[Online Meta-Critic Learning For Off-Policy Actor-Critic Methods](../papers/online_meta_critic_learning_for_off_policy_actor_critic_methods.md)
+
+</details>
+
+
+
+<details>
+<summary>[169] Learning To Explore With Meta-Policy Gradient</summary>
+<br>
+<!-- (learning_to_explore_with_meta_policy_gradient.md) -->
+
+# learning_to_explore_with_meta_policy_gradient.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Explore With Meta-Policy Gradient](../papers/learning_to_explore_with_meta_policy_gradient.md)
+
+</details>
+
+
+
+<details>
+<summary>[226] Quantifying Generalization In Reinforcement Learning</summary>
+<br>
+<!-- (quantifying_generalization_in_reinforcement_learning.md) -->
+
+# quantifying_generalization_in_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Quantifying Generalization In Reinforcement Learning](../papers/quantifying_generalization_in_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[156] ProMP: Proximal Meta-Policy Search</summary>
+<br>
+<!-- (promp_proximal_meta_policy_search.md) -->
+
+# promp_proximal_meta_policy_search.md
+
+<!-- REFERENCE -->
+
+
+[ProMP: Proximal Meta-Policy Search](../papers/promp_proximal_meta_policy_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[131] Neu- ´ ral Relational Inference With Fast Modular Meta-learning</summary>
+<br>
+<!-- (neu_ral_relational_inference_with_fast_modular_meta_learning.md) -->
+
+# neu_ral_relational_inference_with_fast_modular_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Neu- ´ ral Relational Inference With Fast Modular Meta-learning](../papers/neu_ral_relational_inference_with_fast_modular_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[23] Evolved Policy Gradients</summary>
+<br>
+<!-- (evolved_policy_gradients.md) -->
+
+# evolved_policy_gradients.md
+
+<!-- REFERENCE -->
+
+
+[Evolved Policy Gradients](../papers/evolved_policy_gradients.md)
+
+</details>
+
+
+
+<details>
+<summary>[168] On Learning Intrinsic Rewards For Policy Gradient Methods</summary>
+<br>
+<!-- (on_learning_intrinsic_rewards_for_policy_gradient_methods.md) -->
+
+# on_learning_intrinsic_rewards_for_policy_gradient_methods.md
+
+<!-- REFERENCE -->
+
+
+[On Learning Intrinsic Rewards For Policy Gradient Methods](../papers/on_learning_intrinsic_rewards_for_policy_gradient_methods.md)
+
+</details>
+
+
+
+<details>
+<summary>[75] Meta-SGD: Learning To Learn Quickly For Few Shot Learning</summary>
+<br>
+<!-- (meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md) -->
+
+# meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-SGD: Learning To Learn Quickly For Few Shot Learning](../papers/meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[162] Meta-Gradient Reinforcement Learning</summary>
+<br>
+<!-- (meta_gradient_reinforcement_learning.md) -->
+
+# meta_gradient_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Gradient Reinforcement Learning](../papers/meta_gradient_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[22] RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning</summary>
+<br>
+<!-- (rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md) -->
+
+# rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning](../papers/rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[229] Investigating Generalisation In Continuous Deep Reinforcement Learning</summary>
+<br>
+<!-- (investigating_generalisation_in_continuous_deep_reinforcement_learning.md) -->
+
+# investigating_generalisation_in_continuous_deep_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Investigating Generalisation In Continuous Deep Reinforcement Learning](../papers/investigating_generalisation_in_continuous_deep_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[222] Norml: No-reward Meta Learning</summary>
+<br>
+<!-- (norml_no_reward_meta_learning.md) -->
+
+# norml_no_reward_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Norml: No-reward Meta Learning](../papers/norml_no_reward_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[224] Revisiting The Arcade Learning Environment: Evaluation Protocols And Open Problems For General Agents</summary>
+<br>
+<!-- (revisiting_the_arcade_learning_environment_evaluation_protocols_and_open_problems_for_general_agents.md) -->
+
+# revisiting_the_arcade_learning_environment_evaluation_protocols_and_open_problems_for_general_agents.md
+
+<!-- REFERENCE -->
+
+
+[Revisiting The Arcade Learning Environment: Evaluation Protocols And Open Problems For General Agents](../papers/revisiting_the_arcade_learning_environment_evaluation_protocols_and_open_problems_for_general_agents.md)
+
+</details>
+
+
+
+<details>
+<summary>[106] Learning To Reinforcement Learn</summary>
+<br>
+<!-- (learning_to_reinforcement_learn.md) -->
+
+# learning_to_reinforcement_learn.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Reinforcement Learn](../papers/learning_to_reinforcement_learn.md)
+
+</details>
+
+
+
+<details>
+<summary>[163] Metatrace Actor-Critic: Online Step-Size Tuning By Meta-gradient Descent For Reinforcement Learning Control</summary>
+<br>
+<!-- (metatrace_actor_critic_online_step_size_tuning_by_meta_gradient_descent_for_reinforcement_learning_control.md) -->
+
+# metatrace_actor_critic_online_step_size_tuning_by_meta_gradient_descent_for_reinforcement_learning_control.md
+
+<!-- REFERENCE -->
+
+
+[Metatrace Actor-Critic: Online Step-Size Tuning By Meta-gradient Descent For Reinforcement Learning Control](../papers/metatrace_actor_critic_online_step_size_tuning_by_meta_gradient_descent_for_reinforcement_learning_control.md)
+
+</details>
+
+
+
+<details>
+<summary>[172] MetaReinforcement Learning Of Structured Exploration Strategies</summary>
+<br>
+<!-- (metareinforcement_learning_of_structured_exploration_strategies.md) -->
+
+# metareinforcement_learning_of_structured_exploration_strategies.md
+
+<!-- REFERENCE -->
+
+
+[MetaReinforcement Learning Of Structured Exploration Strategies](../papers/metareinforcement_learning_of_structured_exploration_strategies.md)
+
+</details>
+
+
+
+<details>
+<summary>[109] Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables</summary>
+<br>
+<!-- (efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md) -->
+
+# efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md
+
+<!-- REFERENCE -->
+
+
+[Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables](../papers/efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md)
+
+</details>
+
+
+
+<details>
+<summary>[220] A Review Of Robot Learning For Manipulation: Challenges, Representations, And Algorithms</summary>
+<br>
+<!-- (a_review_of_robot_learning_for_manipulation_challenges_representations_and_algorithms.md) -->
+
+# a_review_of_robot_learning_for_manipulation_challenges_representations_and_algorithms.md
+
+<!-- REFERENCE -->
+
+
+[A Review Of Robot Learning For Manipulation: Challenges, Representations, And Algorithms](../papers/a_review_of_robot_learning_for_manipulation_challenges_representations_and_algorithms.md)
+
+</details>
+
+
+
+<details>
+<summary>[230] Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning</summary>
+<br>
+<!-- (meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md) -->
+
+# meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning](../papers/meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[228] Assessing Generalization In Deep Reinforcement Learning</summary>
+<br>
+<!-- (assessing_generalization_in_deep_reinforcement_learning.md) -->
+
+# assessing_generalization_in_deep_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Assessing Generalization In Deep Reinforcement Learning](../papers/assessing_generalization_in_deep_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[63] Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning</summary>
+<br>
+<!-- (learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md) -->
+
+# learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning](../papers/learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[218] Improving Generalization In Meta Reinforcement Learning Using Learned Objectives</summary>
+<br>
+<!-- (improving_generalization_in_meta_reinforcement_learning_using_learned_objectives.md) -->
+
+# improving_generalization_in_meta_reinforcement_learning_using_learned_objectives.md
+
+<!-- REFERENCE -->
+
+
+[Improving Generalization In Meta Reinforcement Learning Using Learned Objectives](../papers/improving_generalization_in_meta_reinforcement_learning_using_learned_objectives.md)
+
+</details>
+
+
+
+<details>
+<summary>[155] Taming MAML: Efficient Unbiased Meta-reinforcement Learning</summary>
+<br>
+<!-- (taming_maml_efficient_unbiased_meta_reinforcement_learning.md) -->
+
+# taming_maml_efficient_unbiased_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Taming MAML: Efficient Unbiased Meta-reinforcement Learning](../papers/taming_maml_efficient_unbiased_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[217] Policy Search In Continuous Action Domains: An Overview</summary>
+<br>
+<!-- (policy_search_in_continuous_action_domains_an_overview.md) -->
+
+# policy_search_in_continuous_action_domains_an_overview.md
+
+<!-- REFERENCE -->
+
+
+[Policy Search In Continuous Action Domains: An Overview](../papers/policy_search_in_continuous_action_domains_an_overview.md)
+
+</details>
+
+
+
+<details>
+<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<br>
+<!-- (a_simple_neural_attentive_meta_learner.md) -->
+
+# a_simple_neural_attentive_meta_learner.md
+
+<!-- REFERENCE -->
+
+
+[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
+
+</details>
+
+
+
+<details>
+<summary>[227] OpenAI Gym</summary>
+<br>
+<!-- (openai_gym.md) -->
+
+# openai_gym.md
+
+<!-- REFERENCE -->
+
+
+[OpenAI Gym](../papers/openai_gym.md)
+
+</details>
+

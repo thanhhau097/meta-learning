@@ -22,16 +22,16 @@ Multi-Task Learning (MTL) aims to jointly learn several related tasks, and benef
 
 
 <details>
-<summary>[68] Adaptive Auxiliary Task Weighting For Reinforcement Learning</summary>
+<summary>[64] Multitask Learning</summary>
 <br>
-<!-- (adaptive_auxiliary_task_weighting_for_reinforcement_learning.md) -->
+<!-- (multitask_learning.md) -->
 
-# adaptive_auxiliary_task_weighting_for_reinforcement_learning.md
+# multitask_learning.md
 
 <!-- REFERENCE -->
 
 
-[Adaptive Auxiliary Task Weighting For Reinforcement Learning](../papers/adaptive_auxiliary_task_weighting_for_reinforcement_learning.md)
+[Multitask Learning](../papers/multitask_learning.md)
 
 </details>
 
@@ -54,16 +54,16 @@ Multi-Task Learning (MTL) aims to jointly learn several related tasks, and benef
 
 
 <details>
-<summary>[64] Multitask Learning</summary>
+<summary>[68] Adaptive Auxiliary Task Weighting For Reinforcement Learning</summary>
 <br>
-<!-- (multitask_learning.md) -->
+<!-- (adaptive_auxiliary_task_weighting_for_reinforcement_learning.md) -->
 
-# multitask_learning.md
+# adaptive_auxiliary_task_weighting_for_reinforcement_learning.md
 
 <!-- REFERENCE -->
 
 
-[Multitask Learning](../papers/multitask_learning.md)
+[Adaptive Auxiliary Task Weighting For Reinforcement Learning](../papers/adaptive_auxiliary_task_weighting_for_reinforcement_learning.md)
 
 </details>
 

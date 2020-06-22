@@ -5,22 +5,6 @@ A cross-cutting distinction that can be made across many of the meta-representat
 
 
 <details>
-<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
-<br>
-<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
-
-# feature_critic_networks_for_heterogeneous_domain_generalization.md
-
-<!-- REFERENCE -->
-
-
-[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
-
-</details>
-
-
-
-<details>
 <summary>[115] Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization</summary>
 <br>
 <!-- (improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md) -->
@@ -37,16 +21,32 @@ A cross-cutting distinction that can be made across many of the meta-representat
 
 
 <details>
-<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
+<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
 <br>
-<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
+<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
 
-# learning_to_learn_by_gradient_descent_by_gradient_descent.md
+# neural_optimizer_search_with_reinforcement_learning.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
+[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<br>
+<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+
+# feature_critic_networks_for_heterogeneous_domain_generalization.md
+
+<!-- REFERENCE -->
+
+
+[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
 
 </details>
 
@@ -85,16 +85,16 @@ A cross-cutting distinction that can be made across many of the meta-representat
 
 
 <details>
-<summary>[89] Neural Optimizer Search With Reinforcement Learning</summary>
+<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
 <br>
-<!-- (neural_optimizer_search_with_reinforcement_learning.md) -->
+<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
 
-# neural_optimizer_search_with_reinforcement_learning.md
+# learning_to_learn_by_gradient_descent_by_gradient_descent.md
 
 <!-- REFERENCE -->
 
 
-[Neural Optimizer Search With Reinforcement Learning](../papers/neural_optimizer_search_with_reinforcement_learning.md)
+[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
 
 </details>
 

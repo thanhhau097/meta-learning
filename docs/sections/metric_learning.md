@@ -6,16 +6,16 @@ Metric-learning or non-parametric algo- rithms are thus far largely restricted t
 
 
 <details>
-<summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
+<summary>[86] Matching Networks For One Shot Learning</summary>
 <br>
-<!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
+<!-- (matching_networks_for_one_shot_learning.md) -->
 
-# learning_to_compare_relation_network_for_fewshot_learning.md
+# matching_networks_for_one_shot_learning.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
+[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
 
 </details>
 
@@ -38,32 +38,16 @@ Metric-learning or non-parametric algo- rithms are thus far largely restricted t
 
 
 <details>
-<summary>[86] Matching Networks For One Shot Learning</summary>
+<summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
 <br>
-<!-- (matching_networks_for_one_shot_learning.md) -->
+<!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
 
-# matching_networks_for_one_shot_learning.md
+# learning_to_compare_relation_network_for_fewshot_learning.md
 
 <!-- REFERENCE -->
 
 
-[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[88] Few-Shot Learning With Graph Neural Networks</summary>
-<br>
-<!-- (few_shot_learning_with_graph_neural_networks.md) -->
-
-# few_shot_learning_with_graph_neural_networks.md
-
-<!-- REFERENCE -->
-
-
-[Few-Shot Learning With Graph Neural Networks](../papers/few_shot_learning_with_graph_neural_networks.md)
+[Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
 
 </details>
 
@@ -80,6 +64,22 @@ Metric-learning or non-parametric algo- rithms are thus far largely restricted t
 
 
 [Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[88] Few-Shot Learning With Graph Neural Networks</summary>
+<br>
+<!-- (few_shot_learning_with_graph_neural_networks.md) -->
+
+# few_shot_learning_with_graph_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Learning With Graph Neural Networks](../papers/few_shot_learning_with_graph_neural_networks.md)
 
 </details>
 

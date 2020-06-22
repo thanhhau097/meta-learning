@@ -57,12 +57,15 @@ def process(file):
     reference_numbers = set(get_reference_numbers(reference_content))
 
     for reference_number in reference_numbers:
-        with open(os.path.join(paper_folder, reference[reference_number]['markdown']), 'r') as f:
-            file_content = f.readlines()
+        try:
+            with open(os.path.join(paper_folder, reference[reference_number]['markdown']), 'r') as f:
+                file_content = f.readlines()
 
-        new_content = fill(reference, reference_number, file_content)
-        new_content = [line + '\n' for line in new_content.split('\n')]
-        reference_content += ['\n'] + new_content
+            new_content = fill(reference, reference_number, file_content)
+            new_content = [line + '\n' for line in new_content.split('\n')]
+            reference_content += ['\n'] + new_content
+        except:
+            continue
 
     with open(file, 'w') as f:
         for line in reference_content:

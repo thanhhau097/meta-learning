@@ -6,6 +6,22 @@ Many meta-learning frameworks [19] implicitly assume that the distribution over 
 
 
 <details>
+<summary>[230] Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning</summary>
+<br>
+<!-- (meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md) -->
+
+# meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning](../papers/meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
 <summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
 <br>
 <!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
@@ -16,6 +32,22 @@ Many meta-learning frameworks [19] implicitly assume that the distribution over 
 
 
 [Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[286] Learning With Whom To Share In Multi-task Feature Learning</summary>
+<br>
+<!-- (learning_with_whom_to_share_in_multi_task_feature_learning.md) -->
+
+# learning_with_whom_to_share_in_multi_task_feature_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning With Whom To Share In Multi-task Feature Learning](../papers/learning_with_whom_to_share_in_multi_task_feature_learning.md)
 
 </details>
 
@@ -48,38 +80,6 @@ Many meta-learning frameworks [19] implicitly assume that the distribution over 
 
 
 [A Unified Perspective On MultiDomain And Multi-Task Learning](../papers/a_unified_perspective_on_multidomain_and_multi_task_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[286] Learning With Whom To Share In Multi-task Feature Learning</summary>
-<br>
-<!-- (learning_with_whom_to_share_in_multi_task_feature_learning.md) -->
-
-# learning_with_whom_to_share_in_multi_task_feature_learning.md
-
-<!-- REFERENCE -->
-
-
-[Learning With Whom To Share In Multi-task Feature Learning](../papers/learning_with_whom_to_share_in_multi_task_feature_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[230] Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning</summary>
-<br>
-<!-- (meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md) -->
-
-# meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md
-
-<!-- REFERENCE -->
-
-
-[Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning](../papers/meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md)
 
 </details>
 

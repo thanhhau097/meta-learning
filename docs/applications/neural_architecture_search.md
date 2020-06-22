@@ -14,3 +14,355 @@ from a parameter learning perspective in the context of hand-crafted architectur
 
 **Benchmarks NAS** is often evaluated on the CIFAR-10 dataset. However even on this small dataset, architecture search is costly to perform, making it inaccessible to many researchers; and furthermore results are hard to reproduce due to other confounding factors such as tuning of hy- perparameters [240]. To support reproducible and accessi- ble research, the recently released NASbenches [241], [242] provides pre-computed performance measures for a large number of network architectures.
 <!-- REFERENCE -->
+
+
+<details>
+<summary>[28] Neural Architecture Search With Reinforcement Learning</summary>
+<br>
+<!-- (neural_architecture_search_with_reinforcement_learning.md) -->
+
+# neural_architecture_search_with_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Neural Architecture Search With Reinforcement Learning](../papers/neural_architecture_search_with_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[235] EfficientNet: Rethinking Model Scaling For Convolutional Neural Networks</summary>
+<br>
+<!-- (efficientnet_rethinking_model_scaling_for_convolutional_neural_networks.md) -->
+
+# efficientnet_rethinking_model_scaling_for_convolutional_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[EfficientNet: Rethinking Model Scaling For Convolutional Neural Networks](../papers/efficientnet_rethinking_model_scaling_for_convolutional_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[240] Random Search And Reproducibility For Neural Architecture Search</summary>
+<br>
+<!-- (random_search_and_reproducibility_for_neural_architecture_search.md) -->
+
+# random_search_and_reproducibility_for_neural_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[Random Search And Reproducibility For Neural Architecture Search](../papers/random_search_and_reproducibility_for_neural_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[125] Towards Fast Adaptation Of Neural Architectures With Meta Learning</summary>
+<br>
+<!-- (towards_fast_adaptation_of_neural_architectures_with_meta_learning.md) -->
+
+# towards_fast_adaptation_of_neural_architectures_with_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Towards Fast Adaptation Of Neural Architectures With Meta Learning](../papers/towards_fast_adaptation_of_neural_architectures_with_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[239] Meta-Learning Of Neural Architectures For Few-Shot Learning</summary>
+<br>
+<!-- (meta_learning_of_neural_architectures_for_few_shot_learning.md) -->
+
+# meta_learning_of_neural_architectures_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning Of Neural Architectures For Few-Shot Learning](../papers/meta_learning_of_neural_architectures_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
+<br>
+<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
+
+# regularized_evolution_for_image_classifier_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[20] Prototypical Networks For Few Shot Learning</summary>
+<br>
+<!-- (prototypical_networks_for_few_shot_learning.md) -->
+
+# prototypical_networks_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[234] Learning Transferable Architectures For Scalable Image Recognition</summary>
+<br>
+<!-- (learning_transferable_architectures_for_scalable_image_recognition.md) -->
+
+# learning_transferable_architectures_for_scalable_image_recognition.md
+
+<!-- REFERENCE -->
+
+
+[Learning Transferable Architectures For Scalable Image Recognition](../papers/learning_transferable_architectures_for_scalable_image_recognition.md)
+
+</details>
+
+
+
+<details>
+<summary>[237] Mnasnet: Platform-aware Neural Architecture Search For Mobile</summary>
+<br>
+<!-- (mnasnet_platform_aware_neural_architecture_search_for_mobile.md) -->
+
+# mnasnet_platform_aware_neural_architecture_search_for_mobile.md
+
+<!-- REFERENCE -->
+
+
+[Mnasnet: Platform-aware Neural Architecture Search For Mobile](../papers/mnasnet_platform_aware_neural_architecture_search_for_mobile.md)
+
+</details>
+
+
+
+<details>
+<summary>[241] NAS-Bench-101: Towards Reproducible Neural Architecture Search</summary>
+<br>
+<!-- (nas_bench_101_towards_reproducible_neural_architecture_search.md) -->
+
+# nas_bench_101_towards_reproducible_neural_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[NAS-Bench-101: Towards Reproducible Neural Architecture Search](../papers/nas_bench_101_towards_reproducible_neural_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
+<br>
+<!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
+
+# learning_to_compare_relation_network_for_fewshot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[238] Auto-Meta: Automated Gradient Based Meta Learner Search</summary>
+<br>
+<!-- (auto_meta_automated_gradient_based_meta_learner_search.md) -->
+
+# auto_meta_automated_gradient_based_meta_learner_search.md
+
+<!-- REFERENCE -->
+
+
+[Auto-Meta: Automated Gradient Based Meta Learner Search](../papers/auto_meta_automated_gradient_based_meta_learner_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[7] AI Benchmark: All About Deep Learning On Smartphones In 2019</summary>
+<br>
+<!-- (ai_benchmark_all_about_deep_learning_on_smartphones_in_2019.md) -->
+
+# ai_benchmark_all_about_deep_learning_on_smartphones_in_2019.md
+
+<!-- REFERENCE -->
+
+
+[AI Benchmark: All About Deep Learning On Smartphones In 2019](../papers/ai_benchmark_all_about_deep_learning_on_smartphones_in_2019.md)
+
+</details>
+
+
+
+<details>
+<summary>[39] Neural Architecture Search: A Survey</summary>
+<br>
+<!-- (neural_architecture_search_a_survey.md) -->
+
+# neural_architecture_search_a_survey.md
+
+<!-- REFERENCE -->
+
+
+[Neural Architecture Search: A Survey](../papers/neural_architecture_search_a_survey.md)
+
+</details>
+
+
+
+<details>
+<summary>[126] Meta Architecture Search</summary>
+<br>
+<!-- (meta_architecture_search.md) -->
+
+# meta_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[Meta Architecture Search](../papers/meta_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[123] Designing Neural Networks Through Neuroevolution</summary>
+<br>
+<!-- (designing_neural_networks_through_neuroevolution.md) -->
+
+# designing_neural_networks_through_neuroevolution.md
+
+<!-- REFERENCE -->
+
+
+[Designing Neural Networks Through Neuroevolution](../papers/designing_neural_networks_through_neuroevolution.md)
+
+</details>
+
+
+
+<details>
+<summary>[242] NAS-Bench-201: Extending The Scope Of Reproducible Neural Architecture Search</summary>
+<br>
+<!-- (nas_bench_201_extending_the_scope_of_reproducible_neural_architecture_search.md) -->
+
+# nas_bench_201_extending_the_scope_of_reproducible_neural_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[NAS-Bench-201: Extending The Scope Of Reproducible Neural Architecture Search](../papers/nas_bench_201_extending_the_scope_of_reproducible_neural_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[124] SNAS: Stochastic Neural Architecture Search</summary>
+<br>
+<!-- (snas_stochastic_neural_architecture_search.md) -->
+
+# snas_stochastic_neural_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[SNAS: Stochastic Neural Architecture Search](../papers/snas_stochastic_neural_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[151] Searching For Activation Functions</summary>
+<br>
+<!-- (searching_for_activation_functions.md) -->
+
+# searching_for_activation_functions.md
+
+<!-- REFERENCE -->
+
+
+[Searching For Activation Functions](../papers/searching_for_activation_functions.md)
+
+</details>
+
+
+
+<details>
+<summary>[236] Searching For Mobilenetv3</summary>
+<br>
+<!-- (searching_for_mobilenetv3.md) -->
+
+# searching_for_mobilenetv3.md
+
+<!-- REFERENCE -->
+
+
+[Searching For Mobilenetv3](../papers/searching_for_mobilenetv3.md)
+
+</details>
+
+
+
+<details>
+<summary>[26] DARTS: Differentiable Architecture Search</summary>
+<br>
+<!-- (darts_differentiable_architecture_search.md) -->
+
+# darts_differentiable_architecture_search.md
+
+<!-- REFERENCE -->
+
+
+[DARTS: Differentiable Architecture Search](../papers/darts_differentiable_architecture_search.md)
+
+</details>
+

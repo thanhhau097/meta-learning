@@ -5,22 +5,6 @@ Attention mechanisms have been shown to improve generalization performance and i
 
 
 <details>
-<summary>[127] Cross Attention Network For Few-shot Classification</summary>
-<br>
-<!-- (cross_attention_network_for_few_shot_classification.md) -->
-
-# cross_attention_network_for_few_shot_classification.md
-
-<!-- REFERENCE -->
-
-
-[Cross Attention Network For Few-shot Classification](../papers/cross_attention_network_for_few_shot_classification.md)
-
-</details>
-
-
-
-<details>
 <summary>[129] Few-shot Text Classification With Distributional Signatures</summary>
 <br>
 <!-- (few_shot_text_classification_with_distributional_signatures.md) -->
@@ -31,6 +15,22 @@ Attention mechanisms have been shown to improve generalization performance and i
 
 
 [Few-shot Text Classification With Distributional Signatures](../papers/few_shot_text_classification_with_distributional_signatures.md)
+
+</details>
+
+
+
+<details>
+<summary>[127] Cross Attention Network For Few-shot Classification</summary>
+<br>
+<!-- (cross_attention_network_for_few_shot_classification.md) -->
+
+# cross_attention_network_for_few_shot_classification.md
+
+<!-- REFERENCE -->
+
+
+[Cross Attention Network For Few-shot Classification](../papers/cross_attention_network_for_few_shot_classification.md)
 
 </details>
 

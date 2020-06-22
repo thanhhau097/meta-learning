@@ -6,6 +6,22 @@ target tasks have the same classes but the input distribution of the target task
 
 
 <details>
+<summary>[57] [57] G. Csurka, Domain Adaptation In Computer Vision Applications. Springer, 201</summary>
+<br>
+<!-- (domain_adaptation_in_computer_vision_applications.md) -->
+
+# domain_adaptation_in_computer_vision_applications.md
+
+<!-- REFERENCE -->
+
+
+[[57] G. Csurka, Domain Adaptation In Computer Vision Applications. Springer, 201](../papers/domain_adaptation_in_computer_vision_applications.md)
+
+</details>
+
+
+
+<details>
 <summary>[58] Learning To Generalize: Meta-Learning For Domain Generalization</summary>
 <br>
 <!-- (learning_to_generalize_meta_learning_for_domain_generalization.md) -->
@@ -32,22 +48,6 @@ target tasks have the same classes but the input distribution of the target task
 
 
 [A Survey On Transfer Learning](../papers/a_survey_on_transfer_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[57] [57] G. Csurka, Domain Adaptation In Computer Vision Applications. Springer, 201</summary>
-<br>
-<!-- (domain_adaptation_in_computer_vision_applications.md) -->
-
-# domain_adaptation_in_computer_vision_applications.md
-
-<!-- REFERENCE -->
-
-
-[[57] G. Csurka, Domain Adaptation In Computer Vision Applications. Springer, 201](../papers/domain_adaptation_in_computer_vision_applications.md)
 
 </details>
 

@@ -7,6 +7,70 @@ learn per-sample loss weights ω for the training set [142], [143]. This can be 
 
 
 <details>
+<summary>[137] Active Mini-batch ¨ Sampling Using Repulsive Point Processes</summary>
+<br>
+<!-- (active_mini_batch_sampling_using_repulsive_point_processes.md) -->
+
+# active_mini_batch_sampling_using_repulsive_point_processes.md
+
+<!-- REFERENCE -->
+
+
+[Active Mini-batch ¨ Sampling Using Repulsive Point Processes](../papers/active_mini_batch_sampling_using_repulsive_point_processes.md)
+
+</details>
+
+
+
+<details>
+<summary>[138] Online Batch Selection For Faster Training Of Neural Networks</summary>
+<br>
+<!-- (online_batch_selection_for_faster_training_of_neural_networks.md) -->
+
+# online_batch_selection_for_faster_training_of_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Online Batch Selection For Faster Training Of Neural Networks](../papers/online_batch_selection_for_faster_training_of_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[143] Learning To Reweight Examples For Robust Deep Learning</summary>
+<br>
+<!-- (learning_to_reweight_examples_for_robust_deep_learning.md) -->
+
+# learning_to_reweight_examples_for_robust_deep_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Reweight Examples For Robust Deep Learning](../papers/learning_to_reweight_examples_for_robust_deep_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[139] Learning To Teach</summary>
+<br>
+<!-- (learning_to_teach.md) -->
+
+# learning_to_teach.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Teach](../papers/learning_to_teach.md)
+
+</details>
+
+
+
+<details>
 <summary>[67] Forward And Reverse Gradient-Based Hyperparameter Optimization</summary>
 <br>
 <!-- (forward_and_reverse_gradient_based_hyperparameter_optimization.md) -->
@@ -39,54 +103,6 @@ learn per-sample loss weights ω for the training set [142], [143]. This can be 
 
 
 <details>
-<summary>[139] Learning To Teach</summary>
-<br>
-<!-- (learning_to_teach.md) -->
-
-# learning_to_teach.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Teach](../papers/learning_to_teach.md)
-
-</details>
-
-
-
-<details>
-<summary>[138] Online Batch Selection For Faster Training Of Neural Networks</summary>
-<br>
-<!-- (online_batch_selection_for_faster_training_of_neural_networks.md) -->
-
-# online_batch_selection_for_faster_training_of_neural_networks.md
-
-<!-- REFERENCE -->
-
-
-[Online Batch Selection For Faster Training Of Neural Networks](../papers/online_batch_selection_for_faster_training_of_neural_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[137] Active Mini-batch ¨ Sampling Using Repulsive Point Processes</summary>
-<br>
-<!-- (active_mini_batch_sampling_using_repulsive_point_processes.md) -->
-
-# active_mini_batch_sampling_using_repulsive_point_processes.md
-
-<!-- REFERENCE -->
-
-
-[Active Mini-batch ¨ Sampling Using Repulsive Point Processes](../papers/active_mini_batch_sampling_using_repulsive_point_processes.md)
-
-</details>
-
-
-
-<details>
 <summary>[142] Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting</summary>
 <br>
 <!-- (meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md) -->
@@ -113,22 +129,6 @@ learn per-sample loss weights ω for the training set [142], [143]. This can be 
 
 
 [Mentornet: Learning Data-driven Curriculum For Very Deep Neural Networks On Corrupted Labels](../papers/mentornet_learning_data_driven_curriculum_for_very_deep_neural_networks_on_corrupted_labels.md)
-
-</details>
-
-
-
-<details>
-<summary>[143] Learning To Reweight Examples For Robust Deep Learning</summary>
-<br>
-<!-- (learning_to_reweight_examples_for_robust_deep_learning.md) -->
-
-# learning_to_reweight_examples_for_robust_deep_learning.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Reweight Examples For Robust Deep Learning](../papers/learning_to_reweight_examples_for_robust_deep_learning.md)
 
 </details>
 

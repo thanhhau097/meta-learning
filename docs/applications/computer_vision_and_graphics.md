@@ -44,3 +44,803 @@ Meanwhile, [208] challenges methods to generalize from the everyday images of Im
 fair and consistent best practice for all methods
 
 <!-- REFERENCE -->
+
+
+<details>
+<summary>[15] Imagenet Classification With Deep Convolutional Neural Networks</summary>
+<br>
+<!-- (imagenet_classification_with_deep_convolutional_neural_networks.md) -->
+
+# imagenet_classification_with_deep_convolutional_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Imagenet Classification With Deep Convolutional Neural Networks](../papers/imagenet_classification_with_deep_convolutional_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[209] Does Object Recognition Work For Everyone</summary>
+<br>
+<!-- (does_object_recognition_work_for_everyone.md) -->
+
+# does_object_recognition_work_for_everyone.md
+
+<!-- REFERENCE -->
+
+
+[Does Object Recognition Work For Everyone](../papers/does_object_recognition_work_for_everyone.md)
+
+</details>
+
+
+
+<details>
+<summary>[212] Bayesian Model-Agnostic Meta-Learning</summary>
+<br>
+<!-- (bayesian_model_agnostic_meta_learning.md) -->
+
+# bayesian_model_agnostic_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Bayesian Model-Agnostic Meta-Learning](../papers/bayesian_model_agnostic_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (learning_to_learn_by_selfcritique.md) -->
+
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
+
+</details>
+
+
+
+<details>
+<summary>[73] Automated Relational Meta-learning</summary>
+<br>
+<!-- (automated_relational_meta_learning.md) -->
+
+# automated_relational_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Automated Relational Meta-learning](../papers/automated_relational_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[161] Meta-Learning With Warped Gradient Descent</summary>
+<br>
+<!-- (meta_learning_with_warped_gradient_descent.md) -->
+
+# meta_learning_with_warped_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning With Warped Gradient Descent](../papers/meta_learning_with_warped_gradient_descent.md)
+
+</details>
+
+
+
+<details>
+<summary>[130] Modular Meta- ´ learning</summary>
+<br>
+<!-- (modular_meta_learning.md) -->
+
+# modular_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Modular Meta- ´ learning](../papers/modular_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[196] One-Shot Learning For Semantic Segmentation</summary>
+<br>
+<!-- (one_shot_learning_for_semantic_segmentation.md) -->
+
+# one_shot_learning_for_semantic_segmentation.md
+
+<!-- REFERENCE -->
+
+
+[One-Shot Learning For Semantic Segmentation](../papers/one_shot_learning_for_semantic_segmentation.md)
+
+</details>
+
+
+
+<details>
+<summary>[128] Incremental Few-shot Learning With Attention Attractor Networks</summary>
+<br>
+<!-- (incremental_few_shot_learning_with_attention_attractor_networks.md) -->
+
+# incremental_few_shot_learning_with_attention_attractor_networks.md
+
+<!-- REFERENCE -->
+
+
+[Incremental Few-shot Learning With Attention Attractor Networks](../papers/incremental_few_shot_learning_with_attention_attractor_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[204] Meta-Learning For Semi-Supervised Few-Shot Classification</summary>
+<br>
+<!-- (meta_learning_for_semi_supervised_few_shot_classification.md) -->
+
+# meta_learning_for_semi_supervised_few_shot_classification.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning For Semi-Supervised Few-Shot Classification](../papers/meta_learning_for_semi_supervised_few_shot_classification.md)
+
+</details>
+
+
+
+<details>
+<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<br>
+<!-- (a_simple_neural_attentive_meta_learner.md) -->
+
+# a_simple_neural_attentive_meta_learner.md
+
+<!-- REFERENCE -->
+
+
+[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
+
+</details>
+
+
+
+<details>
+<summary>[211] Low-Shot Visual Recognition By Shrinking And Hallucinating Features</summary>
+<br>
+<!-- (low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md) -->
+
+# low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md
+
+<!-- REFERENCE -->
+
+
+[Low-Shot Visual Recognition By Shrinking And Hallucinating Features](../papers/low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md)
+
+</details>
+
+
+
+<details>
+<summary>[110] A Closer Look At Few-Shot Classification</summary>
+<br>
+<!-- (a_closer_look_at_few_shot_classification.md) -->
+
+# a_closer_look_at_few_shot_classification.md
+
+<!-- REFERENCE -->
+
+
+[A Closer Look At Few-Shot Classification](../papers/a_closer_look_at_few_shot_classification.md)
+
+</details>
+
+
+
+<details>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<br>
+<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+
+# meta_learning_with_latent_embedding_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
+
+</details>
+
+
+
+<details>
+<summary>[165] Incremental Few-Shot Object Detection</summary>
+<br>
+<!-- (incremental_few_shot_object_detection.md) -->
+
+# incremental_few_shot_object_detection.md
+
+<!-- REFERENCE -->
+
+
+[Incremental Few-Shot Object Detection](../papers/incremental_few_shot_object_detection.md)
+
+</details>
+
+
+
+<details>
+<summary>[20] Prototypical Networks For Few Shot Learning</summary>
+<br>
+<!-- (prototypical_networks_for_few_shot_learning.md) -->
+
+# prototypical_networks_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[197] Few-Shot Semantic Segmentation With Prototype Learning</summary>
+<br>
+<!-- (few_shot_semantic_segmentation_with_prototype_learning.md) -->
+
+# few_shot_semantic_segmentation_with_prototype_learning.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Semantic Segmentation With Prototype Learning](../papers/few_shot_semantic_segmentation_with_prototype_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[188] Revisiting Unreasonable Effectiveness Of Data In Deep Learning Era</summary>
+<br>
+<!-- (revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md) -->
+
+# revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md
+
+<!-- REFERENCE -->
+
+
+[Revisiting Unreasonable Effectiveness Of Data In Deep Learning Era](../papers/revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md)
+
+</details>
+
+
+
+<details>
+<summary>[207] Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples</summary>
+<br>
+<!-- (meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md) -->
+
+# meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples](../papers/meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md)
+
+</details>
+
+
+
+<details>
+<summary>[198] Few-Shot Segmentation Propagation With Guided Networks</summary>
+<br>
+<!-- (few_shot_segmentation_propagation_with_guided_networks.md) -->
+
+# few_shot_segmentation_propagation_with_guided_networks.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Segmentation Propagation With Guided Networks](../papers/few_shot_segmentation_propagation_with_guided_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[203] Imagenet Large Scale Visual Recognition Challenge</summary>
+<br>
+<!-- (imagenet_large_scale_visual_recognition_challenge.md) -->
+
+# imagenet_large_scale_visual_recognition_challenge.md
+
+<!-- REFERENCE -->
+
+
+[Imagenet Large Scale Visual Recognition Challenge](../papers/imagenet_large_scale_visual_recognition_challenge.md)
+
+</details>
+
+
+
+<details>
+<summary>[213] Deep Kernel Transfer In Gaussian Processes For Few-shot Learning</summary>
+<br>
+<!-- (deep_kernel_transfer_in_gaussian_processes_for_few_shot_learning.md) -->
+
+# deep_kernel_transfer_in_gaussian_processes_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Deep Kernel Transfer In Gaussian Processes For Few-shot Learning](../papers/deep_kernel_transfer_in_gaussian_processes_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[75] Meta-SGD: Learning To Learn Quickly For Few Shot Learning</summary>
+<br>
+<!-- (meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md) -->
+
+# meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-SGD: Learning To Learn Quickly For Few Shot Learning](../papers/meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[80] Dynamic Few-Shot Visual Learning Without Forgetting</summary>
+<br>
+<!-- (dynamic_few_shot_visual_learning_without_forgetting.md) -->
+
+# dynamic_few_shot_visual_learning_without_forgetting.md
+
+<!-- REFERENCE -->
+
+
+[Dynamic Few-Shot Visual Learning Without Forgetting](../papers/dynamic_few_shot_visual_learning_without_forgetting.md)
+
+</details>
+
+
+
+<details>
+<summary>[194] Few-shot Object Detection Via Feature Reweighting</summary>
+<br>
+<!-- (few_shot_object_detection_via_feature_reweighting.md) -->
+
+# few_shot_object_detection_via_feature_reweighting.md
+
+<!-- REFERENCE -->
+
+
+[Few-shot Object Detection Via Feature Reweighting](../papers/few_shot_object_detection_via_feature_reweighting.md)
+
+</details>
+
+
+
+<details>
+<summary>[101] Hierarchically Structured Meta-learning</summary>
+<br>
+<!-- (hierarchically_structured_meta_learning.md) -->
+
+# hierarchically_structured_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Hierarchically Structured Meta-learning](../papers/hierarchically_structured_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[86] Matching Networks For One Shot Learning</summary>
+<br>
+<!-- (matching_networks_for_one_shot_learning.md) -->
+
+# matching_networks_for_one_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[85] Siamese Neural Networks For One-shot Image Recognition</summary>
+<br>
+<!-- (siamese_neural_networks_for_one_shot_image_recognition.md) -->
+
+# siamese_neural_networks_for_one_shot_image_recognition.md
+
+<!-- REFERENCE -->
+
+
+[Siamese Neural Networks For One-shot Image Recognition](../papers/siamese_neural_networks_for_one_shot_image_recognition.md)
+
+</details>
+
+
+
+<details>
+<summary>[202] Few-shot Autoregressive Density Estimation: Towards Learning To Learn Distributions</summary>
+<br>
+<!-- (few_shot_autoregressive_density_estimation_towards_learning_to_learn_distributions.md) -->
+
+# few_shot_autoregressive_density_estimation_towards_learning_to_learn_distributions.md
+
+<!-- REFERENCE -->
+
+
+[Few-shot Autoregressive Density Estimation: Towards Learning To Learn Distributions](../papers/few_shot_autoregressive_density_estimation_towards_learning_to_learn_distributions.md)
+
+</details>
+
+
+
+<details>
+<summary>[205] Defining Benchmarks For Continual Few-shot Learning</summary>
+<br>
+<!-- (defining_benchmarks_for_continual_few_shot_learning.md) -->
+
+# defining_benchmarks_for_continual_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Defining Benchmarks For Continual Few-shot Learning](../papers/defining_benchmarks_for_continual_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
+<br>
+<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
+
+# metareg_towards_domain_generalization_using_meta_regularization.md
+
+<!-- REFERENCE -->
+
+
+[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
+
+</details>
+
+
+
+<details>
+<summary>[208] A New Benchmark For Evaluation Of Cross-Domain Few-Shot Learning</summary>
+<br>
+<!-- (a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md) -->
+
+# a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[A New Benchmark For Evaluation Of Cross-Domain Few-Shot Learning](../papers/a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
+<br>
+<!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
+
+# learning_to_compare_relation_network_for_fewshot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[195] [195] L.-Y. Gui, Y.-X. Wang, D. Ramanan, and J. Moura, Few-Shot Human Motion Prediction Via Meta-learning. Springer, 201</summary>
+<br>
+<!-- (few_shot_human_motion_prediction_via_meta_learning.md) -->
+
+# few_shot_human_motion_prediction_via_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[[195] L.-Y. Gui, Y.-X. Wang, D. Ramanan, and J. Moura, Few-Shot Human Motion Prediction Via Meta-learning. Springer, 201](../papers/few_shot_human_motion_prediction_via_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[210] On The Transfer Of Inductive Bias From Simulation To The Real World: A New Disentanglement Dataset</summary>
+<br>
+<!-- (on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md) -->
+
+# on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md
+
+<!-- REFERENCE -->
+
+
+[On The Transfer Of Inductive Bias From Simulation To The Real World: A New Disentanglement Dataset](../papers/on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md)
+
+</details>
+
+
+
+<details>
+<summary>[88] Few-Shot Learning With Graph Neural Networks</summary>
+<br>
+<!-- (few_shot_learning_with_graph_neural_networks.md) -->
+
+# few_shot_learning_with_graph_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Learning With Graph Neural Networks](../papers/few_shot_learning_with_graph_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[1] Deep Residual Learning For Image Recognition</summary>
+<br>
+<!-- (deep_residual_learning_for_image_recognition.md) -->
+
+# deep_residual_learning_for_image_recognition.md
+
+<!-- REFERENCE -->
+
+
+[Deep Residual Learning For Image Recognition](../papers/deep_residual_learning_for_image_recognition.md)
+
+</details>
+
+
+
+<details>
+<summary>[214] SimpleShot: Revisiting Nearest-Neighbor Classification For Few-Shot Learning</summary>
+<br>
+<!-- (simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md) -->
+
+# simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[SimpleShot: Revisiting Nearest-Neighbor Classification For Few-Shot Learning](../papers/simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[200] FewShot Adversarial Learning Of Realistic Neural Talking Head Models</summary>
+<br>
+<!-- (fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md) -->
+
+# fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md
+
+<!-- REFERENCE -->
+
+
+[FewShot Adversarial Learning Of Realistic Neural Talking Head Models](../papers/fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md)
+
+</details>
+
+
+
+<details>
+<summary>[41] Optimization As A Model For FewShot Learning</summary>
+<br>
+<!-- (optimization_as_a_model_for_fewshot_learning.md) -->
+
+# optimization_as_a_model_for_fewshot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Optimization As A Model For FewShot Learning](../papers/optimization_as_a_model_for_fewshot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[193] Rapid Learning Or Feature Reuse? Towards Understanding The Effectiveness Of Maml</summary>
+<br>
+<!-- (rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md) -->
+
+# rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md
+
+<!-- REFERENCE -->
+
+
+[Rapid Learning Or Feature Reuse? Towards Understanding The Effectiveness Of Maml](../papers/rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md)
+
+</details>
+
+
+
+<details>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<br>
+<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+
+# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
+
+</details>
+
+
+
+<details>
+<summary>[201] Few-shot Video-to-video Synthesis</summary>
+<br>
+<!-- (few_shot_video_to_video_synthesis.md) -->
+
+# few_shot_video_to_video_synthesis.md
+
+<!-- REFERENCE -->
+
+
+[Few-shot Video-to-video Synthesis](../papers/few_shot_video_to_video_synthesis.md)
+
+</details>
+
+
+
+<details>
+<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<br>
+<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+
+# feature_critic_networks_for_heterogeneous_domain_generalization.md
+
+<!-- REFERENCE -->
+
+
+[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
+
+</details>
+
+
+
+<details>
+<summary>[189] Fast Context Adaptation Via Meta-learning</summary>
+<br>
+<!-- (fast_context_adaptation_via_meta_learning.md) -->
+
+# fast_context_adaptation_via_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Fast Context Adaptation Via Meta-learning](../papers/fast_context_adaptation_via_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[206] Learning Multiple Visual Domains With Residual Adapters</summary>
+<br>
+<!-- (learning_multiple_visual_domains_with_residual_adapters.md) -->
+
+# learning_multiple_visual_domains_with_residual_adapters.md
+
+<!-- REFERENCE -->
+
+
+[Learning Multiple Visual Domains With Residual Adapters](../papers/learning_multiple_visual_domains_with_residual_adapters.md)
+
+</details>
+
+
+
+<details>
+<summary>[199] Meta-Learning Probabilistic Inference For Prediction</summary>
+<br>
+<!-- (meta_learning_probabilistic_inference_for_prediction.md) -->
+
+# meta_learning_probabilistic_inference_for_prediction.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning Probabilistic Inference For Prediction](../papers/meta_learning_probabilistic_inference_for_prediction.md)
+
+</details>
+
+
+
+<details>
+<summary>[166] Conditional Neural Processes</summary>
+<br>
+<!-- (conditional_neural_processes.md) -->
+
+# conditional_neural_processes.md
+
+<!-- REFERENCE -->
+
+
+[Conditional Neural Processes](../papers/conditional_neural_processes.md)
+
+</details>
+
+
+
+<details>
+<summary>[76] How To Train Your MAML</summary>
+<br>
+<!-- (how_to_train_your_maml.md) -->
+
+# how_to_train_your_maml.md
+
+<!-- REFERENCE -->
+
+
+[How To Train Your MAML](../papers/how_to_train_your_maml.md)
+
+</details>
+

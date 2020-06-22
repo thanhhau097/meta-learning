@@ -5,6 +5,38 @@ pipeline defines the meta-optimization as an outer-loop of the inner base learne
 
 
 <details>
+<summary>[167] Discovery Of Useful Questions As Auxiliary Tasks</summary>
+<br>
+<!-- (discovery_of_useful_questions_as_auxiliary_tasks.md) -->
+
+# discovery_of_useful_questions_as_auxiliary_tasks.md
+
+<!-- REFERENCE -->
+
+
+[Discovery Of Useful Questions As Auxiliary Tasks](../papers/discovery_of_useful_questions_as_auxiliary_tasks.md)
+
+</details>
+
+
+
+<details>
+<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<br>
+<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+
+# feature_critic_networks_for_heterogeneous_domain_generalization.md
+
+<!-- REFERENCE -->
+
+
+[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
+
+</details>
+
+
+
+<details>
 <summary>[185] Online Learning Of A Memory For Learning Rates</summary>
 <br>
 <!-- (online_learning_of_a_memory_for_learning_rates.md) -->
@@ -37,22 +69,6 @@ pipeline defines the meta-optimization as an outer-loop of the inner base learne
 
 
 <details>
-<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
-<br>
-<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
-
-# feature_critic_networks_for_heterogeneous_domain_generalization.md
-
-<!-- REFERENCE -->
-
-
-[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
-
-</details>
-
-
-
-<details>
 <summary>[186] Online Learning Rate Adaptation With Hypergradient Descent</summary>
 <br>
 <!-- (online_learning_rate_adaptation_with_hypergradient_descent.md) -->
@@ -79,22 +95,6 @@ pipeline defines the meta-optimization as an outer-loop of the inner base learne
 
 
 [Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
-
-</details>
-
-
-
-<details>
-<summary>[167] Discovery Of Useful Questions As Auxiliary Tasks</summary>
-<br>
-<!-- (discovery_of_useful_questions_as_auxiliary_tasks.md) -->
-
-# discovery_of_useful_questions_as_auxiliary_tasks.md
-
-<!-- REFERENCE -->
-
-
-[Discovery Of Useful Questions As Auxiliary Tasks](../papers/discovery_of_useful_questions_as_auxiliary_tasks.md)
 
 </details>
 

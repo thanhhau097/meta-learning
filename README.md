@@ -72,6 +72,19 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
     - [Computation Cost](./docs/challenges/computational_cost.md)
     - [Cross-modal transfer and heterogeneous tasks](./docs/challenges/cross_modal_transfer_and_heterogeneous_tasks.md)
 
+# How to summarize papers?
+```html
+## What?
+
+## Why?
+
+## How?
+
+## Results? (What did they find?)
+
+## Ideas to improve?
+```
+
         
 <!-- <img src="https://render.githubusercontent.com/render/math?math="> -->
 <!-- REFERENCE -->

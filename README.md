@@ -73,7 +73,7 @@ This repository based on the survey paper: [Meta-Learning in Neural Networks: A 
     - [Cross-modal transfer and heterogeneous tasks](./docs/challenges/cross_modal_transfer_and_heterogeneous_tasks.md)
 
 # How to summarize papers?
-```html
+```
 ## What?
 
 ## Why?

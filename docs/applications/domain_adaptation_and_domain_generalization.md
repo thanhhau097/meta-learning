@@ -13,54 +13,6 @@ proaches aim to train models with increased robustness to train-test domain shif
 
 
 <details>
-<summary>[58] Learning To Generalize: Meta-Learning For Domain Generalization</summary>
-<br>
-<!-- (learning_to_generalize_meta_learning_for_domain_generalization.md) -->
-
-# learning_to_generalize_meta_learning_for_domain_generalization.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Generalize: Meta-Learning For Domain Generalization](../papers/learning_to_generalize_meta_learning_for_domain_generalization.md)
-
-</details>
-
-
-
-<details>
-<summary>[258] Moment matching for multi-source domain adaptation</summary>
-<br>
-<!-- (moment_matching_for_multi_source_domain_adaptation.md) -->
-
-# moment_matching_for_multi_source_domain_adaptation.md
-
-<!-- REFERENCE -->
-
-
-[Moment matching for multi-source domain adaptation](../papers/moment_matching_for_multi_source_domain_adaptation.md)
-
-</details>
-
-
-
-<details>
-<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
-<br>
-<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
-
-# feature_critic_networks_for_heterogeneous_domain_generalization.md
-
-<!-- REFERENCE -->
-
-
-[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
-
-</details>
-
-
-
-<details>
 <summary>[255] Domain General- ¨ ization Via Invariant Feature Representation</summary>
 <br>
 <!-- (domain_general_ization_via_invariant_feature_representation.md) -->
@@ -71,38 +23,6 @@ proaches aim to train models with increased robustness to train-test domain shif
 
 
 [Domain General- ¨ ization Via Invariant Feature Representation](../papers/domain_general_ization_via_invariant_feature_representation.md)
-
-</details>
-
-
-
-<details>
-<summary>[256] Online Meta-Learning For MultiSource And Semi-Supervised Domain Adaptation</summary>
-<br>
-<!-- (online_meta_learning_for_multisource_and_semi_supervised_domain_adaptation.md) -->
-
-# online_meta_learning_for_multisource_and_semi_supervised_domain_adaptation.md
-
-<!-- REFERENCE -->
-
-
-[Online Meta-Learning For MultiSource And Semi-Supervised Domain Adaptation](../papers/online_meta_learning_for_multisource_and_semi_supervised_domain_adaptation.md)
-
-</details>
-
-
-
-<details>
-<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
-<br>
-<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
-
-# metareg_towards_domain_generalization_using_meta_regularization.md
-
-<!-- REFERENCE -->
-
-
-[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
 
 </details>
 
@@ -125,6 +45,22 @@ proaches aim to train models with increased robustness to train-test domain shif
 
 
 <details>
+<summary>[256] Online Meta-Learning For MultiSource And Semi-Supervised Domain Adaptation</summary>
+<br>
+<!-- (online_meta_learning_for_multisource_and_semi_supervised_domain_adaptation.md) -->
+
+# online_meta_learning_for_multisource_and_semi_supervised_domain_adaptation.md
+
+<!-- REFERENCE -->
+
+
+[Online Meta-Learning For MultiSource And Semi-Supervised Domain Adaptation](../papers/online_meta_learning_for_multisource_and_semi_supervised_domain_adaptation.md)
+
+</details>
+
+
+
+<details>
 <summary>[257] Deeper, Broader And Artier Domain Generalization</summary>
 <br>
 <!-- (deeper_broader_and_artier_domain_generalization.md) -->
@@ -141,6 +77,39 @@ proaches aim to train models with increased robustness to train-test domain shif
 
 
 <details>
+<summary>[58] Learning To Generalize: Meta-Learning For Domain Generalization</summary>
+<br>
+<!-- (learning_to_generalize_meta_learning_for_domain_generalization.md) -->
+
+# learning_to_generalize_meta_learning_for_domain_generalization.md
+## What?
+Apply meta learning method (MAML) for Domain Generalization problem
+## Why?
+- Reduce number of parameters and does not require training with high computation cost as previous methods:
+    - The simplest approach is to train a model for each source domain. When a testing do-built on three main strategies. The simplest approach is to train a model for each source domain. When a testing do- main comes, estimate the most relevant source domain and train a model for each source domain. When a testing do- main comes, estimate the most relevant source domain and use that classifier (Xu et al. 2014). A second approach is main comes, estimate the most relevant source domain and use that classifier (Xu et al. 2014). A second approach is to presume that any
+    - A second approach is to presume that any domain is composed of an underlying globally shared factor and a domain specific component. By factoring out the domain specific and domain-agnostic component during training on source domains, the domain- agnostic component can be extracted and transferred as a model that is likely to work on a new source domain
+    
+## How?
+- Apply MAML directly to Domain Generalization
+![alt text](../images/mldg.png)
+## Results? (What did they find?)
+- Achieve better results compare to previous methods
+- Model-agnostic
+- Can be applied both supervised learning and reinforcement learning
+- Scale well with number of domains
+
+## Ideas to improve?
+- Try to apply another variations of MAML to the Domain Generalization problem.
+<!-- REFERENCE -->
+
+
+[Learning To Generalize: Meta-Learning For Domain Generalization](../papers/learning_to_generalize_meta_learning_for_domain_generalization.md)
+
+</details>
+
+
+
+<details>
 <summary>[206] Learning Multiple Visual Domains With Residual Adapters</summary>
 <br>
 <!-- (learning_multiple_visual_domains_with_residual_adapters.md) -->
@@ -151,6 +120,54 @@ proaches aim to train models with increased robustness to train-test domain shif
 
 
 [Learning Multiple Visual Domains With Residual Adapters](../papers/learning_multiple_visual_domains_with_residual_adapters.md)
+
+</details>
+
+
+
+<details>
+<summary>[258] Moment matching for multi-source domain adaptation</summary>
+<br>
+<!-- (moment_matching_for_multi_source_domain_adaptation.md) -->
+
+# moment_matching_for_multi_source_domain_adaptation.md
+
+<!-- REFERENCE -->
+
+
+[Moment matching for multi-source domain adaptation](../papers/moment_matching_for_multi_source_domain_adaptation.md)
+
+</details>
+
+
+
+<details>
+<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
+<br>
+<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
+
+# metareg_towards_domain_generalization_using_meta_regularization.md
+
+<!-- REFERENCE -->
+
+
+[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
+
+</details>
+
+
+
+<details>
+<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<br>
+<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+
+# feature_critic_networks_for_heterogeneous_domain_generalization.md
+
+<!-- REFERENCE -->
+
+
+[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
 
 </details>
 

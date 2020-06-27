@@ -10,16 +10,32 @@ or reinforcement learning, one uses an environment sim- ulator to generate data 
 
 
 <details>
-<summary>[145] Optimizing Millions Of Hyperparameters By Implicit Differentiation</summary>
+<summary>[148] Learning Dexterous In-Hand Manipulation</summary>
 <br>
-<!-- (optimizing_millions_of_hyperparameters_by_implicit_differentiation.md) -->
+<!-- (learning_dexterous_in_hand_manipulation.md) -->
 
-# optimizing_millions_of_hyperparameters_by_implicit_differentiation.md
+# learning_dexterous_in_hand_manipulation.md
 
 <!-- REFERENCE -->
 
 
-[Optimizing Millions Of Hyperparameters By Implicit Differentiation](../papers/optimizing_millions_of_hyperparameters_by_implicit_differentiation.md)
+[Learning Dexterous In-Hand Manipulation](../papers/learning_dexterous_in_hand_manipulation.md)
+
+</details>
+
+
+
+<details>
+<summary>[149] Learning To Simulate</summary>
+<br>
+<!-- (learning_to_simulate.md) -->
+
+# learning_to_simulate.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Simulate](../papers/learning_to_simulate.md)
 
 </details>
 
@@ -74,32 +90,16 @@ or reinforcement learning, one uses an environment sim- ulator to generate data 
 
 
 <details>
-<summary>[149] Learning To Simulate</summary>
+<summary>[145] Optimizing Millions Of Hyperparameters By Implicit Differentiation</summary>
 <br>
-<!-- (learning_to_simulate.md) -->
+<!-- (optimizing_millions_of_hyperparameters_by_implicit_differentiation.md) -->
 
-# learning_to_simulate.md
+# optimizing_millions_of_hyperparameters_by_implicit_differentiation.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Simulate](../papers/learning_to_simulate.md)
-
-</details>
-
-
-
-<details>
-<summary>[148] Learning Dexterous In-Hand Manipulation</summary>
-<br>
-<!-- (learning_dexterous_in_hand_manipulation.md) -->
-
-# learning_dexterous_in_hand_manipulation.md
-
-<!-- REFERENCE -->
-
-
-[Learning Dexterous In-Hand Manipulation](../papers/learning_dexterous_in_hand_manipulation.md)
+[Optimizing Millions Of Hyperparameters By Implicit Differentiation](../papers/optimizing_millions_of_hyperparameters_by_implicit_differentiation.md)
 
 </details>
 

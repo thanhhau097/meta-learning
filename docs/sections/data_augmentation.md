@@ -5,16 +5,16 @@ inner-level learning and optimized in outer-level learning.
 
 
 <details>
-<summary>[134] DADA: Differentiable Automatic Data Augmentation</summary>
+<summary>[133] AutoAugment: Learning Augmentation Policies From Data</summary>
 <br>
-<!-- (dada_differentiable_automatic_data_augmentation.md) -->
+<!-- (autoaugment_learning_augmentation_policies_from_data.md) -->
 
-# dada_differentiable_automatic_data_augmentation.md
+# autoaugment_learning_augmentation_policies_from_data.md
 
 <!-- REFERENCE -->
 
 
-[DADA: Differentiable Automatic Data Augmentation](../papers/dada_differentiable_automatic_data_augmentation.md)
+[AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
 
 </details>
 
@@ -37,16 +37,16 @@ inner-level learning and optimized in outer-level learning.
 
 
 <details>
-<summary>[133] AutoAugment: Learning Augmentation Policies From Data</summary>
+<summary>[134] DADA: Differentiable Automatic Data Augmentation</summary>
 <br>
-<!-- (autoaugment_learning_augmentation_policies_from_data.md) -->
+<!-- (dada_differentiable_automatic_data_augmentation.md) -->
 
-# autoaugment_learning_augmentation_policies_from_data.md
+# dada_differentiable_automatic_data_augmentation.md
 
 <!-- REFERENCE -->
 
 
-[AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
+[DADA: Differentiable Automatic Data Augmentation](../papers/dada_differentiable_automatic_data_augmentation.md)
 
 </details>
 

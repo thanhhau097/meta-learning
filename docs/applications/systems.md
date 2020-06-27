@@ -13,48 +13,16 @@ large amounts of memory that may be prohibitive on embedded devices. Thus networ
 
 
 <details>
-<summary>[281] MIND: Model Independent Neural Decoder</summary>
+<summary>[282] Explaining And Harnessing Adversarial Examples</summary>
 <br>
-<!-- (mind_model_independent_neural_decoder.md) -->
+<!-- (explaining_and_harnessing_adversarial_examples.md) -->
 
-# mind_model_independent_neural_decoder.md
+# explaining_and_harnessing_adversarial_examples.md
 
 <!-- REFERENCE -->
 
 
-[MIND: Model Independent Neural Decoder](../papers/mind_model_independent_neural_decoder.md)
-
-</details>
-
-
-
-<details>
-<summary>[277] Compressing Neural Networks Using The Variational Information Bottleneck</summary>
-<br>
-<!-- (compressing_neural_networks_using_the_variational_information_bottleneck.md) -->
-
-# compressing_neural_networks_using_the_variational_information_bottleneck.md
-
-<!-- REFERENCE -->
-
-
-[Compressing Neural Networks Using The Variational Information Bottleneck](../papers/compressing_neural_networks_using_the_variational_information_bottleneck.md)
-
-</details>
-
-
-
-<details>
-<summary>[280] An Introduction To Deep Learning For The Physical Layer</summary>
-<br>
-<!-- (an_introduction_to_deep_learning_for_the_physical_layer.md) -->
-
-# an_introduction_to_deep_learning_for_the_physical_layer.md
-
-<!-- REFERENCE -->
-
-
-[An Introduction To Deep Learning For The Physical Layer](../papers/an_introduction_to_deep_learning_for_the_physical_layer.md)
+[Explaining And Harnessing Adversarial Examples](../papers/explaining_and_harnessing_adversarial_examples.md)
 
 </details>
 
@@ -71,54 +39,6 @@ large amounts of memory that may be prohibitive on embedded devices. Thus networ
 
 
 [Adversarially Robust Few-shot Learning: A Meta-learning Approach](../papers/adversarially_robust_few_shot_learning_a_meta_learning_approach.md)
-
-</details>
-
-
-
-<details>
-<summary>[284] Testing Robustness Against Unforeseen Adversaries</summary>
-<br>
-<!-- (testing_robustness_against_unforeseen_adversaries.md) -->
-
-# testing_robustness_against_unforeseen_adversaries.md
-
-<!-- REFERENCE -->
-
-
-[Testing Robustness Against Unforeseen Adversaries](../papers/testing_robustness_against_unforeseen_adversaries.md)
-
-</details>
-
-
-
-<details>
-<summary>[142] Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting</summary>
-<br>
-<!-- (meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md) -->
-
-# meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting](../papers/meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md)
-
-</details>
-
-
-
-<details>
-<summary>[187] MetaQuant: Learning To Quantize By Learning To Penetrate Non-differentiable Quantization</summary>
-<br>
-<!-- (metaquant_learning_to_quantize_by_learning_to_penetrate_non_differentiable_quantization.md) -->
-
-# metaquant_learning_to_quantize_by_learning_to_penetrate_non_differentiable_quantization.md
-
-<!-- REFERENCE -->
-
-
-[MetaQuant: Learning To Quantize By Learning To Penetrate Non-differentiable Quantization](../papers/metaquant_learning_to_quantize_by_learning_to_penetrate_non_differentiable_quantization.md)
 
 </details>
 
@@ -157,6 +77,22 @@ large amounts of memory that may be prohibitive on embedded devices. Thus networ
 
 
 <details>
+<summary>[280] An Introduction To Deep Learning For The Physical Layer</summary>
+<br>
+<!-- (an_introduction_to_deep_learning_for_the_physical_layer.md) -->
+
+# an_introduction_to_deep_learning_for_the_physical_layer.md
+
+<!-- REFERENCE -->
+
+
+[An Introduction To Deep Learning For The Physical Layer](../papers/an_introduction_to_deep_learning_for_the_physical_layer.md)
+
+</details>
+
+
+
+<details>
 <summary>[283] Adversarial Meta-Learning</summary>
 <br>
 <!-- (adversarial_meta_learning.md) -->
@@ -173,16 +109,32 @@ large amounts of memory that may be prohibitive on embedded devices. Thus networ
 
 
 <details>
-<summary>[282] Explaining And Harnessing Adversarial Examples</summary>
+<summary>[187] MetaQuant: Learning To Quantize By Learning To Penetrate Non-differentiable Quantization</summary>
 <br>
-<!-- (explaining_and_harnessing_adversarial_examples.md) -->
+<!-- (metaquant_learning_to_quantize_by_learning_to_penetrate_non_differentiable_quantization.md) -->
 
-# explaining_and_harnessing_adversarial_examples.md
+# metaquant_learning_to_quantize_by_learning_to_penetrate_non_differentiable_quantization.md
 
 <!-- REFERENCE -->
 
 
-[Explaining And Harnessing Adversarial Examples](../papers/explaining_and_harnessing_adversarial_examples.md)
+[MetaQuant: Learning To Quantize By Learning To Penetrate Non-differentiable Quantization](../papers/metaquant_learning_to_quantize_by_learning_to_penetrate_non_differentiable_quantization.md)
+
+</details>
+
+
+
+<details>
+<summary>[284] Testing Robustness Against Unforeseen Adversaries</summary>
+<br>
+<!-- (testing_robustness_against_unforeseen_adversaries.md) -->
+
+# testing_robustness_against_unforeseen_adversaries.md
+
+<!-- REFERENCE -->
+
+
+[Testing Robustness Against Unforeseen Adversaries](../papers/testing_robustness_against_unforeseen_adversaries.md)
 
 </details>
 
@@ -199,6 +151,54 @@ large amounts of memory that may be prohibitive on embedded devices. Thus networ
 
 
 [Learning To Learn From Noisy Labeled Data](../papers/learning_to_learn_from_noisy_labeled_data.md)
+
+</details>
+
+
+
+<details>
+<summary>[281] MIND: Model Independent Neural Decoder</summary>
+<br>
+<!-- (mind_model_independent_neural_decoder.md) -->
+
+# mind_model_independent_neural_decoder.md
+
+<!-- REFERENCE -->
+
+
+[MIND: Model Independent Neural Decoder](../papers/mind_model_independent_neural_decoder.md)
+
+</details>
+
+
+
+<details>
+<summary>[277] Compressing Neural Networks Using The Variational Information Bottleneck</summary>
+<br>
+<!-- (compressing_neural_networks_using_the_variational_information_bottleneck.md) -->
+
+# compressing_neural_networks_using_the_variational_information_bottleneck.md
+
+<!-- REFERENCE -->
+
+
+[Compressing Neural Networks Using The Variational Information Bottleneck](../papers/compressing_neural_networks_using_the_variational_information_bottleneck.md)
+
+</details>
+
+
+
+<details>
+<summary>[142] Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting</summary>
+<br>
+<!-- (meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md) -->
+
+# meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Weight-Net: Learning An Explicit Mapping For Sample Weighting](../papers/meta_weight_net_learning_an_explicit_mapping_for_sample_weighting.md)
 
 </details>
 

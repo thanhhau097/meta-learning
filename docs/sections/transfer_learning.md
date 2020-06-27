@@ -14,6 +14,75 @@ than solely model parameters (Section 4.1).
 
 
 <details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+## What?
+- Model-agnostic meta-learning algorithm that can adapt to every gradient-based models, including classisication, 
+regression, reinforcement leanring
+## Why?
+- To adapt to any gradient-based model
+- Solve new task quickly with a few gradient steps by learning initial weights
+
+## How?
+The algorithm is shown in the images below:
+![alt text](../images/maml.png)
+
+![alt text](../images/maml_few_shot_supervised.png)
+
+![alt text](../images/maml_rl.png)
+
+- Loss function can be any frequenly used loss function for that task.
+- MAML can maximize the sensitivity of the loss functions of new tasks with respect to the parameters.
+## Results? (What did they find?)
+- MAML can be used with any gradient-based models.
+- MAML is sensitive to change in the task, such that small changes in the parameters will produce large improvements on 
+the loss function.
+- Perform better than transfer learning in regression tasks, because they can learn the abstract over tasks.
+- State-of-the art in regression, classification, reinforcement learning 
+- Without overfitting 
+## Ideas to improve?
+- Handle the computation problem. The paper currently use approximate method.
+
+## Application ideas
+- use meta-learning to find the initial weights for any deep learning model.
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[34] A Survey On Transfer Learning</summary>
+<br>
+<!-- (a_survey_on_transfer_learning.md) -->
+
+# a_survey_on_transfer_learning.md
+## What?
+- Categorizing and reviewing the progress on transfer learning
+## Why?
+- Survey
+## How?
+![alt text](../images/transfer_learning.png)
+
+## Results? (What did they find?)
+
+## Ideas to improve?
+<!-- REFERENCE -->
+
+
+[A Survey On Transfer Learning](../papers/a_survey_on_transfer_learning.md)
+
+</details>
+
+
+
+<details>
 <summary>[56] How Transferable Are Features In Deep Neural Networks</summary>
 <br>
 <!-- (how_transferable_are_features_in_deep_neural_networks.md) -->
@@ -43,38 +112,6 @@ few-shot learning
 
 
 [How Transferable Are Features In Deep Neural Networks](../papers/how_transferable_are_features_in_deep_neural_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
-<br>
-<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
-
-# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
-
-<!-- REFERENCE -->
-
-
-[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[34] A Survey On Transfer Learning</summary>
-<br>
-<!-- (a_survey_on_transfer_learning.md) -->
-
-# a_survey_on_transfer_learning.md
-
-<!-- REFERENCE -->
-
-
-[A Survey On Transfer Learning](../papers/a_survey_on_transfer_learning.md)
 
 </details>
 

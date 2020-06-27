@@ -5,22 +5,6 @@ hand designed algorithms [252]. Meta-learning can trans- form active learning al
 
 
 <details>
-<summary>[175] Learning Algorithms For Active Learning</summary>
-<br>
-<!-- (learning_algorithms_for_active_learning.md) -->
-
-# learning_algorithms_for_active_learning.md
-
-<!-- REFERENCE -->
-
-
-[Learning Algorithms For Active Learning](../papers/learning_algorithms_for_active_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[252] Active Learning</summary>
 <br>
 <!-- (active_learning.md) -->
@@ -47,6 +31,22 @@ hand designed algorithms [252]. Meta-learning can trans- form active learning al
 
 
 [Meta-Learning Transferable Active Learning Policies By Deep Reinforcement Learning](../papers/meta_learning_transferable_active_learning_policies_by_deep_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[175] Learning Algorithms For Active Learning</summary>
+<br>
+<!-- (learning_algorithms_for_active_learning.md) -->
+
+# learning_algorithms_for_active_learning.md
+
+<!-- REFERENCE -->
+
+
+[Learning Algorithms For Active Learning](../papers/learning_algorithms_for_active_learning.md)
 
 </details>
 

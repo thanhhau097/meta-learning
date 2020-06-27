@@ -6,6 +6,38 @@ how introducing yet another level of learning abstractions could affect generali
 
 
 <details>
+<summary>[285] Gradient Surgery For Multi-Task Learning</summary>
+<br>
+<!-- (gradient_surgery_for_multi_task_learning.md) -->
+
+# gradient_surgery_for_multi_task_learning.md
+
+<!-- REFERENCE -->
+
+
+[Gradient Surgery For Multi-Task Learning](../papers/gradient_surgery_for_multi_task_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[206] Learning Multiple Visual Domains With Residual Adapters</summary>
+<br>
+<!-- (learning_multiple_visual_domains_with_residual_adapters.md) -->
+
+# learning_multiple_visual_domains_with_residual_adapters.md
+
+<!-- REFERENCE -->
+
+
+[Learning Multiple Visual Domains With Residual Adapters](../papers/learning_multiple_visual_domains_with_residual_adapters.md)
+
+</details>
+
+
+
+<details>
 <summary>[230] Meta-world: A Benchmark And Evaluation For Multitask And Meta Reinforcement Learning</summary>
 <br>
 <!-- (meta_world_a_benchmark_and_evaluation_for_multitask_and_meta_reinforcement_learning.md) -->
@@ -38,22 +70,6 @@ how introducing yet another level of learning abstractions could affect generali
 
 
 <details>
-<summary>[285] Gradient Surgery For Multi-Task Learning</summary>
-<br>
-<!-- (gradient_surgery_for_multi_task_learning.md) -->
-
-# gradient_surgery_for_multi_task_learning.md
-
-<!-- REFERENCE -->
-
-
-[Gradient Surgery For Multi-Task Learning](../papers/gradient_surgery_for_multi_task_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[207] Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples</summary>
 <br>
 <!-- (meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md) -->
@@ -64,22 +80,6 @@ how introducing yet another level of learning abstractions could affect generali
 
 
 [Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples](../papers/meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md)
-
-</details>
-
-
-
-<details>
-<summary>[206] Learning Multiple Visual Domains With Residual Adapters</summary>
-<br>
-<!-- (learning_multiple_visual_domains_with_residual_adapters.md) -->
-
-# learning_multiple_visual_domains_with_residual_adapters.md
-
-<!-- REFERENCE -->
-
-
-[Learning Multiple Visual Domains With Residual Adapters](../papers/learning_multiple_visual_domains_with_residual_adapters.md)
 
 </details>
 

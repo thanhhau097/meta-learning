@@ -4,32 +4,16 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 <details>
-<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
+<summary>[125] Towards Fast Adaptation Of Neural Architectures With Meta Learning</summary>
 <br>
-<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
+<!-- (towards_fast_adaptation_of_neural_architectures_with_meta_learning.md) -->
 
-# regularized_evolution_for_image_classifier_architecture_search.md
+# towards_fast_adaptation_of_neural_architectures_with_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
-
-</details>
-
-
-
-<details>
-<summary>[28] Neural Architecture Search With Reinforcement Learning</summary>
-<br>
-<!-- (neural_architecture_search_with_reinforcement_learning.md) -->
-
-# neural_architecture_search_with_reinforcement_learning.md
-
-<!-- REFERENCE -->
-
-
-[Neural Architecture Search With Reinforcement Learning](../papers/neural_architecture_search_with_reinforcement_learning.md)
+[Towards Fast Adaptation Of Neural Architectures With Meta Learning](../papers/towards_fast_adaptation_of_neural_architectures_with_meta_learning.md)
 
 </details>
 
@@ -52,16 +36,32 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 <details>
-<summary>[126] Meta Architecture Search</summary>
+<summary>[26] DARTS: Differentiable Architecture Search</summary>
 <br>
-<!-- (meta_architecture_search.md) -->
+<!-- (darts_differentiable_architecture_search.md) -->
 
-# meta_architecture_search.md
+# darts_differentiable_architecture_search.md
 
 <!-- REFERENCE -->
 
 
-[Meta Architecture Search](../papers/meta_architecture_search.md)
+[DARTS: Differentiable Architecture Search](../papers/darts_differentiable_architecture_search.md)
+
+</details>
+
+
+
+<details>
+<summary>[28] Neural Architecture Search With Reinforcement Learning</summary>
+<br>
+<!-- (neural_architecture_search_with_reinforcement_learning.md) -->
+
+# neural_architecture_search_with_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Neural Architecture Search With Reinforcement Learning](../papers/neural_architecture_search_with_reinforcement_learning.md)
 
 </details>
 
@@ -100,32 +100,32 @@ Architecture discovery has always been an important area in neural networks [39]
 
 
 <details>
-<summary>[125] Towards Fast Adaptation Of Neural Architectures With Meta Learning</summary>
+<summary>[27] Regularized Evolution For Image Classifier Architecture Search</summary>
 <br>
-<!-- (towards_fast_adaptation_of_neural_architectures_with_meta_learning.md) -->
+<!-- (regularized_evolution_for_image_classifier_architecture_search.md) -->
 
-# towards_fast_adaptation_of_neural_architectures_with_meta_learning.md
+# regularized_evolution_for_image_classifier_architecture_search.md
 
 <!-- REFERENCE -->
 
 
-[Towards Fast Adaptation Of Neural Architectures With Meta Learning](../papers/towards_fast_adaptation_of_neural_architectures_with_meta_learning.md)
+[Regularized Evolution For Image Classifier Architecture Search](../papers/regularized_evolution_for_image_classifier_architecture_search.md)
 
 </details>
 
 
 
 <details>
-<summary>[26] DARTS: Differentiable Architecture Search</summary>
+<summary>[126] Meta Architecture Search</summary>
 <br>
-<!-- (darts_differentiable_architecture_search.md) -->
+<!-- (meta_architecture_search.md) -->
 
-# darts_differentiable_architecture_search.md
+# meta_architecture_search.md
 
 <!-- REFERENCE -->
 
 
-[DARTS: Differentiable Architecture Search](../papers/darts_differentiable_architecture_search.md)
+[Meta Architecture Search](../papers/meta_architecture_search.md)
 
 </details>
 

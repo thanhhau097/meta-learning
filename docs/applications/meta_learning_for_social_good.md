@@ -5,16 +5,16 @@ Meta-learning lands itself to various challenging tasks that arise in applicatio
 
 
 <details>
-<summary>[270] Trends In The US And Canadian Pathologist Workforces From 2007 To 2017</summary>
+<summary>[271] Training Medical Image Analysis Systems Like Radiologists</summary>
 <br>
-<!-- (trends_in_the_us_and_canadian_pathologist_workforces_from_2007_to_2017.md) -->
+<!-- (training_medical_image_analysis_systems_like_radiologists.md) -->
 
-# trends_in_the_us_and_canadian_pathologist_workforces_from_2007_to_2017.md
+# training_medical_image_analysis_systems_like_radiologists.md
 
 <!-- REFERENCE -->
 
 
-[Trends In The US And Canadian Pathologist Workforces From 2007 To 2017](../papers/trends_in_the_us_and_canadian_pathologist_workforces_from_2007_to_2017.md)
+[Training Medical Image Analysis Systems Like Radiologists](../papers/training_medical_image_analysis_systems_like_radiologists.md)
 
 </details>
 
@@ -31,6 +31,38 @@ Meta-learning lands itself to various challenging tasks that arise in applicatio
 
 
 [Meta-Learning For Semi-Supervised Few-Shot Classification](../papers/meta_learning_for_semi_supervised_few_shot_classification.md)
+
+</details>
+
+
+
+<details>
+<summary>[272] Overcoming Data Limitation In Medical Visual Question Answering</summary>
+<br>
+<!-- (overcoming_data_limitation_in_medical_visual_question_answering.md) -->
+
+# overcoming_data_limitation_in_medical_visual_question_answering.md
+
+<!-- REFERENCE -->
+
+
+[Overcoming Data Limitation In Medical Visual Question Answering](../papers/overcoming_data_limitation_in_medical_visual_question_answering.md)
+
+</details>
+
+
+
+<details>
+<summary>[270] Trends In The US And Canadian Pathologist Workforces From 2007 To 2017</summary>
+<br>
+<!-- (trends_in_the_us_and_canadian_pathologist_workforces_from_2007_to_2017.md) -->
+
+# trends_in_the_us_and_canadian_pathologist_workforces_from_2007_to_2017.md
+
+<!-- REFERENCE -->
+
+
+[Trends In The US And Canadian Pathologist Workforces From 2007 To 2017](../papers/trends_in_the_us_and_canadian_pathologist_workforces_from_2007_to_2017.md)
 
 </details>
 
@@ -63,38 +95,6 @@ Meta-learning lands itself to various challenging tasks that arise in applicatio
 
 
 [Learning To Segment Skin Lesions From Noisy Annotations](../papers/learning_to_segment_skin_lesions_from_noisy_annotations.md)
-
-</details>
-
-
-
-<details>
-<summary>[271] Training Medical Image Analysis Systems Like Radiologists</summary>
-<br>
-<!-- (training_medical_image_analysis_systems_like_radiologists.md) -->
-
-# training_medical_image_analysis_systems_like_radiologists.md
-
-<!-- REFERENCE -->
-
-
-[Training Medical Image Analysis Systems Like Radiologists](../papers/training_medical_image_analysis_systems_like_radiologists.md)
-
-</details>
-
-
-
-<details>
-<summary>[272] Overcoming Data Limitation In Medical Visual Question Answering</summary>
-<br>
-<!-- (overcoming_data_limitation_in_medical_visual_question_answering.md) -->
-
-# overcoming_data_limitation_in_medical_visual_question_answering.md
-
-<!-- REFERENCE -->
-
-
-[Overcoming Data Limitation In Medical Visual Question Answering](../papers/overcoming_data_limitation_in_medical_visual_question_answering.md)
 
 </details>
 

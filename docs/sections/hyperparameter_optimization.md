@@ -10,16 +10,16 @@ Hyperparameter Optimization (HO) is within the remit of meta-learning, in that h
 
 
 <details>
-<summary>[69] Random Search For Hyper-Parameter Optimization</summary>
+<summary>[26] DARTS: Differentiable Architecture Search</summary>
 <br>
-<!-- (random_search_for_hyper_parameter_optimization.md) -->
+<!-- (darts_differentiable_architecture_search.md) -->
 
-# random_search_for_hyper_parameter_optimization.md
+# darts_differentiable_architecture_search.md
 
 <!-- REFERENCE -->
 
 
-[Random Search For Hyper-Parameter Optimization](../papers/random_search_for_hyper_parameter_optimization.md)
+[DARTS: Differentiable Architecture Search](../papers/darts_differentiable_architecture_search.md)
 
 </details>
 
@@ -42,16 +42,16 @@ Hyperparameter Optimization (HO) is within the remit of meta-learning, in that h
 
 
 <details>
-<summary>[26] DARTS: Differentiable Architecture Search</summary>
+<summary>[69] Random Search For Hyper-Parameter Optimization</summary>
 <br>
-<!-- (darts_differentiable_architecture_search.md) -->
+<!-- (random_search_for_hyper_parameter_optimization.md) -->
 
-# darts_differentiable_architecture_search.md
+# random_search_for_hyper_parameter_optimization.md
 
 <!-- REFERENCE -->
 
 
-[DARTS: Differentiable Architecture Search](../papers/darts_differentiable_architecture_search.md)
+[Random Search For Hyper-Parameter Optimization](../papers/random_search_for_hyper_parameter_optimization.md)
 
 </details>
 

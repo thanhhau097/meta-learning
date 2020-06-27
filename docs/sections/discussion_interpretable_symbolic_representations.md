@@ -5,16 +5,31 @@ A cross-cutting distinction that can be made across many of the meta-representat
 
 
 <details>
-<summary>[115] Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization</summary>
+<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
 <br>
-<!-- (improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md) -->
+<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
 
-# improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md
+# learning_to_learn_by_gradient_descent_by_gradient_descent.md
+## What?
+- Design an optimization algorithm by using LSTM, compare to hand-designed ones such as Adam, SGD, ...
+## Why?
+- Automatically design an optimization algorithm
+## How?
+- Design new update rule using RNN: 
+
+<img src="https://render.githubusercontent.com/render/math?math=\theta_{t+1}=\theta_{t}+g_{t}\left(\nabla f\left(\theta_{t}\right), \phi\right)">
+
+![alt text](../images/lstm_optimizer.png)
+## Results? (What did they find?)
+- The found optimizer is more effective than all optimizers and the optimizer can be used in other problem such as classifications, 
+regression, style transfer, etc.
+## Ideas to improve?
+- Use the idea of changing the update rule in other framework, such as MAML
 
 <!-- REFERENCE -->
 
 
-[Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization](../papers/improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md)
+[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
 
 </details>
 
@@ -37,16 +52,32 @@ A cross-cutting distinction that can be made across many of the meta-representat
 
 
 <details>
-<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
+<summary>[151] Searching For Activation Functions</summary>
 <br>
-<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
+<!-- (searching_for_activation_functions.md) -->
 
-# feature_critic_networks_for_heterogeneous_domain_generalization.md
+# searching_for_activation_functions.md
 
 <!-- REFERENCE -->
 
 
-[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
+[Searching For Activation Functions](../papers/searching_for_activation_functions.md)
+
+</details>
+
+
+
+<details>
+<summary>[115] Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization</summary>
+<br>
+<!-- (improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md) -->
+
+# improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Improved Training Speed, Accuracy, And Data Utilization Through Loss Function Optimization](../papers/improved_training_speed_accuracy_and_data_utilization_through_loss_function_optimization.md)
 
 </details>
 
@@ -69,32 +100,16 @@ A cross-cutting distinction that can be made across many of the meta-representat
 
 
 <details>
-<summary>[151] Searching For Activation Functions</summary>
+<summary>[44] Feature-Critic Networks For Heterogeneous Domain Generalization</summary>
 <br>
-<!-- (searching_for_activation_functions.md) -->
+<!-- (feature_critic_networks_for_heterogeneous_domain_generalization.md) -->
 
-# searching_for_activation_functions.md
+# feature_critic_networks_for_heterogeneous_domain_generalization.md
 
 <!-- REFERENCE -->
 
 
-[Searching For Activation Functions](../papers/searching_for_activation_functions.md)
-
-</details>
-
-
-
-<details>
-<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
-<br>
-<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
-
-# learning_to_learn_by_gradient_descent_by_gradient_descent.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
+[Feature-Critic Networks For Heterogeneous Domain Generalization](../papers/feature_critic_networks_for_heterogeneous_domain_generalization.md)
 
 </details>
 

@@ -5,22 +5,6 @@ AutoML [31], [32] is a rather broad umbrella for approaches aiming to automate p
 
 
 <details>
-<summary>[32] Taking Human Out Of Learning Applications: A Survey On Automated Machine Learning</summary>
-<br>
-<!-- (taking_human_out_of_learning_applications_a_survey_on_automated_machine_learning.md) -->
-
-# taking_human_out_of_learning_applications_a_survey_on_automated_machine_learning.md
-
-<!-- REFERENCE -->
-
-
-[Taking Human Out Of Learning Applications: A Survey On Automated Machine Learning](../papers/taking_human_out_of_learning_applications_a_survey_on_automated_machine_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[31] Meta-Learning: A Survey</summary>
 <br>
 <!-- (meta_learning_a_survey.md) -->
@@ -31,6 +15,22 @@ AutoML [31], [32] is a rather broad umbrella for approaches aiming to automate p
 
 
 [Meta-Learning: A Survey](../papers/meta_learning_a_survey.md)
+
+</details>
+
+
+
+<details>
+<summary>[32] Taking Human Out Of Learning Applications: A Survey On Automated Machine Learning</summary>
+<br>
+<!-- (taking_human_out_of_learning_applications_a_survey_on_automated_machine_learning.md) -->
+
+# taking_human_out_of_learning_applications_a_survey_on_automated_machine_learning.md
+
+<!-- REFERENCE -->
+
+
+[Taking Human Out Of Learning Applications: A Survey On Automated Machine Learning](../papers/taking_human_out_of_learning_applications_a_survey_on_automated_machine_learning.md)
 
 </details>
 

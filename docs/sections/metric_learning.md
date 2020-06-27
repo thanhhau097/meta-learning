@@ -6,16 +6,16 @@ Metric-learning or non-parametric algo- rithms are thus far largely restricted t
 
 
 <details>
-<summary>[86] Matching Networks For One Shot Learning</summary>
+<summary>[20] Prototypical Networks For Few Shot Learning</summary>
 <br>
-<!-- (matching_networks_for_one_shot_learning.md) -->
+<!-- (prototypical_networks_for_few_shot_learning.md) -->
 
-# matching_networks_for_one_shot_learning.md
+# prototypical_networks_for_few_shot_learning.md
 
 <!-- REFERENCE -->
 
 
-[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
+[Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
 
 </details>
 
@@ -38,6 +38,22 @@ Metric-learning or non-parametric algo- rithms are thus far largely restricted t
 
 
 <details>
+<summary>[86] Matching Networks For One Shot Learning</summary>
+<br>
+<!-- (matching_networks_for_one_shot_learning.md) -->
+
+# matching_networks_for_one_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Matching Networks For One Shot Learning](../papers/matching_networks_for_one_shot_learning.md)
+
+</details>
+
+
+
+<details>
 <summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
 <br>
 <!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
@@ -48,22 +64,6 @@ Metric-learning or non-parametric algo- rithms are thus far largely restricted t
 
 
 [Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[20] Prototypical Networks For Few Shot Learning</summary>
-<br>
-<!-- (prototypical_networks_for_few_shot_learning.md) -->
-
-# prototypical_networks_for_few_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[Prototypical Networks For Few Shot Learning](../papers/prototypical_networks_for_few_shot_learning.md)
 
 </details>
 

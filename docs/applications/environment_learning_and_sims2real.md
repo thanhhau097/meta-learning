@@ -8,32 +8,16 @@ In Sim2Real we are interested in training a model in simulation that is able to 
 
 
 <details>
-<summary>[233] Meta-Sim: Learning To Generate Synthetic Datasets</summary>
+<summary>[148] Learning Dexterous In-Hand Manipulation</summary>
 <br>
-<!-- (meta_sim_learning_to_generate_synthetic_datasets.md) -->
+<!-- (learning_dexterous_in_hand_manipulation.md) -->
 
-# meta_sim_learning_to_generate_synthetic_datasets.md
+# learning_dexterous_in_hand_manipulation.md
 
 <!-- REFERENCE -->
 
 
-[Meta-Sim: Learning To Generate Synthetic Datasets](../papers/meta_sim_learning_to_generate_synthetic_datasets.md)
-
-</details>
-
-
-
-<details>
-<summary>[150] How To Pick The Domain Randomization Parameters For Sim-to-real Transfer Of Reinforcement Learning Policies</summary>
-<br>
-<!-- (how_to_pick_the_domain_randomization_parameters_for_sim_to_real_transfer_of_reinforcement_learning_policies.md) -->
-
-# how_to_pick_the_domain_randomization_parameters_for_sim_to_real_transfer_of_reinforcement_learning_policies.md
-
-<!-- REFERENCE -->
-
-
-[How To Pick The Domain Randomization Parameters For Sim-to-real Transfer Of Reinforcement Learning Policies](../papers/how_to_pick_the_domain_randomization_parameters_for_sim_to_real_transfer_of_reinforcement_learning_policies.md)
+[Learning Dexterous In-Hand Manipulation](../papers/learning_dexterous_in_hand_manipulation.md)
 
 </details>
 
@@ -56,22 +40,6 @@ In Sim2Real we are interested in training a model in simulation that is able to 
 
 
 <details>
-<summary>[148] Learning Dexterous In-Hand Manipulation</summary>
-<br>
-<!-- (learning_dexterous_in_hand_manipulation.md) -->
-
-# learning_dexterous_in_hand_manipulation.md
-
-<!-- REFERENCE -->
-
-
-[Learning Dexterous In-Hand Manipulation](../papers/learning_dexterous_in_hand_manipulation.md)
-
-</details>
-
-
-
-<details>
 <summary>[232] Training Deep Networks With Synthetic Data: Bridging The Reality Gap By Domain Randomization</summary>
 <br>
 <!-- (training_deep_networks_with_synthetic_data_bridging_the_reality_gap_by_domain_randomization.md) -->
@@ -82,6 +50,38 @@ In Sim2Real we are interested in training a model in simulation that is able to 
 
 
 [Training Deep Networks With Synthetic Data: Bridging The Reality Gap By Domain Randomization](../papers/training_deep_networks_with_synthetic_data_bridging_the_reality_gap_by_domain_randomization.md)
+
+</details>
+
+
+
+<details>
+<summary>[150] How To Pick The Domain Randomization Parameters For Sim-to-real Transfer Of Reinforcement Learning Policies</summary>
+<br>
+<!-- (how_to_pick_the_domain_randomization_parameters_for_sim_to_real_transfer_of_reinforcement_learning_policies.md) -->
+
+# how_to_pick_the_domain_randomization_parameters_for_sim_to_real_transfer_of_reinforcement_learning_policies.md
+
+<!-- REFERENCE -->
+
+
+[How To Pick The Domain Randomization Parameters For Sim-to-real Transfer Of Reinforcement Learning Policies](../papers/how_to_pick_the_domain_randomization_parameters_for_sim_to_real_transfer_of_reinforcement_learning_policies.md)
+
+</details>
+
+
+
+<details>
+<summary>[233] Meta-Sim: Learning To Generate Synthetic Datasets</summary>
+<br>
+<!-- (meta_sim_learning_to_generate_synthetic_datasets.md) -->
+
+# meta_sim_learning_to_generate_synthetic_datasets.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Sim: Learning To Generate Synthetic Datasets](../papers/meta_sim_learning_to_generate_synthetic_datasets.md)
 
 </details>
 

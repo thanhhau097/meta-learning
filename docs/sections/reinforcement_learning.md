@@ -8,22 +8,6 @@ outer-level optimization steps are required to converge, and each of these steps
 
 
 <details>
-<summary>[22] RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning</summary>
-<br>
-<!-- (rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md) -->
-
-# rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md
-
-<!-- REFERENCE -->
-
-
-[RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning](../papers/rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[117] Addressing The Loss-Metric Mismatch With Adaptive Loss Alignment</summary>
 <br>
 <!-- (addressing_the_loss_metric_mismatch_with_adaptive_loss_alignment.md) -->
@@ -50,6 +34,22 @@ outer-level optimization steps are required to converge, and each of these steps
 
 
 [AutoAugment: Learning Augmentation Policies From Data](../papers/autoaugment_learning_augmentation_policies_from_data.md)
+
+</details>
+
+
+
+<details>
+<summary>[22] RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning</summary>
+<br>
+<!-- (rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md) -->
+
+# rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[RL2 : Fast Reinforcement Learning Via Slow Reinforcement Learning](../papers/rl2_fast_reinforcement_learning_via_slow_reinforcement_learning.md)
 
 </details>
 

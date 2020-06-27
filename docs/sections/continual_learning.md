@@ -7,22 +7,6 @@ as working with a task distribution, and that the goal is partly to accelerate l
 
 
 <details>
-<summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
-<br>
-<!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
-
-# continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md
-
-<!-- REFERENCE -->
-
-
-[Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
-
-</details>
-
-
-
-<details>
 <summary>[60] Lifelong Machine Learning, Second Edition</summary>
 <br>
 <!-- (lifelong_machine_learning_second_edition.md) -->
@@ -39,22 +23,6 @@ as working with a task distribution, and that the goal is partly to accelerate l
 
 
 <details>
-<summary>[59] Continual Lifelong Learning With Neural Networks: A Review</summary>
-<br>
-<!-- (continual_lifelong_learning_with_neural_networks_a_review.md) -->
-
-# continual_lifelong_learning_with_neural_networks_a_review.md
-
-<!-- REFERENCE -->
-
-
-[Continual Lifelong Learning With Neural Networks: A Review](../papers/continual_lifelong_learning_with_neural_networks_a_review.md)
-
-</details>
-
-
-
-<details>
 <summary>[63] Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning</summary>
 <br>
 <!-- (learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md) -->
@@ -65,6 +33,56 @@ as working with a task distribution, and that the goal is partly to accelerate l
 
 
 [Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning](../papers/learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
+<br>
+<!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
+
+# continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md
+## What?
+Apply meta-learning in Reinforcement Learning (have not read)
+## Why?
+
+## How?
+
+## Results? (What did they find?)
+
+## Ideas to improve?
+<!-- REFERENCE -->
+
+
+[Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
+
+</details>
+
+
+
+<details>
+<summary>[59] Continual Lifelong Learning With Neural Networks: A Review</summary>
+<br>
+<!-- (continual_lifelong_learning_with_neural_networks_a_review.md) -->
+
+# continual_lifelong_learning_with_neural_networks_a_review.md
+
+See the paper.
+## What?
+
+## Why?
+
+## How?
+![alt text](../images/continual_lifelong_learning.png)
+## Results? (What did they find?)
+
+## Ideas to improve?
+<!-- REFERENCE -->
+
+
+[Continual Lifelong Learning With Neural Networks: A Review](../papers/continual_lifelong_learning_with_neural_networks_a_review.md)
 
 </details>
 

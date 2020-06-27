@@ -6,70 +6,6 @@ learning to train unsupervised learning algorithms that work well for downstream
 
 
 <details>
-<summary>[116] Semi-Supervised Few-Shot Learning With MAML</summary>
-<br>
-<!-- (semi_supervised_few_shot_learning_with_maml.md) -->
-
-# semi_supervised_few_shot_learning_with_maml.md
-
-<!-- REFERENCE -->
-
-
-[Semi-Supervised Few-Shot Learning With MAML](../papers/semi_supervised_few_shot_learning_with_maml.md)
-
-</details>
-
-
-
-<details>
-<summary>[98] Learning To Learn By SelfCritique</summary>
-<br>
-<!-- (learning_to_learn_by_selfcritique.md) -->
-
-# learning_to_learn_by_selfcritique.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
-
-</details>
-
-
-
-<details>
-<summary>[250] Supervising Unsupervised Learning</summary>
-<br>
-<!-- (supervising_unsupervised_learning.md) -->
-
-# supervising_unsupervised_learning.md
-
-<!-- REFERENCE -->
-
-
-[Supervising Unsupervised Learning](../papers/supervising_unsupervised_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[21] Meta-learning Update Rules For Unsupervised Representation Learning</summary>
-<br>
-<!-- (meta_learning_update_rules_for_unsupervised_representation_learning.md) -->
-
-# meta_learning_update_rules_for_unsupervised_representation_learning.md
-
-<!-- REFERENCE -->
-
-
-[Meta-learning Update Rules For Unsupervised Representation Learning](../papers/meta_learning_update_rules_for_unsupervised_representation_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[249] Assume, Augment And Learn: Unsupervised Few-shot Meta-learning Via Random Labels And Data Augmentation</summary>
 <br>
 <!-- (assume_augment_and_learn_unsupervised_few_shot_meta_learning_via_random_labels_and_data_augmentation.md) -->
@@ -102,6 +38,38 @@ learning to train unsupervised learning algorithms that work well for downstream
 
 
 <details>
+<summary>[250] Supervising Unsupervised Learning</summary>
+<br>
+<!-- (supervising_unsupervised_learning.md) -->
+
+# supervising_unsupervised_learning.md
+
+<!-- REFERENCE -->
+
+
+[Supervising Unsupervised Learning](../papers/supervising_unsupervised_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (learning_to_learn_by_selfcritique.md) -->
+
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
+
+</details>
+
+
+
+<details>
 <summary>[247] Unsupervised Learning Via Meta-learning</summary>
 <br>
 <!-- (unsupervised_learning_via_meta_learning.md) -->
@@ -112,6 +80,38 @@ learning to train unsupervised learning algorithms that work well for downstream
 
 
 [Unsupervised Learning Via Meta-learning](../papers/unsupervised_learning_via_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[116] Semi-Supervised Few-Shot Learning With MAML</summary>
+<br>
+<!-- (semi_supervised_few_shot_learning_with_maml.md) -->
+
+# semi_supervised_few_shot_learning_with_maml.md
+
+<!-- REFERENCE -->
+
+
+[Semi-Supervised Few-Shot Learning With MAML](../papers/semi_supervised_few_shot_learning_with_maml.md)
+
+</details>
+
+
+
+<details>
+<summary>[21] Meta-learning Update Rules For Unsupervised Representation Learning</summary>
+<br>
+<!-- (meta_learning_update_rules_for_unsupervised_representation_learning.md) -->
+
+# meta_learning_update_rules_for_unsupervised_representation_learning.md
+
+<!-- REFERENCE -->
+
+
+[Meta-learning Update Rules For Unsupervised Representation Learning](../papers/meta_learning_update_rules_for_unsupervised_representation_learning.md)
 
 </details>
 

@@ -20,32 +20,89 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
 <br>
-<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
 
-# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+## What?
+- Model-agnostic meta-learning algorithm that can adapt to every gradient-based models, including classisication, 
+regression, reinforcement leanring
+## Why?
+- To adapt to any gradient-based model
+- Solve new task quickly with a few gradient steps by learning initial weights
 
+## How?
+The algorithm is shown in the images below:
+![alt text](../images/maml.png)
+
+![alt text](../images/maml_few_shot_supervised.png)
+
+![alt text](../images/maml_rl.png)
+
+- Loss function can be any frequenly used loss function for that task.
+- MAML can maximize the sensitivity of the loss functions of new tasks with respect to the parameters.
+## Results? (What did they find?)
+- MAML can be used with any gradient-based models.
+- MAML is sensitive to change in the task, such that small changes in the parameters will produce large improvements on 
+the loss function.
+- Perform better than transfer learning in regression tasks, because they can learn the abstract over tasks.
+- State-of-the art in regression, classification, reinforcement learning 
+- Without overfitting 
+## Ideas to improve?
+- Handle the computation problem. The paper currently use approximate method.
+
+## Application ideas
+- use meta-learning to find the initial weights for any deep learning model.
 <!-- REFERENCE -->
 
 
-[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
 
 </details>
 
 
 
 <details>
-<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<summary>[99] Meta-Transfer Learning For Few-Shot Learning</summary>
 <br>
-<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+<!-- (meta_transfer_learning_for_few_shot_learning.md) -->
 
-# meta_learning_with_latent_embedding_optimization.md
+# meta_transfer_learning_for_few_shot_learning.md
 
 <!-- REFERENCE -->
 
 
-[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
+[Meta-Transfer Learning For Few-Shot Learning](../papers/meta_transfer_learning_for_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[74] Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace</summary>
+<br>
+<!-- (gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md) -->
+
+# gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md
+## What?
+- MT-net: which enables the meta-learner to learn on each layer’s activation space a subspace that the task-specific learner performs gradient descent on.
+## Why?
+- reduce the sensitivity to the choice of initial learning rates than previous gradient-based meta-learning methods
+## How?
+- Basic idea: Separate the parameters to 2 groups: 
+    - T: will not be updated in learner, and be shared across task-specific model. 
+    - W: will be updated in learner
+- Use a mask to determine wich parameters are to be updated.
+- By doing this, we can specify that T is use as general knowledge
+![alt text](../images/learned_layerwise_metric.png)
+## Results? (What did they find?)
+
+## Ideas to improve?
+<!-- REFERENCE -->
+
+
+[Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace](../papers/gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md)
 
 </details>
 
@@ -62,6 +119,22 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 [Online Metalearning](../papers/online_metalearning.md)
+
+</details>
+
+
+
+<details>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<br>
+<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+
+# meta_learning_with_latent_embedding_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
 
 </details>
 
@@ -100,16 +173,16 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[74] Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace</summary>
+<summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
 <br>
-<!-- (gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md) -->
+<!-- (probabilistic_model_agnostic_meta_learning.md) -->
 
-# gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md
+# probabilistic_model_agnostic_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Gradient-Based Meta-Learning With Learned Layerwise Metric And Subspace](../papers/gradient_based_meta_learning_with_learned_layerwise_metric_and_subspace.md)
+[Probabilistic Model-agnostic Meta-learning](../papers/probabilistic_model_agnostic_meta_learning.md)
 
 </details>
 
@@ -132,48 +205,16 @@ that model mixtures over multiple initial conditions [97], [100], [101].
 
 
 <details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
 <br>
-<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
 
-# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+# few_shot_image_recognition_by_predicting_parameters_from_activations.md
 
 <!-- REFERENCE -->
 
 
-[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[99] Meta-Transfer Learning For Few-Shot Learning</summary>
-<br>
-<!-- (meta_transfer_learning_for_few_shot_learning.md) -->
-
-# meta_transfer_learning_for_few_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Transfer Learning For Few-Shot Learning](../papers/meta_transfer_learning_for_few_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
-<br>
-<!-- (probabilistic_model_agnostic_meta_learning.md) -->
-
-# probabilistic_model_agnostic_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[Probabilistic Model-agnostic Meta-learning](../papers/probabilistic_model_agnostic_meta_learning.md)
+[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
 
 </details>
 

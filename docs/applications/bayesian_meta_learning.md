@@ -13,38 +13,6 @@ Benchmarks In Bayesian meta-learning, the point is usu- ally to model the uncert
 
 
 <details>
-<summary>[244] Amortized Bayesian Meta-Learning</summary>
-<br>
-<!-- (amortized_bayesian_meta_learning.md) -->
-
-# amortized_bayesian_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[Amortized Bayesian Meta-Learning](../papers/amortized_bayesian_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[245] Bayesian meta sampling for fast uncertainty adaptation</summary>
-<br>
-<!-- (bayesian_meta_sampling_for_fast_uncertainty_adaptation.md) -->
-
-# bayesian_meta_sampling_for_fast_uncertainty_adaptation.md
-
-<!-- REFERENCE -->
-
-
-[Bayesian meta sampling for fast uncertainty adaptation](../papers/bayesian_meta_sampling_for_fast_uncertainty_adaptation.md)
-
-</details>
-
-
-
-<details>
 <summary>[212] Bayesian Model-Agnostic Meta-Learning</summary>
 <br>
 <!-- (bayesian_model_agnostic_meta_learning.md) -->
@@ -55,118 +23,6 @@ Benchmarks In Bayesian meta-learning, the point is usu- ally to model the uncert
 
 
 [Bayesian Model-Agnostic Meta-Learning](../papers/bayesian_model_agnostic_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[71] Towards A Neural Statistician</summary>
-<br>
-<!-- (towards_a_neural_statistician.md) -->
-
-# towards_a_neural_statistician.md
-
-<!-- REFERENCE -->
-
-
-[Towards A Neural Statistician](../papers/towards_a_neural_statistician.md)
-
-</details>
-
-
-
-<details>
-<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
-<br>
-<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
-
-# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
-
-<!-- REFERENCE -->
-
-
-[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[72] Recasting Gradient-Based Meta-Learning As Hierarchical Bayes</summary>
-<br>
-<!-- (recasting_gradient_based_meta_learning_as_hierarchical_bayes.md) -->
-
-# recasting_gradient_based_meta_learning_as_hierarchical_bayes.md
-
-<!-- REFERENCE -->
-
-
-[Recasting Gradient-Based Meta-Learning As Hierarchical Bayes](../papers/recasting_gradient_based_meta_learning_as_hierarchical_bayes.md)
-
-</details>
-
-
-
-<details>
-<summary>[243] Adaptive Deep Kernel Learning</summary>
-<br>
-<!-- (adaptive_deep_kernel_learning.md) -->
-
-# adaptive_deep_kernel_learning.md
-
-<!-- REFERENCE -->
-
-
-[Adaptive Deep Kernel Learning](../papers/adaptive_deep_kernel_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[166] Conditional Neural Processes</summary>
-<br>
-<!-- (conditional_neural_processes.md) -->
-
-# conditional_neural_processes.md
-
-<!-- REFERENCE -->
-
-
-[Conditional Neural Processes](../papers/conditional_neural_processes.md)
-
-</details>
-
-
-
-<details>
-<summary>[199] Meta-Learning Probabilistic Inference For Prediction</summary>
-<br>
-<!-- (meta_learning_probabilistic_inference_for_prediction.md) -->
-
-# meta_learning_probabilistic_inference_for_prediction.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Learning Probabilistic Inference For Prediction](../papers/meta_learning_probabilistic_inference_for_prediction.md)
-
-</details>
-
-
-
-<details>
-<summary>[246] Deep Learning Face Attributes In The Wild</summary>
-<br>
-<!-- (deep_learning_face_attributes_in_the_wild.md) -->
-
-# deep_learning_face_attributes_in_the_wild.md
-
-<!-- REFERENCE -->
-
-
-[Deep Learning Face Attributes In The Wild](../papers/deep_learning_face_attributes_in_the_wild.md)
 
 </details>
 
@@ -189,6 +45,114 @@ Benchmarks In Bayesian meta-learning, the point is usu- ally to model the uncert
 
 
 <details>
+<summary>[199] Meta-Learning Probabilistic Inference For Prediction</summary>
+<br>
+<!-- (meta_learning_probabilistic_inference_for_prediction.md) -->
+
+# meta_learning_probabilistic_inference_for_prediction.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning Probabilistic Inference For Prediction](../papers/meta_learning_probabilistic_inference_for_prediction.md)
+
+</details>
+
+
+
+<details>
+<summary>[19] Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks</summary>
+<br>
+<!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
+
+# model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+## What?
+- Model-agnostic meta-learning algorithm that can adapt to every gradient-based models, including classisication, 
+regression, reinforcement leanring
+## Why?
+- To adapt to any gradient-based model
+- Solve new task quickly with a few gradient steps by learning initial weights
+
+## How?
+The algorithm is shown in the images below:
+![alt text](../images/maml.png)
+
+![alt text](../images/maml_few_shot_supervised.png)
+
+![alt text](../images/maml_rl.png)
+
+- Loss function can be any frequenly used loss function for that task.
+- MAML can maximize the sensitivity of the loss functions of new tasks with respect to the parameters.
+## Results? (What did they find?)
+- MAML can be used with any gradient-based models.
+- MAML is sensitive to change in the task, such that small changes in the parameters will produce large improvements on 
+the loss function.
+- Perform better than transfer learning in regression tasks, because they can learn the abstract over tasks.
+- State-of-the art in regression, classification, reinforcement learning 
+- Without overfitting 
+## Ideas to improve?
+- Handle the computation problem. The paper currently use approximate method.
+
+## Application ideas
+- use meta-learning to find the initial weights for any deep learning model.
+<!-- REFERENCE -->
+
+
+[Model-Agnostic Meta-learning For Fast Adaptation Of Deep Networks](../papers/model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[166] Conditional Neural Processes</summary>
+<br>
+<!-- (conditional_neural_processes.md) -->
+
+# conditional_neural_processes.md
+
+<!-- REFERENCE -->
+
+
+[Conditional Neural Processes](../papers/conditional_neural_processes.md)
+
+</details>
+
+
+
+<details>
+<summary>[71] Towards A Neural Statistician</summary>
+<br>
+<!-- (towards_a_neural_statistician.md) -->
+
+# towards_a_neural_statistician.md
+
+<!-- REFERENCE -->
+
+
+[Towards A Neural Statistician](../papers/towards_a_neural_statistician.md)
+
+</details>
+
+
+
+<details>
+<summary>[243] Adaptive Deep Kernel Learning</summary>
+<br>
+<!-- (adaptive_deep_kernel_learning.md) -->
+
+# adaptive_deep_kernel_learning.md
+
+<!-- REFERENCE -->
+
+
+[Adaptive Deep Kernel Learning](../papers/adaptive_deep_kernel_learning.md)
+
+</details>
+
+
+
+<details>
 <summary>[95] Probabilistic Model-agnostic Meta-learning</summary>
 <br>
 <!-- (probabilistic_model_agnostic_meta_learning.md) -->
@@ -199,6 +163,70 @@ Benchmarks In Bayesian meta-learning, the point is usu- ally to model the uncert
 
 
 [Probabilistic Model-agnostic Meta-learning](../papers/probabilistic_model_agnostic_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[245] Bayesian meta sampling for fast uncertainty adaptation</summary>
+<br>
+<!-- (bayesian_meta_sampling_for_fast_uncertainty_adaptation.md) -->
+
+# bayesian_meta_sampling_for_fast_uncertainty_adaptation.md
+
+<!-- REFERENCE -->
+
+
+[Bayesian meta sampling for fast uncertainty adaptation](../papers/bayesian_meta_sampling_for_fast_uncertainty_adaptation.md)
+
+</details>
+
+
+
+<details>
+<summary>[246] Deep Learning Face Attributes In The Wild</summary>
+<br>
+<!-- (deep_learning_face_attributes_in_the_wild.md) -->
+
+# deep_learning_face_attributes_in_the_wild.md
+
+<!-- REFERENCE -->
+
+
+[Deep Learning Face Attributes In The Wild](../papers/deep_learning_face_attributes_in_the_wild.md)
+
+</details>
+
+
+
+<details>
+<summary>[244] Amortized Bayesian Meta-Learning</summary>
+<br>
+<!-- (amortized_bayesian_meta_learning.md) -->
+
+# amortized_bayesian_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Amortized Bayesian Meta-Learning](../papers/amortized_bayesian_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[72] Recasting Gradient-Based Meta-Learning As Hierarchical Bayes</summary>
+<br>
+<!-- (recasting_gradient_based_meta_learning_as_hierarchical_bayes.md) -->
+
+# recasting_gradient_based_meta_learning_as_hierarchical_bayes.md
+
+<!-- REFERENCE -->
+
+
+[Recasting Gradient-Based Meta-Learning As Hierarchical Bayes](../papers/recasting_gradient_based_meta_learning_as_hierarchical_bayes.md)
 
 </details>
 

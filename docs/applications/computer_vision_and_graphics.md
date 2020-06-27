@@ -47,128 +47,78 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[15] Imagenet Classification With Deep Convolutional Neural Networks</summary>
+<summary>[199] Meta-Learning Probabilistic Inference For Prediction</summary>
 <br>
-<!-- (imagenet_classification_with_deep_convolutional_neural_networks.md) -->
+<!-- (meta_learning_probabilistic_inference_for_prediction.md) -->
 
-# imagenet_classification_with_deep_convolutional_neural_networks.md
+# meta_learning_probabilistic_inference_for_prediction.md
 
 <!-- REFERENCE -->
 
 
-[Imagenet Classification With Deep Convolutional Neural Networks](../papers/imagenet_classification_with_deep_convolutional_neural_networks.md)
+[Meta-Learning Probabilistic Inference For Prediction](../papers/meta_learning_probabilistic_inference_for_prediction.md)
 
 </details>
 
 
 
 <details>
-<summary>[209] Does Object Recognition Work For Everyone</summary>
+<summary>[189] Fast Context Adaptation Via Meta-learning</summary>
 <br>
-<!-- (does_object_recognition_work_for_everyone.md) -->
+<!-- (fast_context_adaptation_via_meta_learning.md) -->
 
-# does_object_recognition_work_for_everyone.md
+# fast_context_adaptation_via_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Does Object Recognition Work For Everyone](../papers/does_object_recognition_work_for_everyone.md)
+[Fast Context Adaptation Via Meta-learning](../papers/fast_context_adaptation_via_meta_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[212] Bayesian Model-Agnostic Meta-Learning</summary>
+<summary>[201] Few-shot Video-to-video Synthesis</summary>
 <br>
-<!-- (bayesian_model_agnostic_meta_learning.md) -->
+<!-- (few_shot_video_to_video_synthesis.md) -->
 
-# bayesian_model_agnostic_meta_learning.md
+# few_shot_video_to_video_synthesis.md
 
 <!-- REFERENCE -->
 
 
-[Bayesian Model-Agnostic Meta-Learning](../papers/bayesian_model_agnostic_meta_learning.md)
+[Few-shot Video-to-video Synthesis](../papers/few_shot_video_to_video_synthesis.md)
 
 </details>
 
 
 
 <details>
-<summary>[98] Learning To Learn By SelfCritique</summary>
+<summary>[40] A Simple Neural Attentive Meta-learner</summary>
 <br>
-<!-- (learning_to_learn_by_selfcritique.md) -->
+<!-- (a_simple_neural_attentive_meta_learner.md) -->
 
-# learning_to_learn_by_selfcritique.md
+# a_simple_neural_attentive_meta_learner.md
+## What?
+- A meta-learner architecture that use a novel combination of temporal convolutions and soft attention; the former to aggregate information from past experience and the latter to pinpoint specific pieces of information.
+## Why?
+- Handle the problems: architectures specialized to a particular application, or hard-coding algorithmic components that constrain how the meta-learner solves the task
+## How?
+![alt text](../images/snail.png)
+![alt text](../images/snail_dense.png)
+![alt text](../images/snail_tc_attention.png)
+## Results? (What did they find?)
+- Effective black-box using self attention 
+- Note:
+    - trained the SNAIL on episodes where the number of shots K was chosen uniformly at random from 1 to 5 (note that this is unlike prior works, who train separate models for each shot)
+    - complicated architecture, not sure that can compare with original MAML
+## Ideas to improve?
 
 <!-- REFERENCE -->
 
 
-[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
-
-</details>
-
-
-
-<details>
-<summary>[73] Automated Relational Meta-learning</summary>
-<br>
-<!-- (automated_relational_meta_learning.md) -->
-
-# automated_relational_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[Automated Relational Meta-learning](../papers/automated_relational_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[161] Meta-Learning With Warped Gradient Descent</summary>
-<br>
-<!-- (meta_learning_with_warped_gradient_descent.md) -->
-
-# meta_learning_with_warped_gradient_descent.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Learning With Warped Gradient Descent](../papers/meta_learning_with_warped_gradient_descent.md)
-
-</details>
-
-
-
-<details>
-<summary>[130] Modular Meta- ´ learning</summary>
-<br>
-<!-- (modular_meta_learning.md) -->
-
-# modular_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[Modular Meta- ´ learning](../papers/modular_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[196] One-Shot Learning For Semantic Segmentation</summary>
-<br>
-<!-- (one_shot_learning_for_semantic_segmentation.md) -->
-
-# one_shot_learning_for_semantic_segmentation.md
-
-<!-- REFERENCE -->
-
-
-[One-Shot Learning For Semantic Segmentation](../papers/one_shot_learning_for_semantic_segmentation.md)
+[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
 
 </details>
 
@@ -191,96 +141,64 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[204] Meta-Learning For Semi-Supervised Few-Shot Classification</summary>
+<summary>[76] How To Train Your MAML</summary>
 <br>
-<!-- (meta_learning_for_semi_supervised_few_shot_classification.md) -->
+<!-- (how_to_train_your_maml.md) -->
 
-# meta_learning_for_semi_supervised_few_shot_classification.md
+# how_to_train_your_maml.md
+## What?
+- Research the practical training techniques help training MAML more effective
+## Why?
+Disadvantage of original MAML:
+- Training Instability: lack of any skip connections
+- Second Order Derivative cost
+- Absence of Batch Normalization Statistic Accumulation
+- Shared (across step) Batch Normalization Bias
+- Shared Inner Loop (across step and across parameter) Learning Rate
+- Fixed Outer Loop Learning Rate
+## How?
+Handle these above problem:
+- Gradient Instability → Multi-Step Loss Optimization (MSL): propose minimizing the target set loss computed by the base-network after every step towards a support set task,
+the loss minimized is a weighted sum of the target set losses after every support set loss update, employ an annealed weighting for the per step losses.
+
+<img src="https://render.githubusercontent.com/render/math?math=\theta=\theta-\beta \nabla_{\theta} \sum_{b=1}^{B} \sum_{i=0}^{N} v_{i} \mathcal{L}_{T_{b}}\left(f_{\theta_{i}^{b}}\right)">
+
+- Second Order Derivative Cost → Derivative-Order Annealing (DA): propose to anneal the derivative-order as training progresses. More specifically, we propose to use first-order gradients for the first 50 epochs of the training phase, and to then switch to second-order gradients for the remainder of the training phase
+Using first-order before starting to use second-order derivatives can be used as a strong pretraining method that learns parameters less likely to produce gradient explosion/diminishment issues.
+- Absence of Batch Normalization Statistic Accumulation → Per-Step Batch Normalization Running Statistics (BNRS): instantiate N (where N is the total number of inner-loop update steps) sets of running mean and running standard deviation for each batch normalization layer in the network and update the running statistics respectively with the steps being taken during the optimization. The per-step batch normalization methodology should speed up optimization of MAML whilst potentially improving generalization performance
+
+- Shared (across step) Batch Normalization Bias → Per-Step Batch Normalization Weights and Biases (BNWB): batch normalization will learn biases specific to the feature distributions seen at each set, which should increase convergence speed, stability and generalization performance.
+
+- Shared Inner Loop Learning Rate (across step and across parameter) → Learning Per-Layer Per-Step Learning Rates and Gradient Directions (LSLR): we propose, learning a learning rate and direction for each layer in the network as well as learning different learning rates for each adaptation of the base-network as it takes steps
+
+- Fixed Outer Loop Learning Rate → Cosine Annealing of Meta-Optimizer Learning Rate (CA): we propose applying the cosine annealing scheduling on the meta-model’s optimizer (i.e. the meta-optimizer)
+
+## Results? (What did they find?)
+- State of the art results, each of above techniques do improve the results
+- Use validation set to get better results: ensemble of the top 3 performing per-epoch-models on the validation set were applied on the test set
+## Ideas to improve?
+Apply these technique when train modifications of MAML
 
 <!-- REFERENCE -->
 
 
-[Meta-Learning For Semi-Supervised Few-Shot Classification](../papers/meta_learning_for_semi_supervised_few_shot_classification.md)
+[How To Train Your MAML](../papers/how_to_train_your_maml.md)
 
 </details>
 
 
 
 <details>
-<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<summary>[196] One-Shot Learning For Semantic Segmentation</summary>
 <br>
-<!-- (a_simple_neural_attentive_meta_learner.md) -->
+<!-- (one_shot_learning_for_semantic_segmentation.md) -->
 
-# a_simple_neural_attentive_meta_learner.md
+# one_shot_learning_for_semantic_segmentation.md
 
 <!-- REFERENCE -->
 
 
-[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
-
-</details>
-
-
-
-<details>
-<summary>[211] Low-Shot Visual Recognition By Shrinking And Hallucinating Features</summary>
-<br>
-<!-- (low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md) -->
-
-# low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md
-
-<!-- REFERENCE -->
-
-
-[Low-Shot Visual Recognition By Shrinking And Hallucinating Features](../papers/low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md)
-
-</details>
-
-
-
-<details>
-<summary>[110] A Closer Look At Few-Shot Classification</summary>
-<br>
-<!-- (a_closer_look_at_few_shot_classification.md) -->
-
-# a_closer_look_at_few_shot_classification.md
-
-<!-- REFERENCE -->
-
-
-[A Closer Look At Few-Shot Classification](../papers/a_closer_look_at_few_shot_classification.md)
-
-</details>
-
-
-
-<details>
-<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
-<br>
-<!-- (meta_learning_with_latent_embedding_optimization.md) -->
-
-# meta_learning_with_latent_embedding_optimization.md
-
-<!-- REFERENCE -->
-
-
-[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
-
-</details>
-
-
-
-<details>
-<summary>[165] Incremental Few-Shot Object Detection</summary>
-<br>
-<!-- (incremental_few_shot_object_detection.md) -->
-
-# incremental_few_shot_object_detection.md
-
-<!-- REFERENCE -->
-
-
-[Incremental Few-Shot Object Detection](../papers/incremental_few_shot_object_detection.md)
+[One-Shot Learning For Semantic Segmentation](../papers/one_shot_learning_for_semantic_segmentation.md)
 
 </details>
 
@@ -303,6 +221,102 @@ fair and consistent best practice for all methods
 
 
 <details>
+<summary>[85] Siamese Neural Networks For One-shot Image Recognition</summary>
+<br>
+<!-- (siamese_neural_networks_for_one_shot_image_recognition.md) -->
+
+# siamese_neural_networks_for_one_shot_image_recognition.md
+
+<!-- REFERENCE -->
+
+
+[Siamese Neural Networks For One-shot Image Recognition](../papers/siamese_neural_networks_for_one_shot_image_recognition.md)
+
+</details>
+
+
+
+<details>
+<summary>[194] Few-shot Object Detection Via Feature Reweighting</summary>
+<br>
+<!-- (few_shot_object_detection_via_feature_reweighting.md) -->
+
+# few_shot_object_detection_via_feature_reweighting.md
+
+<!-- REFERENCE -->
+
+
+[Few-shot Object Detection Via Feature Reweighting](../papers/few_shot_object_detection_via_feature_reweighting.md)
+
+</details>
+
+
+
+<details>
+<summary>[97] Meta-Learning With Latent Embedding Optimization</summary>
+<br>
+<!-- (meta_learning_with_latent_embedding_optimization.md) -->
+
+# meta_learning_with_latent_embedding_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning With Latent Embedding Optimization](../papers/meta_learning_with_latent_embedding_optimization.md)
+
+</details>
+
+
+
+<details>
+<summary>[1] Deep Residual Learning For Image Recognition</summary>
+<br>
+<!-- (deep_residual_learning_for_image_recognition.md) -->
+
+# deep_residual_learning_for_image_recognition.md
+
+<!-- REFERENCE -->
+
+
+[Deep Residual Learning For Image Recognition](../papers/deep_residual_learning_for_image_recognition.md)
+
+</details>
+
+
+
+<details>
+<summary>[206] Learning Multiple Visual Domains With Residual Adapters</summary>
+<br>
+<!-- (learning_multiple_visual_domains_with_residual_adapters.md) -->
+
+# learning_multiple_visual_domains_with_residual_adapters.md
+
+<!-- REFERENCE -->
+
+
+[Learning Multiple Visual Domains With Residual Adapters](../papers/learning_multiple_visual_domains_with_residual_adapters.md)
+
+</details>
+
+
+
+<details>
+<summary>[88] Few-Shot Learning With Graph Neural Networks</summary>
+<br>
+<!-- (few_shot_learning_with_graph_neural_networks.md) -->
+
+# few_shot_learning_with_graph_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Learning With Graph Neural Networks](../papers/few_shot_learning_with_graph_neural_networks.md)
+
+</details>
+
+
+
+<details>
 <summary>[197] Few-Shot Semantic Segmentation With Prototype Learning</summary>
 <br>
 <!-- (few_shot_semantic_segmentation_with_prototype_learning.md) -->
@@ -319,64 +333,157 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[188] Revisiting Unreasonable Effectiveness Of Data In Deep Learning Era</summary>
+<summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
 <br>
-<!-- (revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md) -->
+<!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
 
-# revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md
+# learning_to_compare_relation_network_for_fewshot_learning.md
 
 <!-- REFERENCE -->
 
 
-[Revisiting Unreasonable Effectiveness Of Data In Deep Learning Era](../papers/revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md)
+[Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[207] Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples</summary>
+<summary>[130] Modular Meta- ´ learning</summary>
 <br>
-<!-- (meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md) -->
+<!-- (modular_meta_learning.md) -->
 
-# meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md
+# modular_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples](../papers/meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md)
+[Modular Meta- ´ learning](../papers/modular_meta_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[198] Few-Shot Segmentation Propagation With Guided Networks</summary>
+<summary>[75] Meta-SGD: Learning To Learn Quickly For Few Shot Learning</summary>
 <br>
-<!-- (few_shot_segmentation_propagation_with_guided_networks.md) -->
+<!-- (meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md) -->
 
-# few_shot_segmentation_propagation_with_guided_networks.md
+# meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md
+## What?
+- Propose a methods that can learn to update the MAML more efficient, such as: directions and learning rates
+## Why?
+- MAML is using the same learning rate for all parameters -> slow convergence, not accurate
+## How?
+- Using one learning rate for each parameter, these learning rates can be learned by meta-learner.
+![alt text](../images/meta_sgd.png)
+## Results? (What did they find?)
+- Better performance, because of learning learning rate value and direction
+## Ideas to improve?
+- arbitrary function with learning rate, i.e: 
+<img src="https://render.githubusercontent.com/render/math?math=\theta' = \theta - f(\Delta L)">
 
+f is an arbitrary function such as neutral network, it is not mathematically theory, but let's try. 
 <!-- REFERENCE -->
 
 
-[Few-Shot Segmentation Propagation With Guided Networks](../papers/few_shot_segmentation_propagation_with_guided_networks.md)
+[Meta-SGD: Learning To Learn Quickly For Few Shot Learning](../papers/meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[203] Imagenet Large Scale Visual Recognition Challenge</summary>
+<summary>[41] Optimization As A Model For FewShot Learning</summary>
 <br>
-<!-- (imagenet_large_scale_visual_recognition_challenge.md) -->
+<!-- (optimization_as_a_model_for_fewshot_learning.md) -->
 
-# imagenet_large_scale_visual_recognition_challenge.md
+# optimization_as_a_model_for_fewshot_learning.md
+## What?
+- LSTM based meta-learner model to learn the exact optimization algorithm used to train another learner neural network classifier in the few-shot regime.
+## Why?
+- Handle the few-shot learning problem, the model can transfer 
+## How?
+This model based on the LSTM, the model modified the update rule of gradient from: 
+<img src="https://render.githubusercontent.com/render/math?math=\theta_{t}=\theta_{t-1}-\alpha_{t} \nabla_{\theta_{t-1}} \mathcal{L}_{t}">
+
+to <img src="https://render.githubusercontent.com/render/math?math=c_{t}=f_{t} \odot c_{t-1}+i_{t} \odot \tilde{c}_{t}">
+
+if <img src="https://render.githubusercontent.com/render/math?math=f_{t}=1, c_{t-1}=\theta_{t-1}, i_{t}=\alpha_{t}"> and 
+<img src="https://render.githubusercontent.com/render/math?math=\tilde{c}_{t}=-\nabla_{\theta_{t-1}} \mathcal{L}_{t}">
+
+But we can learn the <img src="https://render.githubusercontent.com/render/math?math=i_t"> and <img src="https://render.githubusercontent.com/render/math?math=f_t">
+
+<img src="https://render.githubusercontent.com/render/math?math=i_{t}=\sigma\left(\mathbf{W}_{I} \cdot\left[\nabla_{\theta_{t-1}} \mathcal{L}_{t}, \mathcal{L}_{t}, \theta_{t-1}, i_{t-1}\right]+\mathbf{b}_{I}\right)">
+
+and
+
+<img src="https://render.githubusercontent.com/render/math?math=f_{t}=\sigma\left(\mathbf{W}_{F} \cdot\left[\nabla_{\theta_{t-1}} \mathcal{L}_{t}, \mathcal{L}_{t}, \theta_{t-1}, f_{t-1}\right]+\mathbf{b}_{F}\right)">
+
+and also we can learn the initial weights of learner, allows the optimization process more rapid.
+
+
+![alt text](../images/lstm_learner.png)
+![alt text](../images/lstm_learner_algorithm.png)
+
+## Results? (What did they find?)
+- Apply the LSTM to learn the learning updates of the parameters of classifier.
+- Can learn the good initialization parameters and update rules.
+## Ideas to improve?
+- The paper shows that by learning and modify the update rules, we could get better results. Could we use this idea?
 
 <!-- REFERENCE -->
 
 
-[Imagenet Large Scale Visual Recognition Challenge](../papers/imagenet_large_scale_visual_recognition_challenge.md)
+[Optimization As A Model For FewShot Learning](../papers/optimization_as_a_model_for_fewshot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[193] Rapid Learning Or Feature Reuse? Towards Understanding The Effectiveness Of Maml</summary>
+<br>
+<!-- (rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md) -->
+
+# rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md
+
+<!-- REFERENCE -->
+
+
+[Rapid Learning Or Feature Reuse? Towards Understanding The Effectiveness Of Maml](../papers/rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md)
+
+</details>
+
+
+
+<details>
+<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
+<br>
+<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
+
+# metareg_towards_domain_generalization_using_meta_regularization.md
+
+<!-- REFERENCE -->
+
+
+[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
+
+</details>
+
+
+
+<details>
+<summary>[214] SimpleShot: Revisiting Nearest-Neighbor Classification For Few-Shot Learning</summary>
+<br>
+<!-- (simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md) -->
+
+# simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[SimpleShot: Revisiting Nearest-Neighbor Classification For Few-Shot Learning](../papers/simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md)
 
 </details>
 
@@ -399,48 +506,80 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[75] Meta-SGD: Learning To Learn Quickly For Few Shot Learning</summary>
+<summary>[188] Revisiting Unreasonable Effectiveness Of Data In Deep Learning Era</summary>
 <br>
-<!-- (meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md) -->
+<!-- (revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md) -->
 
-# meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md
+# revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md
 
 <!-- REFERENCE -->
 
 
-[Meta-SGD: Learning To Learn Quickly For Few Shot Learning](../papers/meta_sgd_learning_to_learn_quickly_for_few_shot_learning.md)
+[Revisiting Unreasonable Effectiveness Of Data In Deep Learning Era](../papers/revisiting_unreasonable_effectiveness_of_data_in_deep_learning_era.md)
 
 </details>
 
 
 
 <details>
-<summary>[80] Dynamic Few-Shot Visual Learning Without Forgetting</summary>
+<summary>[195] [195] L.-Y. Gui, Y.-X. Wang, D. Ramanan, and J. Moura, Few-Shot Human Motion Prediction Via Meta-learning. Springer, 201</summary>
 <br>
-<!-- (dynamic_few_shot_visual_learning_without_forgetting.md) -->
+<!-- (few_shot_human_motion_prediction_via_meta_learning.md) -->
 
-# dynamic_few_shot_visual_learning_without_forgetting.md
+# few_shot_human_motion_prediction_via_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Dynamic Few-Shot Visual Learning Without Forgetting](../papers/dynamic_few_shot_visual_learning_without_forgetting.md)
+[[195] L.-Y. Gui, Y.-X. Wang, D. Ramanan, and J. Moura, Few-Shot Human Motion Prediction Via Meta-learning. Springer, 201](../papers/few_shot_human_motion_prediction_via_meta_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[194] Few-shot Object Detection Via Feature Reweighting</summary>
+<summary>[15] Imagenet Classification With Deep Convolutional Neural Networks</summary>
 <br>
-<!-- (few_shot_object_detection_via_feature_reweighting.md) -->
+<!-- (imagenet_classification_with_deep_convolutional_neural_networks.md) -->
 
-# few_shot_object_detection_via_feature_reweighting.md
+# imagenet_classification_with_deep_convolutional_neural_networks.md
 
 <!-- REFERENCE -->
 
 
-[Few-shot Object Detection Via Feature Reweighting](../papers/few_shot_object_detection_via_feature_reweighting.md)
+[Imagenet Classification With Deep Convolutional Neural Networks](../papers/imagenet_classification_with_deep_convolutional_neural_networks.md)
+
+</details>
+
+
+
+<details>
+<summary>[204] Meta-Learning For Semi-Supervised Few-Shot Classification</summary>
+<br>
+<!-- (meta_learning_for_semi_supervised_few_shot_classification.md) -->
+
+# meta_learning_for_semi_supervised_few_shot_classification.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Learning For Semi-Supervised Few-Shot Classification](../papers/meta_learning_for_semi_supervised_few_shot_classification.md)
+
+</details>
+
+
+
+<details>
+<summary>[198] Few-Shot Segmentation Propagation With Guided Networks</summary>
+<br>
+<!-- (few_shot_segmentation_propagation_with_guided_networks.md) -->
+
+# few_shot_segmentation_propagation_with_guided_networks.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Segmentation Propagation With Guided Networks](../papers/few_shot_segmentation_propagation_with_guided_networks.md)
 
 </details>
 
@@ -479,16 +618,32 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[85] Siamese Neural Networks For One-shot Image Recognition</summary>
+<summary>[200] FewShot Adversarial Learning Of Realistic Neural Talking Head Models</summary>
 <br>
-<!-- (siamese_neural_networks_for_one_shot_image_recognition.md) -->
+<!-- (fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md) -->
 
-# siamese_neural_networks_for_one_shot_image_recognition.md
+# fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md
 
 <!-- REFERENCE -->
 
 
-[Siamese Neural Networks For One-shot Image Recognition](../papers/siamese_neural_networks_for_one_shot_image_recognition.md)
+[FewShot Adversarial Learning Of Realistic Neural Talking Head Models](../papers/fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md)
+
+</details>
+
+
+
+<details>
+<summary>[98] Learning To Learn By SelfCritique</summary>
+<br>
+<!-- (learning_to_learn_by_selfcritique.md) -->
+
+# learning_to_learn_by_selfcritique.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By SelfCritique](../papers/learning_to_learn_by_selfcritique.md)
 
 </details>
 
@@ -511,224 +666,16 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[205] Defining Benchmarks For Continual Few-shot Learning</summary>
+<summary>[161] Meta-Learning With Warped Gradient Descent</summary>
 <br>
-<!-- (defining_benchmarks_for_continual_few_shot_learning.md) -->
+<!-- (meta_learning_with_warped_gradient_descent.md) -->
 
-# defining_benchmarks_for_continual_few_shot_learning.md
+# meta_learning_with_warped_gradient_descent.md
 
 <!-- REFERENCE -->
 
 
-[Defining Benchmarks For Continual Few-shot Learning](../papers/defining_benchmarks_for_continual_few_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[92] MetaReg: Towards Domain Generalization Using Meta-Regularization</summary>
-<br>
-<!-- (metareg_towards_domain_generalization_using_meta_regularization.md) -->
-
-# metareg_towards_domain_generalization_using_meta_regularization.md
-
-<!-- REFERENCE -->
-
-
-[MetaReg: Towards Domain Generalization Using Meta-Regularization](../papers/metareg_towards_domain_generalization_using_meta_regularization.md)
-
-</details>
-
-
-
-<details>
-<summary>[208] A New Benchmark For Evaluation Of Cross-Domain Few-Shot Learning</summary>
-<br>
-<!-- (a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md) -->
-
-# a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[A New Benchmark For Evaluation Of Cross-Domain Few-Shot Learning](../papers/a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[87] Learning To Compare: Relation Network For FewShot Learning</summary>
-<br>
-<!-- (learning_to_compare_relation_network_for_fewshot_learning.md) -->
-
-# learning_to_compare_relation_network_for_fewshot_learning.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Compare: Relation Network For FewShot Learning](../papers/learning_to_compare_relation_network_for_fewshot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[195] [195] L.-Y. Gui, Y.-X. Wang, D. Ramanan, and J. Moura, Few-Shot Human Motion Prediction Via Meta-learning. Springer, 201</summary>
-<br>
-<!-- (few_shot_human_motion_prediction_via_meta_learning.md) -->
-
-# few_shot_human_motion_prediction_via_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[[195] L.-Y. Gui, Y.-X. Wang, D. Ramanan, and J. Moura, Few-Shot Human Motion Prediction Via Meta-learning. Springer, 201](../papers/few_shot_human_motion_prediction_via_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[210] On The Transfer Of Inductive Bias From Simulation To The Real World: A New Disentanglement Dataset</summary>
-<br>
-<!-- (on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md) -->
-
-# on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md
-
-<!-- REFERENCE -->
-
-
-[On The Transfer Of Inductive Bias From Simulation To The Real World: A New Disentanglement Dataset](../papers/on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md)
-
-</details>
-
-
-
-<details>
-<summary>[88] Few-Shot Learning With Graph Neural Networks</summary>
-<br>
-<!-- (few_shot_learning_with_graph_neural_networks.md) -->
-
-# few_shot_learning_with_graph_neural_networks.md
-
-<!-- REFERENCE -->
-
-
-[Few-Shot Learning With Graph Neural Networks](../papers/few_shot_learning_with_graph_neural_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[1] Deep Residual Learning For Image Recognition</summary>
-<br>
-<!-- (deep_residual_learning_for_image_recognition.md) -->
-
-# deep_residual_learning_for_image_recognition.md
-
-<!-- REFERENCE -->
-
-
-[Deep Residual Learning For Image Recognition](../papers/deep_residual_learning_for_image_recognition.md)
-
-</details>
-
-
-
-<details>
-<summary>[214] SimpleShot: Revisiting Nearest-Neighbor Classification For Few-Shot Learning</summary>
-<br>
-<!-- (simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md) -->
-
-# simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md
-
-<!-- REFERENCE -->
-
-
-[SimpleShot: Revisiting Nearest-Neighbor Classification For Few-Shot Learning](../papers/simpleshot_revisiting_nearest_neighbor_classification_for_few_shot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[200] FewShot Adversarial Learning Of Realistic Neural Talking Head Models</summary>
-<br>
-<!-- (fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md) -->
-
-# fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md
-
-<!-- REFERENCE -->
-
-
-[FewShot Adversarial Learning Of Realistic Neural Talking Head Models](../papers/fewshot_adversarial_learning_of_realistic_neural_talking_head_models.md)
-
-</details>
-
-
-
-<details>
-<summary>[41] Optimization As A Model For FewShot Learning</summary>
-<br>
-<!-- (optimization_as_a_model_for_fewshot_learning.md) -->
-
-# optimization_as_a_model_for_fewshot_learning.md
-
-<!-- REFERENCE -->
-
-
-[Optimization As A Model For FewShot Learning](../papers/optimization_as_a_model_for_fewshot_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[193] Rapid Learning Or Feature Reuse? Towards Understanding The Effectiveness Of Maml</summary>
-<br>
-<!-- (rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md) -->
-
-# rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md
-
-<!-- REFERENCE -->
-
-
-[Rapid Learning Or Feature Reuse? Towards Understanding The Effectiveness Of Maml](../papers/rapid_learning_or_feature_reuse?_towards_understanding_the_effectiveness_of_maml.md)
-
-</details>
-
-
-
-<details>
-<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
-<br>
-<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
-
-# few_shot_image_recognition_by_predicting_parameters_from_activations.md
-
-<!-- REFERENCE -->
-
-
-[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
-
-</details>
-
-
-
-<details>
-<summary>[201] Few-shot Video-to-video Synthesis</summary>
-<br>
-<!-- (few_shot_video_to_video_synthesis.md) -->
-
-# few_shot_video_to_video_synthesis.md
-
-<!-- REFERENCE -->
-
-
-[Few-shot Video-to-video Synthesis](../papers/few_shot_video_to_video_synthesis.md)
+[Meta-Learning With Warped Gradient Descent](../papers/meta_learning_with_warped_gradient_descent.md)
 
 </details>
 
@@ -751,16 +698,48 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[189] Fast Context Adaptation Via Meta-learning</summary>
+<summary>[208] A New Benchmark For Evaluation Of Cross-Domain Few-Shot Learning</summary>
 <br>
-<!-- (fast_context_adaptation_via_meta_learning.md) -->
+<!-- (a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md) -->
 
-# fast_context_adaptation_via_meta_learning.md
+# a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md
 
 <!-- REFERENCE -->
 
 
-[Fast Context Adaptation Via Meta-learning](../papers/fast_context_adaptation_via_meta_learning.md)
+[A New Benchmark For Evaluation Of Cross-Domain Few-Shot Learning](../papers/a_new_benchmark_for_evaluation_of_cross_domain_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[207] Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples</summary>
+<br>
+<!-- (meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md) -->
+
+# meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md
+
+<!-- REFERENCE -->
+
+
+[Meta-Dataset: A Dataset Of Datasets For Learning To Learn From Few Examples](../papers/meta_dataset_a_dataset_of_datasets_for_learning_to_learn_from_few_examples.md)
+
+</details>
+
+
+
+<details>
+<summary>[210] On The Transfer Of Inductive Bias From Simulation To The Real World: A New Disentanglement Dataset</summary>
+<br>
+<!-- (on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md) -->
+
+# on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md
+
+<!-- REFERENCE -->
+
+
+[On The Transfer Of Inductive Bias From Simulation To The Real World: A New Disentanglement Dataset](../papers/on_the_transfer_of_inductive_bias_from_simulation_to_the_real_world_a_new_disentanglement_dataset.md)
 
 </details>
 
@@ -772,7 +751,35 @@ fair and consistent best practice for all methods
 <!-- (model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md) -->
 
 # model_agnostic_meta_learning_for_fast_adaptation_of_deep_networks.md
+## What?
+- Model-agnostic meta-learning algorithm that can adapt to every gradient-based models, including classisication, 
+regression, reinforcement leanring
+## Why?
+- To adapt to any gradient-based model
+- Solve new task quickly with a few gradient steps by learning initial weights
 
+## How?
+The algorithm is shown in the images below:
+![alt text](../images/maml.png)
+
+![alt text](../images/maml_few_shot_supervised.png)
+
+![alt text](../images/maml_rl.png)
+
+- Loss function can be any frequenly used loss function for that task.
+- MAML can maximize the sensitivity of the loss functions of new tasks with respect to the parameters.
+## Results? (What did they find?)
+- MAML can be used with any gradient-based models.
+- MAML is sensitive to change in the task, such that small changes in the parameters will produce large improvements on 
+the loss function.
+- Perform better than transfer learning in regression tasks, because they can learn the abstract over tasks.
+- State-of-the art in regression, classification, reinforcement learning 
+- Without overfitting 
+## Ideas to improve?
+- Handle the computation problem. The paper currently use approximate method.
+
+## Application ideas
+- use meta-learning to find the initial weights for any deep learning model.
 <!-- REFERENCE -->
 
 
@@ -783,32 +790,60 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[206] Learning Multiple Visual Domains With Residual Adapters</summary>
+<summary>[212] Bayesian Model-Agnostic Meta-Learning</summary>
 <br>
-<!-- (learning_multiple_visual_domains_with_residual_adapters.md) -->
+<!-- (bayesian_model_agnostic_meta_learning.md) -->
 
-# learning_multiple_visual_domains_with_residual_adapters.md
+# bayesian_model_agnostic_meta_learning.md
 
 <!-- REFERENCE -->
 
 
-[Learning Multiple Visual Domains With Residual Adapters](../papers/learning_multiple_visual_domains_with_residual_adapters.md)
+[Bayesian Model-Agnostic Meta-Learning](../papers/bayesian_model_agnostic_meta_learning.md)
 
 </details>
 
 
 
 <details>
-<summary>[199] Meta-Learning Probabilistic Inference For Prediction</summary>
+<summary>[211] Low-Shot Visual Recognition By Shrinking And Hallucinating Features</summary>
 <br>
-<!-- (meta_learning_probabilistic_inference_for_prediction.md) -->
+<!-- (low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md) -->
 
-# meta_learning_probabilistic_inference_for_prediction.md
+# low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md
 
 <!-- REFERENCE -->
 
 
-[Meta-Learning Probabilistic Inference For Prediction](../papers/meta_learning_probabilistic_inference_for_prediction.md)
+[Low-Shot Visual Recognition By Shrinking And Hallucinating Features](../papers/low_shot_visual_recognition_by_shrinking_and_hallucinating_features.md)
+
+</details>
+
+
+
+<details>
+<summary>[73] Automated Relational Meta-learning</summary>
+<br>
+<!-- (automated_relational_meta_learning.md) -->
+
+# automated_relational_meta_learning.md
+## What?
+- automated relational meta-learning (ARML) framework that automat- ically extracts the cross-task relations and constructs the meta-knowledge graph
+## Why?
+- the task heterogeneity which cannot be well handled by traditional globally shared meta-learning methods. 
+## How?
+- Propose using graph to store the meta-knowledge, this knowledge will be constructed automatically and used to extract 
+the relation information.
+![alt text](../images/arml.png)
+![alt text](../images/arml_algorithm.png)
+## Results? (What did they find?)
+- better performance compare to original MAML
+## Ideas to improve?
+- Use this graph with MAML++
+<!-- REFERENCE -->
+
+
+[Automated Relational Meta-learning](../papers/automated_relational_meta_learning.md)
 
 </details>
 
@@ -831,16 +866,112 @@ fair and consistent best practice for all methods
 
 
 <details>
-<summary>[76] How To Train Your MAML</summary>
+<summary>[110] A Closer Look At Few-Shot Classification</summary>
 <br>
-<!-- (how_to_train_your_maml.md) -->
+<!-- (a_closer_look_at_few_shot_classification.md) -->
 
-# how_to_train_your_maml.md
+# a_closer_look_at_few_shot_classification.md
 
 <!-- REFERENCE -->
 
 
-[How To Train Your MAML](../papers/how_to_train_your_maml.md)
+[A Closer Look At Few-Shot Classification](../papers/a_closer_look_at_few_shot_classification.md)
+
+</details>
+
+
+
+<details>
+<summary>[209] Does Object Recognition Work For Everyone</summary>
+<br>
+<!-- (does_object_recognition_work_for_everyone.md) -->
+
+# does_object_recognition_work_for_everyone.md
+
+<!-- REFERENCE -->
+
+
+[Does Object Recognition Work For Everyone](../papers/does_object_recognition_work_for_everyone.md)
+
+</details>
+
+
+
+<details>
+<summary>[205] Defining Benchmarks For Continual Few-shot Learning</summary>
+<br>
+<!-- (defining_benchmarks_for_continual_few_shot_learning.md) -->
+
+# defining_benchmarks_for_continual_few_shot_learning.md
+
+<!-- REFERENCE -->
+
+
+[Defining Benchmarks For Continual Few-shot Learning](../papers/defining_benchmarks_for_continual_few_shot_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[203] Imagenet Large Scale Visual Recognition Challenge</summary>
+<br>
+<!-- (imagenet_large_scale_visual_recognition_challenge.md) -->
+
+# imagenet_large_scale_visual_recognition_challenge.md
+
+<!-- REFERENCE -->
+
+
+[Imagenet Large Scale Visual Recognition Challenge](../papers/imagenet_large_scale_visual_recognition_challenge.md)
+
+</details>
+
+
+
+<details>
+<summary>[79] Few-Shot Image Recognition By Predicting Parameters From Activations</summary>
+<br>
+<!-- (few_shot_image_recognition_by_predicting_parameters_from_activations.md) -->
+
+# few_shot_image_recognition_by_predicting_parameters_from_activations.md
+
+<!-- REFERENCE -->
+
+
+[Few-Shot Image Recognition By Predicting Parameters From Activations](../papers/few_shot_image_recognition_by_predicting_parameters_from_activations.md)
+
+</details>
+
+
+
+<details>
+<summary>[165] Incremental Few-Shot Object Detection</summary>
+<br>
+<!-- (incremental_few_shot_object_detection.md) -->
+
+# incremental_few_shot_object_detection.md
+
+<!-- REFERENCE -->
+
+
+[Incremental Few-Shot Object Detection](../papers/incremental_few_shot_object_detection.md)
+
+</details>
+
+
+
+<details>
+<summary>[80] Dynamic Few-Shot Visual Learning Without Forgetting</summary>
+<br>
+<!-- (dynamic_few_shot_visual_learning_without_forgetting.md) -->
+
+# dynamic_few_shot_visual_learning_without_forgetting.md
+
+<!-- REFERENCE -->
+
+
+[Dynamic Few-Shot Visual Learning Without Forgetting](../papers/dynamic_few_shot_visual_learning_without_forgetting.md)
 
 </details>
 

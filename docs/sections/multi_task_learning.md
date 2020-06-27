@@ -6,6 +6,38 @@ Multi-Task Learning (MTL) aims to jointly learn several related tasks, and benef
 
 
 <details>
+<summary>[68] Adaptive Auxiliary Task Weighting For Reinforcement Learning</summary>
+<br>
+<!-- (adaptive_auxiliary_task_weighting_for_reinforcement_learning.md) -->
+
+# adaptive_auxiliary_task_weighting_for_reinforcement_learning.md
+
+<!-- REFERENCE -->
+
+
+[Adaptive Auxiliary Task Weighting For Reinforcement Learning](../papers/adaptive_auxiliary_task_weighting_for_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[67] Forward And Reverse Gradient-Based Hyperparameter Optimization</summary>
+<br>
+<!-- (forward_and_reverse_gradient_based_hyperparameter_optimization.md) -->
+
+# forward_and_reverse_gradient_based_hyperparameter_optimization.md
+
+<!-- REFERENCE -->
+
+
+[Forward And Reverse Gradient-Based Hyperparameter Optimization](../papers/forward_and_reverse_gradient_based_hyperparameter_optimization.md)
+
+</details>
+
+
+
+<details>
 <summary>[66] Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains</summary>
 <br>
 <!-- (modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md) -->
@@ -32,38 +64,6 @@ Multi-Task Learning (MTL) aims to jointly learn several related tasks, and benef
 
 
 [Multitask Learning](../papers/multitask_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[67] Forward And Reverse Gradient-Based Hyperparameter Optimization</summary>
-<br>
-<!-- (forward_and_reverse_gradient_based_hyperparameter_optimization.md) -->
-
-# forward_and_reverse_gradient_based_hyperparameter_optimization.md
-
-<!-- REFERENCE -->
-
-
-[Forward And Reverse Gradient-Based Hyperparameter Optimization](../papers/forward_and_reverse_gradient_based_hyperparameter_optimization.md)
-
-</details>
-
-
-
-<details>
-<summary>[68] Adaptive Auxiliary Task Weighting For Reinforcement Learning</summary>
-<br>
-<!-- (adaptive_auxiliary_task_weighting_for_reinforcement_learning.md) -->
-
-# adaptive_auxiliary_task_weighting_for_reinforcement_learning.md
-
-<!-- REFERENCE -->
-
-
-[Adaptive Auxiliary Task Weighting For Reinforcement Learning](../papers/adaptive_auxiliary_task_weighting_for_reinforcement_learning.md)
 
 </details>
 

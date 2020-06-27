@@ -4,32 +4,16 @@ Modular meta-learning [130], [131] assumes that the task agnostic knowledge ω d
 
 
 <details>
-<summary>[130] Modular Meta- ´ learning</summary>
+<summary>[66] Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains</summary>
 <br>
-<!-- (modular_meta_learning.md) -->
+<!-- (modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md) -->
 
-# modular_meta_learning.md
+# modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md
 
 <!-- REFERENCE -->
 
 
-[Modular Meta- ´ learning](../papers/modular_meta_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[131] Neu- ´ ral Relational Inference With Fast Modular Meta-learning</summary>
-<br>
-<!-- (neu_ral_relational_inference_with_fast_modular_meta_learning.md) -->
-
-# neu_ral_relational_inference_with_fast_modular_meta_learning.md
-
-<!-- REFERENCE -->
-
-
-[Neu- ´ ral Relational Inference With Fast Modular Meta-learning](../papers/neu_ral_relational_inference_with_fast_modular_meta_learning.md)
+[Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains](../papers/modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md)
 
 </details>
 
@@ -52,22 +36,6 @@ Modular meta-learning [130], [131] assumes that the task agnostic knowledge ω d
 
 
 <details>
-<summary>[66] Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains</summary>
-<br>
-<!-- (modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md) -->
-
-# modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md
-
-<!-- REFERENCE -->
-
-
-[Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains](../papers/modular_universal_reparameterization_deep_multi_task_learning_across_diverse_domains.md)
-
-</details>
-
-
-
-<details>
 <summary>[65] Deep Multi-Task Representation Learning: A Tensor Factorisation Approach</summary>
 <br>
 <!-- (deep_multi_task_representation_learning_a_tensor_factorisation_approach.md) -->
@@ -78,6 +46,38 @@ Modular meta-learning [130], [131] assumes that the task agnostic knowledge ω d
 
 
 [Deep Multi-Task Representation Learning: A Tensor Factorisation Approach](../papers/deep_multi_task_representation_learning_a_tensor_factorisation_approach.md)
+
+</details>
+
+
+
+<details>
+<summary>[131] Neu- ´ ral Relational Inference With Fast Modular Meta-learning</summary>
+<br>
+<!-- (neu_ral_relational_inference_with_fast_modular_meta_learning.md) -->
+
+# neu_ral_relational_inference_with_fast_modular_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Neu- ´ ral Relational Inference With Fast Modular Meta-learning](../papers/neu_ral_relational_inference_with_fast_modular_meta_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[130] Modular Meta- ´ learning</summary>
+<br>
+<!-- (modular_meta_learning.md) -->
+
+# modular_meta_learning.md
+
+<!-- REFERENCE -->
+
+
+[Modular Meta- ´ learning](../papers/modular_meta_learning.md)
 
 </details>
 

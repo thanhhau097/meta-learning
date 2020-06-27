@@ -7,22 +7,6 @@
 
 
 <details>
-<summary>[274] Measuring Abstract Reasoning In Neural Networks</summary>
-<br>
-<!-- (measuring_abstract_reasoning_in_neural_networks.md) -->
-
-# measuring_abstract_reasoning_in_neural_networks.md
-
-<!-- REFERENCE -->
-
-
-[Measuring Abstract Reasoning In Neural Networks](../papers/measuring_abstract_reasoning_in_neural_networks.md)
-
-</details>
-
-
-
-<details>
 <summary>[276] Compositional Generalization Through Meta Sequence-to-sequence Learning</summary>
 <br>
 <!-- (compositional_generalization_through_meta_sequence_to_sequence_learning.md) -->
@@ -49,6 +33,22 @@
 
 
 [Abstract Reasoning With Distracting Features](../papers/abstract_reasoning_with_distracting_features.md)
+
+</details>
+
+
+
+<details>
+<summary>[274] Measuring Abstract Reasoning In Neural Networks</summary>
+<br>
+<!-- (measuring_abstract_reasoning_in_neural_networks.md) -->
+
+# measuring_abstract_reasoning_in_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Measuring Abstract Reasoning In Neural Networks](../papers/measuring_abstract_reasoning_in_neural_networks.md)
 
 </details>
 

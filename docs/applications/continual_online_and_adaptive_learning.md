@@ -29,6 +29,22 @@ another interesting idea is meta-training representations to support local editi
 
 
 <details>
+<summary>[254] Editable Neural Networks</summary>
+<br>
+<!-- (editable_neural_networks.md) -->
+
+# editable_neural_networks.md
+
+<!-- REFERENCE -->
+
+
+[Editable Neural Networks](../papers/editable_neural_networks.md)
+
+</details>
+
+
+
+<details>
 <summary>[63] Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning</summary>
 <br>
 <!-- (learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md) -->
@@ -39,6 +55,30 @@ another interesting idea is meta-training representations to support local editi
 
 
 [Learning To Adapt In Dynamic, RealWorld Environments Through Meta-Reinforcement Learning](../papers/learning_to_adapt_in_dynamic_realworld_environments_through_meta_reinforcement_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
+<br>
+<!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
+
+# continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md
+## What?
+Apply meta-learning in Reinforcement Learning (have not read)
+## Why?
+
+## How?
+
+## Results? (What did they find?)
+
+## Ideas to improve?
+<!-- REFERENCE -->
+
+
+[Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
 
 </details>
 
@@ -61,22 +101,6 @@ another interesting idea is meta-training representations to support local editi
 
 
 <details>
-<summary>[160] Meta Continual Learning</summary>
-<br>
-<!-- (meta_continual_learning.md) -->
-
-# meta_continual_learning.md
-
-<!-- REFERENCE -->
-
-
-[Meta Continual Learning](../papers/meta_continual_learning.md)
-
-</details>
-
-
-
-<details>
 <summary>[161] Meta-Learning With Warped Gradient Descent</summary>
 <br>
 <!-- (meta_learning_with_warped_gradient_descent.md) -->
@@ -93,48 +117,16 @@ another interesting idea is meta-training representations to support local editi
 
 
 <details>
-<summary>[128] Incremental Few-shot Learning With Attention Attractor Networks</summary>
+<summary>[160] Meta Continual Learning</summary>
 <br>
-<!-- (incremental_few_shot_learning_with_attention_attractor_networks.md) -->
+<!-- (meta_continual_learning.md) -->
 
-# incremental_few_shot_learning_with_attention_attractor_networks.md
+# meta_continual_learning.md
 
 <!-- REFERENCE -->
 
 
-[Incremental Few-shot Learning With Attention Attractor Networks](../papers/incremental_few_shot_learning_with_attention_attractor_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[253] Meta-learning Representations For Continual Learning</summary>
-<br>
-<!-- (meta_learning_representations_for_continual_learning.md) -->
-
-# meta_learning_representations_for_continual_learning.md
-
-<!-- REFERENCE -->
-
-
-[Meta-learning Representations For Continual Learning](../papers/meta_learning_representations_for_continual_learning.md)
-
-</details>
-
-
-
-<details>
-<summary>[61] Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments</summary>
-<br>
-<!-- (continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md) -->
-
-# continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md
-
-<!-- REFERENCE -->
-
-
-[Continuous Adaptation Via Meta-Learning In Nonstationary And Competitive Environments](../papers/continuous_adaptation_via_meta_learning_in_nonstationary_and_competitive_environments.md)
+[Meta Continual Learning](../papers/meta_continual_learning.md)
 
 </details>
 
@@ -157,16 +149,32 @@ another interesting idea is meta-training representations to support local editi
 
 
 <details>
-<summary>[254] Editable Neural Networks</summary>
+<summary>[253] Meta-learning Representations For Continual Learning</summary>
 <br>
-<!-- (editable_neural_networks.md) -->
+<!-- (meta_learning_representations_for_continual_learning.md) -->
 
-# editable_neural_networks.md
+# meta_learning_representations_for_continual_learning.md
 
 <!-- REFERENCE -->
 
 
-[Editable Neural Networks](../papers/editable_neural_networks.md)
+[Meta-learning Representations For Continual Learning](../papers/meta_learning_representations_for_continual_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[128] Incremental Few-shot Learning With Attention Attractor Networks</summary>
+<br>
+<!-- (incremental_few_shot_learning_with_attention_attractor_networks.md) -->
+
+# incremental_few_shot_learning_with_attention_attractor_networks.md
+
+<!-- REFERENCE -->
+
+
+[Incremental Few-shot Learning With Attention Attractor Networks](../papers/incremental_few_shot_learning_with_attention_attractor_networks.md)
 
 </details>
 

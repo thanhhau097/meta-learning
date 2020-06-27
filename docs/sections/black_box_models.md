@@ -9,16 +9,72 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[105] One-shot Imitation Learning</summary>
+<summary>[81] Neural Turing Machines</summary>
 <br>
-<!-- (one_shot_imitation_learning.md) -->
+<!-- (neural_turing_machines.md) -->
 
-# one_shot_imitation_learning.md
+# neural_turing_machines.md
+## What?
+- Neural Network Turing Machine 
+- differentiable end-to- end, allowing it to be efficiently trained with gradient descent
+## Why?
+- intergrate the memory into neural network
+## How?
+(read the paper)
+## Results? (What did they find?)
+- better than LSTM in some task such as: copy, recall, sorting,...
+## Ideas to improve?
+<!-- REFERENCE -->
+
+
+[Neural Turing Machines](../papers/neural_turing_machines.md)
+
+</details>
+
+
+
+<details>
+<summary>[107] HyperNetworks</summary>
+<br>
+<!-- (hypernetworks.md) -->
+
+# hypernetworks.md
 
 <!-- REFERENCE -->
 
 
-[One-shot Imitation Learning](../papers/one_shot_imitation_learning.md)
+[HyperNetworks](../papers/hypernetworks.md)
+
+</details>
+
+
+
+<details>
+<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
+<br>
+<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
+
+# learning_to_learn_by_gradient_descent_by_gradient_descent.md
+## What?
+- Design an optimization algorithm by using LSTM, compare to hand-designed ones such as Adam, SGD, ...
+## Why?
+- Automatically design an optimization algorithm
+## How?
+- Design new update rule using RNN: 
+
+<img src="https://render.githubusercontent.com/render/math?math=\theta_{t+1}=\theta_{t}+g_{t}\left(\nabla f\left(\theta_{t}\right), \phi\right)">
+
+![alt text](../images/lstm_optimizer.png)
+## Results? (What did they find?)
+- The found optimizer is more effective than all optimizers and the optimizer can be used in other problem such as classifications, 
+regression, style transfer, etc.
+## Ideas to improve?
+- Use the idea of changing the update rule in other framework, such as MAML
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
 
 </details>
 
@@ -41,16 +97,78 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[83] Meta Networks</summary>
+<summary>[109] Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables</summary>
 <br>
-<!-- (meta_networks.md) -->
+<!-- (efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md) -->
 
-# meta_networks.md
+# efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md
 
 <!-- REFERENCE -->
 
 
-[Meta Networks](../papers/meta_networks.md)
+[Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables](../papers/efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md)
+
+</details>
+
+
+
+<details>
+<summary>[105] One-shot Imitation Learning</summary>
+<br>
+<!-- (one_shot_imitation_learning.md) -->
+
+# one_shot_imitation_learning.md
+
+<!-- REFERENCE -->
+
+
+[One-shot Imitation Learning](../papers/one_shot_imitation_learning.md)
+
+</details>
+
+
+
+<details>
+<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<br>
+<!-- (a_simple_neural_attentive_meta_learner.md) -->
+
+# a_simple_neural_attentive_meta_learner.md
+## What?
+- A meta-learner architecture that use a novel combination of temporal convolutions and soft attention; the former to aggregate information from past experience and the latter to pinpoint specific pieces of information.
+## Why?
+- Handle the problems: architectures specialized to a particular application, or hard-coding algorithmic components that constrain how the meta-learner solves the task
+## How?
+![alt text](../images/snail.png)
+![alt text](../images/snail_dense.png)
+![alt text](../images/snail_tc_attention.png)
+## Results? (What did they find?)
+- Effective black-box using self attention 
+- Note:
+    - trained the SNAIL on episodes where the number of shots K was chosen uniformly at random from 1 to 5 (note that this is unlike prior works, who train separate models for each shot)
+    - complicated architecture, not sure that can compare with original MAML
+## Ideas to improve?
+
+<!-- REFERENCE -->
+
+
+[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
+
+</details>
+
+
+
+<details>
+<summary>[51] Learning To Learn Using Gradient Descent</summary>
+<br>
+<!-- (learning_to_learn_using_gradient_descent.md) -->
+
+# learning_to_learn_using_gradient_descent.md
+
+<!-- REFERENCE -->
+
+
+[Learning To Learn Using Gradient Descent](../papers/learning_to_learn_using_gradient_descent.md)
 
 </details>
 
@@ -78,43 +196,22 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 <!-- (meta_learning_with_memory_augmented_neural_networks.md) -->
 
 # meta_learning_with_memory_augmented_neural_networks.md
-
+## What?
+- A memory-augmented neural network that can use the external memory to store the knowledge
+## Why?
+- Almost neural network just stores the internal memory, such as RNN, LSTM, etc.
+## How?
+- Incorporate Neural Turing Machine 
+- Use Least Recently Used Access to write to memory, which can emphasize a conjunctive coding of information independent of sequence.
+![alt text](../images/mann.png)
+## Results? (What did they find?)
+- Useful for few-shot learning problem
+- Use external memory for neural network
+## Ideas to improve?
 <!-- REFERENCE -->
 
 
 [Meta Learning With Memory-Augmented Neural Networks](../papers/meta_learning_with_memory_augmented_neural_networks.md)
-
-</details>
-
-
-
-<details>
-<summary>[106] Learning To Reinforcement Learn</summary>
-<br>
-<!-- (learning_to_reinforcement_learn.md) -->
-
-# learning_to_reinforcement_learn.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Reinforcement Learn](../papers/learning_to_reinforcement_learn.md)
-
-</details>
-
-
-
-<details>
-<summary>[81] Neural Turing Machines</summary>
-<br>
-<!-- (neural_turing_machines.md) -->
-
-# neural_turing_machines.md
-
-<!-- REFERENCE -->
-
-
-[Neural Turing Machines](../papers/neural_turing_machines.md)
 
 </details>
 
@@ -137,48 +234,16 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[51] Learning To Learn Using Gradient Descent</summary>
+<summary>[83] Meta Networks</summary>
 <br>
-<!-- (learning_to_learn_using_gradient_descent.md) -->
+<!-- (meta_networks.md) -->
 
-# learning_to_learn_using_gradient_descent.md
+# meta_networks.md
 
 <!-- REFERENCE -->
 
 
-[Learning To Learn Using Gradient Descent](../papers/learning_to_learn_using_gradient_descent.md)
-
-</details>
-
-
-
-<details>
-<summary>[107] HyperNetworks</summary>
-<br>
-<!-- (hypernetworks.md) -->
-
-# hypernetworks.md
-
-<!-- REFERENCE -->
-
-
-[HyperNetworks](../papers/hypernetworks.md)
-
-</details>
-
-
-
-<details>
-<summary>[109] Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables</summary>
-<br>
-<!-- (efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md) -->
-
-# efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md
-
-<!-- REFERENCE -->
-
-
-[Efficient Off-Policy Meta-Reinforcement Learning Via Probabilistic Context Variables](../papers/efficient_off_policy_meta_reinforcement_learning_via_probabilistic_context_variables.md)
+[Meta Networks](../papers/meta_networks.md)
 
 </details>
 
@@ -201,32 +266,16 @@ and slow weights (trained with REINFORCE across tasks) to access memory. We note
 
 
 <details>
-<summary>[40] A Simple Neural Attentive Meta-learner</summary>
+<summary>[106] Learning To Reinforcement Learn</summary>
 <br>
-<!-- (a_simple_neural_attentive_meta_learner.md) -->
+<!-- (learning_to_reinforcement_learn.md) -->
 
-# a_simple_neural_attentive_meta_learner.md
+# learning_to_reinforcement_learn.md
 
 <!-- REFERENCE -->
 
 
-[A Simple Neural Attentive Meta-learner](../papers/a_simple_neural_attentive_meta_learner.md)
-
-</details>
-
-
-
-<details>
-<summary>[78] Learning To Learn By Gradient Descent By Gradient Descent</summary>
-<br>
-<!-- (learning_to_learn_by_gradient_descent_by_gradient_descent.md) -->
-
-# learning_to_learn_by_gradient_descent_by_gradient_descent.md
-
-<!-- REFERENCE -->
-
-
-[Learning To Learn By Gradient Descent By Gradient Descent](../papers/learning_to_learn_by_gradient_descent_by_gradient_descent.md)
+[Learning To Reinforcement Learn](../papers/learning_to_reinforcement_learn.md)
 
 </details>
 
